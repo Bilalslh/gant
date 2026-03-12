@@ -56,7 +56,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#47c1b6",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -66,8 +66,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/VISIORA_OTTICA_12.png",
+        "logo_max_width": 200,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
