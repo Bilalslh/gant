@@ -285,6 +285,59 @@
         "spacing": "small"
       }
     },
+    "faq_tPbMK8": {
+      "type": "faq",
+      "blocks": {
+        "item_YVBK3b": {
+          "type": "item",
+          "settings": {
+            "title": "Le gant fonctionne-t-il sur tous les types de poils ?",
+            "content": "<p>Oui ! Il est efficace aussi bien sur les poils courts que longs, des chiens, chats et autres animaux domestiques.</p>"
+          }
+        },
+        "item_VMYjzy": {
+          "type": "item",
+          "settings": {
+            "title": "Convient-il aussi aux surfaces délicates comme les tissus du canapé ou les vêtements ?",
+            "content": "<p>Absolument. Les fibres sont douces et ne rayent pas les surfaces.</p>"
+          }
+        },
+        "item_87wTnX": {
+          "type": "item",
+          "settings": {
+            "title": "Comment nettoyer le gant après utilisation ?",
+            "content": "<p>Vous pouvez simplement le rincer sous l’eau ou le laver avec un peu de savon neutre. Il sèche rapidement à l’air libre.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_YVBK3b",
+        "item_VMYjzy",
+        "item_87wTnX"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>SI votre question ne figure pas ci-dessous, contactez nous : contact@myfelino.com</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Notre service client est disponible de : 9h à 19h.",
+        "answer_time": "Temps de réponse: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "testimonials_XnWKfi": {
       "type": "testimonials",
       "blocks": {
@@ -380,59 +433,6 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
-    },
-    "faq_tPbMK8": {
-      "type": "faq",
-      "blocks": {
-        "item_YVBK3b": {
-          "type": "item",
-          "settings": {
-            "title": "Le gant fonctionne-t-il sur tous les types de poils ?",
-            "content": "<p>Oui ! Il est efficace aussi bien sur les poils courts que longs, des chiens, chats et autres animaux domestiques.</p>"
-          }
-        },
-        "item_VMYjzy": {
-          "type": "item",
-          "settings": {
-            "title": "Convient-il aussi aux surfaces délicates comme les tissus du canapé ou les vêtements ?",
-            "content": "<p>Absolument. Les fibres sont douces et ne rayent pas les surfaces.</p>"
-          }
-        },
-        "item_87wTnX": {
-          "type": "item",
-          "settings": {
-            "title": "Comment nettoyer le gant après utilisation ?",
-            "content": "<p>Vous pouvez simplement le rincer sous l’eau ou le laver avec un peu de savon neutre. Il sèche rapidement à l’air libre.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_YVBK3b",
-        "item_VMYjzy",
-        "item_87wTnX"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>SI votre question ne figure pas ci-dessous, contactez nous : contact@myfelino.com</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Notre service client est disponible de : 9h à 19h.",
-        "answer_time": "Temps de réponse: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
     }
   },
   "order": [
@@ -440,7 +440,7 @@
     "multi_column_GAFW4b",
     "media_with_text_f9wgE7",
     "media_with_text_eJQMRb",
-    "testimonials_XnWKfi",
-    "faq_tPbMK8"
+    "faq_tPbMK8",
+    "testimonials_XnWKfi"
   ]
 }
