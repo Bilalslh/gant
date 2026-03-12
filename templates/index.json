@@ -18,6 +18,12 @@
             "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n</style>\n\n<span class=\"main-title\"><style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n</style>\n\n<span class=\"main-title\">MyFelino™ – Gant Anti-Poils Réutilisable & Écologique\n<style>\n  .main-title {\n    display: inline-block;\n    font-size: 26px;\n    font-weight: 600;\n    font-family: 'Barlow', sans-serif;\n    color: #000;\n    cursor: default;\n    vertical-align: middle;\n  }\n</style>\n<style>\n  .main-title {\n    display: inline-block;\n    font-size: 26px;\n    font-weight: 600;\n    font-family: 'Barlow', sans-serif;\n    color: #000;\n    cursor: default;\n    vertical-align: middle;\n  }\n</style>"
           }
         },
+        "liquid_dcQCcr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .beneficios-myfelino {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n\n<div class=\"beneficios-myfelino\">\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Un chez-soi toujours propre</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Des vêtements sans poils</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Un geste simple, un vrai soulagement</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Plus de sérénité au quotidien</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Un choix doux et responsable</p>\n  </div>\n\n</div>"
+          }
+        },
         "liquid_egqBjU": {
           "type": "liquid",
           "settings": {
@@ -100,6 +106,7 @@
       },
       "block_order": [
         "liquid_VQGPE4",
+        "liquid_dcQCcr",
         "liquid_egqBjU",
         "buy_buttons_eHEQCU",
         "liquid_DVDybm",
