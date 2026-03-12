@@ -15,7 +15,7 @@
         "liquid_VQGPE4": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n</style>\n\n<span class=\"main-title\"><style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n</style>\n\n<span class=\"main-title\">MyFelino™ – Gant Anti-Poils Réutilisable & Écologique\n<style>\n  .main-title {\n    display: inline-block;\n    font-size: 26px;\n    font-weight: 600;\n    font-family: 'Barlow', sans-serif;\n    color: #000;\n    cursor: default;\n    vertical-align: middle;\n  }\n</style>\n<style>\n  .main-title {\n    display: inline-block;\n    font-size: 26px;\n    font-weight: 600;\n    font-family: 'Barlow', sans-serif;\n    color: #000;\n    cursor: default;\n    vertical-align: middle;\n  }\n</style>"
+            "liquid": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');\n\n.main-title {\n  display: inline-block;\n  font-size: 26px;\n  font-weight: 700; /* Barlow Bold */\n  font-family: 'Barlow', sans-serif;\n  color: #000000;\n  cursor: default;\n  vertical-align: middle;\n}\n</style>\n\n<span class=\"main-title\">\nMyFelino™ – Gant Anti-Poils Réutilisable & Écologique\n</span>"
           }
         },
         "liquid_dcQCcr": {
