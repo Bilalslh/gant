@@ -207,11 +207,74 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "multi_column_GAFW4b": {
+      "type": "multi-column",
+      "blocks": {
+        "item_HYTrYi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1621_1.webp",
+            "column_size": "3",
+            "title": "Marie R.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>« J’ai un chat qui laisse des poils partout et j’ai enfin trouvé quelque chose qui fonctionne vraiment ! Avec ce gant, j’arrive à tout nettoyer en un instant, sans effort. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_K44BER": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1624_1.webp",
+            "column_size": "3",
+            "title": "Elise M.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>« Très facile à utiliser et vraiment pratique. Je l’utilise aussi pour enlever les poils sur les sièges de la voiture, le résultat est impeccable ! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rWKRYE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1607_1.webp",
+            "column_size": "3",
+            "title": "Julie T.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>« Excellent produit ! Il enlève très bien les poils et se lave facilement. Un indispensable pour ceux qui ont des animaux à la maison ! »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_HYTrYi",
+        "item_K44BER",
+        "item_rWKRYE"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "featured_product_9T4DdL",
     "media_with_text_f9wgE7",
-    "media_with_text_eJQMRb"
+    "media_with_text_eJQMRb",
+    "multi_column_GAFW4b"
   ]
 }
