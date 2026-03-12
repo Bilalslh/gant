@@ -14,14 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "content": "<p>Du lundi au vendredi de 9h à 19h et le samedi de 9h à 14h.</p><p>Nous contacter: contact@myfelino.com</p>",
-            "enable_follow_on_shop": false
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -29,11 +21,19 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "content": "<p>Du lundi au vendredi de 9h à 19h et le samedi de 9h à 14h.</p><p>Nous contacter: contact@myfelino.com</p>",
+            "enable_follow_on_shop": false
+          }
         }
       },
       "block_order": [
-        "text",
-        "links"
+        "links",
+        "text"
       ],
       "settings": {
         "show_social_media": true,
