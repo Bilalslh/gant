@@ -48,7 +48,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#000000",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -285,6 +285,102 @@
         "spacing": "small"
       }
     },
+    "testimonials_XnWKfi": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_4w7hRT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sophie L.",
+            "title": "\"Fini les poils sur le canapé et les pulls noirs !\"",
+            "content": "<p>J’étais à deux doigts d’interdire le canapé à mon chat tellement il y en avait partout... Ce gant a tout changé. Je passe un coup rapide et c’est propre.</p>"
+          }
+        },
+        "testimonial_czzcpJ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Marion T.",
+            "title": "\"Un vrai gain de temps au quotidien\"",
+            "content": "<p>Avant je passais 15 minutes avec un rouleau pour un résultat bof. Avec ce gant, en 2 minutes tout est propre. Canapé, manteaux, coussins… il fait tout.</p>"
+          }
+        },
+        "testimonial_KUTPcn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "David L.",
+            "title": "\"Enfin une solution qui fonctionne vraiment\"",
+            "content": "<p>J’ai essayé plein de trucs pour enlever les poils, mais rien d’aussi simple et efficace. Ce gant attrape tout</p>"
+          }
+        },
+        "testimonial_aq9Vme": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Élodie M.",
+            "title": "\"Mes vêtements ne sont plus couverts de poils\"",
+            "content": "<p>Je porte souvent du noir, et avec mon chat c’était la galère. Depuis que j’ai ce gant, je pars au boulot tranquille, sans passer par la case rouleau.</p>"
+          }
+        },
+        "testimonial_jTJLGQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Kevin B.",
+            "title": "\"Le gant est devenu mon réflexe du matin\"",
+            "content": "<p>Un coup sur le lit, un coup sur le plaid, et je suis tranquille. Il se nettoie facilement sous l’eau et sèche vite.</p>"
+          }
+        },
+        "testimonial_7EEAbi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Claire F.",
+            "title": "\"Simple, rapide et ça marche\"",
+            "content": "<p>Pas besoin d’électricité, pas besoin de recharge. Ce gant fait exactement ce qu’on attend de lui, et franchement, il tient ses promesses.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_4w7hRT",
+        "testimonial_czzcpJ",
+        "testimonial_KUTPcn",
+        "testimonial_aq9Vme",
+        "testimonial_jTJLGQ",
+        "testimonial_7EEAbi"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "faq_tPbMK8": {
       "type": "faq",
       "blocks": {
@@ -337,102 +433,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "testimonials_3eVNx6": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_p9Tn8F": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sophie S.",
-            "title": "\"Fini les poils sur le canapé et les pulls noirs !\"",
-            "content": "<p>J’étais à deux doigts d’interdire le canapé à mon chat tellement il y en avait partout... Ce gant a tout changé. Je passe un coup rapide et c’est propre.</p>"
-          }
-        },
-        "testimonial_LBHtty": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Marion T.",
-            "title": "\"Un vrai gain de temps au quotidien\"",
-            "content": "<p>Avant je passais 15 minutes avec un rouleau pour un résultat bof. Avec ce gant, en 2 minutes tout est propre. Canapé, manteaux, coussins… il fait tout.</p>"
-          }
-        },
-        "testimonial_wTBJXF": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "David L.",
-            "title": "\"Enfin une solution qui fonctionne vraiment\"",
-            "content": "<p>J’ai essayé plein de trucs pour enlever les poils, mais rien d’aussi simple et efficace. Ce gant attrape tout sans effort, je l’adore !</p>"
-          }
-        },
-        "testimonial_6E8PfQ": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Elodie M.",
-            "title": "\"Mes vêtements ne sont plus couverts de poils\"",
-            "content": "<p>Je porte souvent du noir, et avec mon chat c’était la galère. Depuis que j’ai ce gant, je pars au boulot tranquille, sans passer par la case rouleau.</p>"
-          }
-        },
-        "testimonial_YTDCyt": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Kevin B.",
-            "title": "\"Le gant est devenu mon réflexe du matin\"",
-            "content": "<p>Un coup sur le lit, un coup sur le plaid, et je suis tranquille. Il se nettoie facilement sous l’eau et sèche vite. Ultra pratique.</p>"
-          }
-        },
-        "testimonial_XCmptT": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Claire F.",
-            "title": "\"Simple, rapide et ça marche\"",
-            "content": "<p>Pas besoin d’électricité, pas besoin de recharge. Ce gant fait exactement ce qu’on attend de lui, et franchement, il tient ses promesses.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_p9Tn8F",
-        "testimonial_LBHtty",
-        "testimonial_wTBJXF",
-        "testimonial_6E8PfQ",
-        "testimonial_YTDCyt",
-        "testimonial_XCmptT"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -440,7 +440,7 @@
     "multi_column_GAFW4b",
     "media_with_text_f9wgE7",
     "media_with_text_eJQMRb",
-    "faq_tPbMK8",
-    "testimonials_3eVNx6"
+    "testimonials_XnWKfi",
+    "faq_tPbMK8"
   ]
 }
