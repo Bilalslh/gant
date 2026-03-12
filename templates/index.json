@@ -60,6 +60,36 @@
             "content": "<p>Dimensions : 23 × 17 cm (longueur × largeur)</p><p>Poids : 55 g </p><p>Matériaux : Polypropylène (coque extérieure), maille respirante et surface intérieure électrostatique</p><p>Utilisation : Adapté aux poils courts, longs et épais. Idéal pour les chats comme pour les chiens.</p>",
             "page": ""
           }
+        },
+        "collapsible_text_8Nww6m": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison gratuite",
+            "content": "<ul><li>Expédition sous <strong>1 à 2 jours ouvrables</strong></li><li>Livraison gratuite avec numéro de suivi<br/></li></ul><p>Dès que votre commande est expédiée, vous recevez un courriel contenant le lien de suivi.</p><p>Vous êtes informé à chaque étape jusqu’à la livraison à votre domicile.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_pC3T8C": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service à la clientèle est disponible <strong>7 jours sur 7</strong>.</p><p>Vous pouvez nous joindre à tout moment :</p><ul><li>via la section <strong>Contact</strong> de notre boutique<br/></li><li>ou par courriel à l’adresse suivante : <a><strong>contact@visioraoptic.com</strong></a></li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_j6N9fV": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Si vous n'êtes pas satisfait vous serez  remboursé dans un délai de 30 jours.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -68,7 +98,10 @@
         "buy_buttons_eHEQCU",
         "liquid_DVDybm",
         "collapsible_text_BXtdJJ",
-        "collapsible_text_iAxxRA"
+        "collapsible_text_iAxxRA",
+        "collapsible_text_8Nww6m",
+        "collapsible_text_pC3T8C",
+        "collapsible_text_j6N9fV"
       ],
       "name": "Featured product",
       "settings": {
