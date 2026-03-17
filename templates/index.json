@@ -287,16 +287,16 @@
             "liquid": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');\n\n.main-title {\n  display: inline-block;\n  font-size: 26px;\n  font-weight: 700; /* Barlow Bold */\n  font-family: 'Barlow', sans-serif;\n  color: #000000;\n  cursor: default;\n  vertical-align: middle;\n}\n</style>\n\n<span class=\"main-title\">\nMYFELINO® Razor\n</span>"
           }
         },
-        "liquid_dcQCcr": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .beneficios-myfelino {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n\n<div class=\"beneficios-myfelino\">\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Un chez-soi toujours propre</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Des vêtements sans poils</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Un geste simple, un vrai soulagement</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Plus de sérénité au quotidien</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#2EC4B6\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Un choix doux et responsable</p>\n  </div>\n\n</div>"
-          }
-        },
         "liquid_egqBjU": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 14px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 14px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock remaining: 3 units</div>\n</div>"
+          }
+        },
+        "liquid_dcQCcr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .beneficios-myfelino {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n\n<div class=\"beneficios-myfelino\">\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#F9BCB5\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Finally say goodbye to ingrown hairs</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#F9BCB5\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Enjoy soft and smooth skin from the very first use</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#F9BCB5\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">No more cuts, no more stress before shaving</p>\n  </div>\n\n</div>"
           }
         },
         "buy_buttons_eHEQCU": {
@@ -376,8 +376,8 @@
       "block_order": [
         "liquid_tpwNNR",
         "liquid_VQGPE4",
-        "liquid_dcQCcr",
         "liquid_egqBjU",
+        "liquid_dcQCcr",
         "buy_buttons_eHEQCU",
         "liquid_DVDybm",
         "liquid_KXRRXK",
