@@ -546,6 +546,44 @@
     "multi_column_9TxU6j": {
       "type": "multi-column",
       "blocks": {
+        "item_kVezE3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_57PM.png",
+            "column_size": "3",
+            "title": "Emma J.",
+            "heading_tag": "h4",
+            "content": "<p>\"I have sensitive skin and I always got irritation that itched terribly with my disposable razors, and this had been going on for years. With Myfelino, it doesn't happen at all anymore – a really great discovery that I recommend.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zLTiG6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_00PM.png",
+            "column_size": "3",
+            "title": "Lauren D.",
+            "heading_tag": "h4",
+            "content": "<p>\"For those wondering, it's not painful! In just one shave, I felt like I'd got smooth skin back like never before. No more redness, no more ingrown hairs, and a softness that lasts. I'm thrilled.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BcwKc3": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Lucy C.",
+            "heading_tag": "h4",
+            "content": "<p>\"I've always had very sensitive skin in that area, between ingrown hairs and red marks… Now it's gentle, clean, with no reaction at all.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_pRgHnw": {
           "type": "item",
           "settings": {
@@ -587,6 +625,9 @@
         }
       },
       "block_order": [
+        "item_kVezE3",
+        "item_zLTiG6",
+        "item_BcwKc3",
         "item_pRgHnw",
         "item_h7jnm7",
         "item_k77TJG"
