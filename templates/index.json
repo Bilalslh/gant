@@ -284,7 +284,7 @@
         "liquid_VQGPE4": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');\n\n.main-title {\n  display: inline-block;\n  font-size: 26px;\n  font-weight: 700; /* Barlow Bold */\n  font-family: 'Barlow', sans-serif;\n  color: #000000;\n  cursor: default;\n  vertical-align: middle;\n}\n</style>\n\n<span class=\"main-title\">\nMyFelino™ – Gant Anti-Poils Réutilisable & Écologique\n</span>"
+            "liquid": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');\n\n.main-title {\n  display: inline-block;\n  font-size: 26px;\n  font-weight: 700; /* Barlow Bold */\n  font-family: 'Barlow', sans-serif;\n  color: #000000;\n  cursor: default;\n  vertical-align: middle;\n}\n</style>\n\n<span class=\"main-title\">\nMYFELINO® Razor\n</span>"
           }
         },
         "liquid_dcQCcr": {
