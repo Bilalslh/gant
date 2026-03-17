@@ -25,6 +25,65 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_dynfiG": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_MBYKfr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/elle-logo-png_seeklogo-251986.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_aBYfJi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_ahCMdV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 110,
+            "link": ""
+          }
+        },
+        "logo_ep7Mbw": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_MBYKfr",
+        "logo_aBYfJi",
+        "logo_ahCMdV",
+        "logo_ep7Mbw"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "They're talking about us",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
     "featured_product_9T4DdL": {
       "type": "featured-product",
       "blocks": {
@@ -445,6 +504,7 @@
   },
   "order": [
     "image_with_text_overlay_86M6tV",
+    "logo_list_dynfiG",
     "featured_product_9T4DdL",
     "multi_column_GAFW4b",
     "media_with_text_f9wgE7",
