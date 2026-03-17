@@ -84,6 +84,48 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_WxxxFX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hgQ8hT": {
+          "type": "heading",
+          "settings": {
+            "text": "Why choose the Myfelino razor?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hgQ8hT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_ecCKbD": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_13PM.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured_product_9T4DdL": {
       "type": "featured-product",
       "blocks": {
@@ -500,16 +542,81 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "multi_column_9TxU6j": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pRgHnw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_38PM.png",
+            "column_size": "3",
+            "title": "Sarah B.",
+            "heading_tag": "h4",
+            "content": "<p>\"I no longer feel obligated to think about shaving every day. I do a quick touch-up when I have time – it's actually become pleasant to shave.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_h7jnm7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_32PM.png",
+            "column_size": "3",
+            "title": "Emily D.",
+            "heading_tag": "h4",
+            "content": "<p>\"I've always had very visible hair under my chin and on my neck, and it was a real daily struggle. Even when I shaved, it left dark spots or grew back by the next day. Since I've been using the Myfelino 2-in-1 trimmer, it's like night and day! My skin is smooth, no more marks, and the regrowth has seriously slowed down. I feel like a new person – I finally dare to go out without a scarf or foundation to cover up.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_k77TJG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_44PM.png",
+            "column_size": "3",
+            "title": "Rachel Q.",
+            "heading_tag": "h4",
+            "content": "<p>\"I just wanted an effective razor, but I got so much more!! I don't order online much, but I'm honestly blown away. Instant smoothness, and my skin stays clear for several days. Totally approved!\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pRgHnw",
+        "item_h7jnm7",
+        "item_k77TJG"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_86M6tV",
     "logo_list_dynfiG",
+    "rich_text_WxxxFX",
+    "image_with_text_overlay_ecCKbD",
     "featured_product_9T4DdL",
     "multi_column_GAFW4b",
     "media_with_text_f9wgE7",
     "media_with_text_eJQMRb",
     "faq_tPbMK8",
-    "testimonials_XnWKfi"
+    "testimonials_XnWKfi",
+    "multi_column_9TxU6j"
   ]
 }
