@@ -406,138 +406,20 @@
         "input_text_color": ""
       }
     },
-    "multi_column_GAFW4b": {
-      "type": "multi-column",
-      "blocks": {
-        "item_HYTrYi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1621_1.webp",
-            "column_size": "3",
-            "title": "Marie R.",
-            "heading_tag": "h4",
-            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>« J’ai un chat qui laisse des poils partout et j’ai enfin trouvé quelque chose qui fonctionne vraiment ! Avec ce gant, j’arrive à tout nettoyer en un instant, sans effort. »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_K44BER": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1624_1.webp",
-            "column_size": "3",
-            "title": "Elise M.",
-            "heading_tag": "h4",
-            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>« Très facile à utiliser et vraiment pratique. Je l’utilise aussi pour enlever les poils sur les sièges de la voiture, le résultat est impeccable ! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_rWKRYE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1607_1.webp",
-            "column_size": "3",
-            "title": "Julie T.",
-            "heading_tag": "h4",
-            "content": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>« Excellent produit ! Il enlève très bien les poils et se lave facilement. Un indispensable pour ceux qui ont des animaux à la maison ! »</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_HYTrYi",
-        "item_K44BER",
-        "item_rWKRYE"
-      ],
-      "name": "Multi-column",
+    "image_with_text_overlay_acTNkD": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clients en parlent le mieux",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_f9wgE7": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_eniUfY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/GIF1FURRY-ezgif.com-optimize.gif",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Une maison propre, sans prise de tête.",
-            "content": "<p>Le gant retire les poils en quelques secondes. Sur le canapé, les vêtements ou même directement sur votre animal.</p><p>Résultat : un intérieur propre, et moins de stress au quotidien.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_eniUfY"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
-    "media_with_text_eJQMRb": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_FVDKYP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_12_2026_-_6_35PM.png",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Confort et praticité en un seul geste",
-            "content": "<p>Avec Myfelino™, nettoyer n’a jamais été aussi simple.</p><p>Grâce à son design ergonomique et à sa maille respirante, vous pouvez éliminer les poils de votre animal de manière douce mais efficace, sans stress pour vous ni pour votre compagnon à quatre pattes.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_FVDKYP"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Generated_Image_March_17_2026_-_2_27PM.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "faq_tPbMK8": {
@@ -546,147 +428,99 @@
         "item_YVBK3b": {
           "type": "item",
           "settings": {
-            "title": "Le gant fonctionne-t-il sur tous les types de poils ?",
-            "content": "<p>Oui ! Il est efficace aussi bien sur les poils courts que longs, des chiens, chats et autres animaux domestiques.</p>"
+            "title": "Is there a risk of cuts or ingrown hairs?",
+            "content": "<p>Thanks to its innovative design, MyFelino removes hair without direct contact with the skin, minimising the risk of cuts or ingrown hairs.</p>"
           }
         },
         "item_VMYjzy": {
           "type": "item",
           "settings": {
-            "title": "Convient-il aussi aux surfaces délicates comme les tissus du canapé ou les vêtements ?",
-            "content": "<p>Absolument. Les fibres sont douces et ne rayent pas les surfaces.</p>"
+            "title": "Is MyFelino suitable for sensitive skin?",
+            "content": "<p>Yes, MyFelino is specially designed to be gentle on the skin, even on the most sensitive areas such as the bikini line or underarms. Thanks to its dual trimmer/shaver head, it provides a smooth experience without irritation or redness.</p>"
           }
         },
         "item_87wTnX": {
           "type": "item",
           "settings": {
-            "title": "Comment nettoyer le gant après utilisation ?",
-            "content": "<p>Vous pouvez simplement le rincer sous l’eau ou le laver avec un peu de savon neutre. Il sèche rapidement à l’air libre.</p>"
+            "title": "Is it painful to use?",
+            "content": "<p>Not at all. MyFelino is designed to cut hair without pulling or scratching. You’ll feel comfortable while achieving smooth, cut-free skin.</p>"
+          }
+        },
+        "item_WPQFym": {
+          "type": "item",
+          "settings": {
+            "title": "Is it suitable for delicate areas like the bikini line?",
+            "content": "<p>Yes, it is suitable for all areas of the body, especially the bikini line.</p>"
+          }
+        },
+        "item_tHjUAA": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use MyFelino in the shower?",
+            "content": "<p>Absolutely! MyFelino is fully waterproof and ideal for use in the shower. Use it for a quick and convenient routine.</p>"
+          }
+        },
+        "item_JMzGaz": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean MyFelino after use?",
+            "content": "<p>After each use, rinse the heads under water. A small brush is included for more precise cleaning.</p>"
+          }
+        },
+        "item_bjGFjC": {
+          "type": "item",
+          "settings": {
+            "title": "Can I take MyFelino when travelling?",
+            "content": "<p>Absolutely! MyFelino easily fits into your suitcase and won’t take up much space in your toiletry bag.</p>"
+          }
+        },
+        "item_9FyMQR": {
+          "type": "item",
+          "settings": {
+            "title": "How long does it take to charge MyFelino?",
+            "content": "<p>A full charge takes approximately 30 to 45 minutes thanks to its fast-charging technology.</p>"
+          }
+        },
+        "item_KGbLKb": {
+          "type": "item",
+          "settings": {
+            "title": "What if I’m not satisfied?",
+            "content": "<p>We offer a 30-day money-back guarantee. If the product doesn’t meet your expectations, contact our customer support.</p>"
           }
         }
       },
       "block_order": [
         "item_YVBK3b",
         "item_VMYjzy",
-        "item_87wTnX"
+        "item_87wTnX",
+        "item_WPQFym",
+        "item_tHjUAA",
+        "item_JMzGaz",
+        "item_bjGFjC",
+        "item_9FyMQR",
+        "item_KGbLKb"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>SI votre question ne figure pas ci-dessous, contactez nous : contact@myfelino.com</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Notre service client est disponible de : 9h à 19h.",
-        "answer_time": "Temps de réponse: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "accordion_background": "#f9bcb5",
         "accordion_text_color": ""
-      }
-    },
-    "testimonials_XnWKfi": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_4w7hRT": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sophie L.",
-            "title": "\"Fini les poils sur le canapé et les pulls noirs !\"",
-            "content": "<p>J’étais à deux doigts d’interdire le canapé à mon chat tellement il y en avait partout... Ce gant a tout changé. Je passe un coup rapide et c’est propre.</p>"
-          }
-        },
-        "testimonial_czzcpJ": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Marion T.",
-            "title": "\"Un vrai gain de temps au quotidien\"",
-            "content": "<p>Avant je passais 15 minutes avec un rouleau pour un résultat bof. Avec ce gant, en 2 minutes tout est propre. Canapé, manteaux, coussins… il fait tout.</p>"
-          }
-        },
-        "testimonial_KUTPcn": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "David L.",
-            "title": "\"Enfin une solution qui fonctionne vraiment\"",
-            "content": "<p>J’ai essayé plein de trucs pour enlever les poils, mais rien d’aussi simple et efficace. Ce gant attrape tout</p>"
-          }
-        },
-        "testimonial_aq9Vme": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Élodie M.",
-            "title": "\"Mes vêtements ne sont plus couverts de poils\"",
-            "content": "<p>Je porte souvent du noir, et avec mon chat c’était la galère. Depuis que j’ai ce gant, je pars au boulot tranquille, sans passer par la case rouleau.</p>"
-          }
-        },
-        "testimonial_jTJLGQ": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Kevin B.",
-            "title": "\"Le gant est devenu mon réflexe du matin\"",
-            "content": "<p>Un coup sur le lit, un coup sur le plaid, et je suis tranquille. Il se nettoie facilement sous l’eau et sèche vite.</p>"
-          }
-        },
-        "testimonial_7EEAbi": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Claire F.",
-            "title": "\"Simple, rapide et ça marche\"",
-            "content": "<p>Pas besoin d’électricité, pas besoin de recharge. Ce gant fait exactement ce qu’on attend de lui, et franchement, il tient ses promesses.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_4w7hRT",
-        "testimonial_czzcpJ",
-        "testimonial_KUTPcn",
-        "testimonial_aq9Vme",
-        "testimonial_jTJLGQ",
-        "testimonial_7EEAbi"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
       }
     }
   },
@@ -697,10 +531,7 @@
     "image_with_text_overlay_ecCKbD",
     "multi_column_9TxU6j",
     "featured_product_9T4DdL",
-    "multi_column_GAFW4b",
-    "media_with_text_f9wgE7",
-    "media_with_text_eJQMRb",
-    "faq_tPbMK8",
-    "testimonials_XnWKfi"
+    "image_with_text_overlay_acTNkD",
+    "faq_tPbMK8"
   ]
 }
