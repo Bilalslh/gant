@@ -585,6 +585,45 @@
             "link_style": "link"
           }
         },
+        "item_EEMVbi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_06PM.png",
+            "column_size": "3",
+            "title": "Olivia A.",
+            "heading_tag": "h4",
+            "content": "<p>\"Having sensitive skin, I used to use disposable razors and had to go over the same spot 3–4 times. The result: redness, strawberry skin and burning. This product saved me time and took the stress out of shaving: I get a clean finish, comfortable and lasting several days. I've clearly seen the difference!\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VXTyPQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_10PM.png",
+            "column_size": "3",
+            "title": "Hannah T.",
+            "heading_tag": "h4",
+            "content": "<p>\"What I love is that I go over once and it's done. Before, I had to go over multiple times with a disposable razor and it gave me crazy redness. Now it's quick and the skin stays clean.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RtppbB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_17PM_1.png",
+            "column_size": "3",
+            "title": "Charlotte A.",
+            "heading_tag": "h4",
+            "content": "<p>\"I never showed this part of my body – it was covered in little bumps and ingrown hairs. This is the first time I've got such a clean result without burning or tingling. I've got a bit of my confidence back, and for that alone, thank you.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_pRgHnw": {
           "type": "item",
           "settings": {
@@ -629,6 +668,9 @@
         "item_kVezE3",
         "item_zLTiG6",
         "item_BcwKc3",
+        "item_EEMVbi",
+        "item_VXTyPQ",
+        "item_RtppbB",
         "item_pRgHnw",
         "item_h7jnm7",
         "item_k77TJG"
