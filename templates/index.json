@@ -110,6 +110,152 @@
         "text_color": ""
       }
     },
+    "multi_column_9TxU6j": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kVezE3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_57PM.png",
+            "column_size": "3",
+            "title": "Emma J.",
+            "heading_tag": "h4",
+            "content": "<p>\"I have sensitive skin and I always got irritation that itched terribly with my disposable razors, and this had been going on for years. With Myfelino, it doesn't happen at all anymore – a really great discovery that I recommend.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zLTiG6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_00PM.png",
+            "column_size": "3",
+            "title": "Lauren D.",
+            "heading_tag": "h4",
+            "content": "<p>\"For those wondering, it's not painful! In just one shave, I felt like I'd got smooth skin back like never before. No more redness, no more ingrown hairs, and a softness that lasts. I'm thrilled.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BcwKc3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_02PM.png",
+            "column_size": "3",
+            "title": "Lucy C.",
+            "heading_tag": "h4",
+            "content": "<p>\"I've always had very sensitive skin in that area, between ingrown hairs and red marks… Now it's gentle, clean, with no reaction at all.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EEMVbi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_06PM.png",
+            "column_size": "3",
+            "title": "Olivia A.",
+            "heading_tag": "h4",
+            "content": "<p>\"Having sensitive skin, I used to use disposable razors and had to go over the same spot 3–4 times. The result: redness, strawberry skin and burning. This product saved me time and took the stress out of shaving: I get a clean finish, comfortable and lasting several days. I've clearly seen the difference!\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VXTyPQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_10PM.png",
+            "column_size": "3",
+            "title": "Hannah T.",
+            "heading_tag": "h4",
+            "content": "<p>\"What I love is that I go over once and it's done. Before, I had to go over multiple times with a disposable razor and it gave me crazy redness. Now it's quick and the skin stays clean.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RtppbB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_17PM_1.png",
+            "column_size": "3",
+            "title": "Charlotte A.",
+            "heading_tag": "h4",
+            "content": "<p>\"I never showed this part of my body – it was covered in little bumps and ingrown hairs. This is the first time I've got such a clean result without burning or tingling. I've got a bit of my confidence back, and for that alone, thank you.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pRgHnw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_38PM.png",
+            "column_size": "3",
+            "title": "Sarah B.",
+            "heading_tag": "h4",
+            "content": "<p>\"I no longer feel obligated to think about shaving every day. I do a quick touch-up when I have time – it's actually become pleasant to shave.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_h7jnm7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_32PM.png",
+            "column_size": "3",
+            "title": "Emily D.",
+            "heading_tag": "h4",
+            "content": "<p>\"I've always had very visible hair under my chin and on my neck, and it was a real daily struggle. Even when I shaved, it left dark spots or grew back by the next day. Since I've been using the Myfelino 2-in-1 trimmer, it's like night and day! My skin is smooth, no more marks, and the regrowth has seriously slowed down. I feel like a new person – I finally dare to go out without a scarf or foundation to cover up.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_k77TJG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_44PM.png",
+            "column_size": "3",
+            "title": "Rachel Q.",
+            "heading_tag": "h4",
+            "content": "<p>\"I just wanted an effective razor, but I got so much more!! I don't order online much, but I'm honestly blown away. Instant smoothness, and my skin stays clear for several days. Totally approved!\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kVezE3",
+        "item_zLTiG6",
+        "item_BcwKc3",
+        "item_EEMVbi",
+        "item_VXTyPQ",
+        "item_RtppbB",
+        "item_pRgHnw",
+        "item_h7jnm7",
+        "item_k77TJG"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Our customers rediscovered the softness of their skin",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_ecCKbD": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -542,165 +688,19 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
-    },
-    "multi_column_9TxU6j": {
-      "type": "multi-column",
-      "blocks": {
-        "item_kVezE3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_57PM.png",
-            "column_size": "3",
-            "title": "Emma J.",
-            "heading_tag": "h4",
-            "content": "<p>\"I have sensitive skin and I always got irritation that itched terribly with my disposable razors, and this had been going on for years. With Myfelino, it doesn't happen at all anymore – a really great discovery that I recommend.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_zLTiG6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_00PM.png",
-            "column_size": "3",
-            "title": "Lauren D.",
-            "heading_tag": "h4",
-            "content": "<p>\"For those wondering, it's not painful! In just one shave, I felt like I'd got smooth skin back like never before. No more redness, no more ingrown hairs, and a softness that lasts. I'm thrilled.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_BcwKc3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_02PM.png",
-            "column_size": "3",
-            "title": "Lucy C.",
-            "heading_tag": "h4",
-            "content": "<p>\"I've always had very sensitive skin in that area, between ingrown hairs and red marks… Now it's gentle, clean, with no reaction at all.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EEMVbi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_06PM.png",
-            "column_size": "3",
-            "title": "Olivia A.",
-            "heading_tag": "h4",
-            "content": "<p>\"Having sensitive skin, I used to use disposable razors and had to go over the same spot 3–4 times. The result: redness, strawberry skin and burning. This product saved me time and took the stress out of shaving: I get a clean finish, comfortable and lasting several days. I've clearly seen the difference!\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VXTyPQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_10PM.png",
-            "column_size": "3",
-            "title": "Hannah T.",
-            "heading_tag": "h4",
-            "content": "<p>\"What I love is that I go over once and it's done. Before, I had to go over multiple times with a disposable razor and it gave me crazy redness. Now it's quick and the skin stays clean.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_RtppbB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_17PM_1.png",
-            "column_size": "3",
-            "title": "Charlotte A.",
-            "heading_tag": "h4",
-            "content": "<p>\"I never showed this part of my body – it was covered in little bumps and ingrown hairs. This is the first time I've got such a clean result without burning or tingling. I've got a bit of my confidence back, and for that alone, thank you.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_pRgHnw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_38PM.png",
-            "column_size": "3",
-            "title": "Sarah B.",
-            "heading_tag": "h4",
-            "content": "<p>\"I no longer feel obligated to think about shaving every day. I do a quick touch-up when I have time – it's actually become pleasant to shave.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_h7jnm7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_32PM.png",
-            "column_size": "3",
-            "title": "Emily D.",
-            "heading_tag": "h4",
-            "content": "<p>\"I've always had very visible hair under my chin and on my neck, and it was a real daily struggle. Even when I shaved, it left dark spots or grew back by the next day. Since I've been using the Myfelino 2-in-1 trimmer, it's like night and day! My skin is smooth, no more marks, and the regrowth has seriously slowed down. I feel like a new person – I finally dare to go out without a scarf or foundation to cover up.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_k77TJG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_44PM.png",
-            "column_size": "3",
-            "title": "Rachel Q.",
-            "heading_tag": "h4",
-            "content": "<p>\"I just wanted an effective razor, but I got so much more!! I don't order online much, but I'm honestly blown away. Instant smoothness, and my skin stays clear for several days. Totally approved!\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_kVezE3",
-        "item_zLTiG6",
-        "item_BcwKc3",
-        "item_EEMVbi",
-        "item_VXTyPQ",
-        "item_RtppbB",
-        "item_pRgHnw",
-        "item_h7jnm7",
-        "item_k77TJG"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Our customers rediscovered the softness of their skin",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "image_with_text_overlay_86M6tV",
     "logo_list_dynfiG",
     "rich_text_WxxxFX",
+    "multi_column_9TxU6j",
     "image_with_text_overlay_ecCKbD",
     "featured_product_9T4DdL",
     "multi_column_GAFW4b",
     "media_with_text_f9wgE7",
     "media_with_text_eJQMRb",
     "faq_tPbMK8",
-    "testimonials_XnWKfi",
-    "multi_column_9TxU6j"
+    "testimonials_XnWKfi"
   ]
 }
