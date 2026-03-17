@@ -522,6 +522,78 @@
         "accordion_background": "#f9bcb5",
         "accordion_text_color": ""
       }
+    },
+    "testimonials_BkW9fd": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_6EHP97": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "Emily R.",
+            "content": "<p>I have sensitive skin and finally found a razor that doesn’t irritate me. I actually enjoy shaving now — highly recommend.</p>"
+          }
+        },
+        "testimonial_Rr9fpm": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "Sophie W.",
+            "content": "<p>I’ve never gotten such a good deal. At first I thought it was just a discount, but it really makes a difference!</p>"
+          }
+        },
+        "testimonial_kVxtpG": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "Chloe H.",
+            "content": "<p>I’m honestly impressed! This razor has completely changed the way I shave.</p>"
+          }
+        },
+        "testimonial_UDUBdE": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "Jessica B.",
+            "content": "<p>My hair is thick and coarse, but it removes everything effortlessly without any pain.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_6EHP97",
+        "testimonial_Rr9fpm",
+        "testimonial_kVxtpG",
+        "testimonial_UDUBdE"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -532,6 +604,7 @@
     "multi_column_9TxU6j",
     "featured_product_9T4DdL",
     "image_with_text_overlay_acTNkD",
-    "faq_tPbMK8"
+    "faq_tPbMK8",
+    "testimonials_BkW9fd"
   ]
 }
