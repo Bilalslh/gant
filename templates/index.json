@@ -278,7 +278,7 @@
         "liquid_tpwNNR": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> 4.8 Basé sur +5000 avis</span>\n</div>"
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\">Excellent 4.9/5 · 1,800 verified reviews</span>\n</div>"
           }
         },
         "liquid_VQGPE4": {
@@ -390,7 +390,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "myfelino™-gant-anti-poils-reutilisable-ecologique",
+        "product": "myfelino®-razor",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
