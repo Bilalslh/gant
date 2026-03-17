@@ -575,6 +575,7 @@
         "item_BcwKc3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_02PM.png",
             "column_size": "3",
             "title": "Lucy C.",
             "heading_tag": "h4",
