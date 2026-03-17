@@ -17,28 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison gratuite",
+            "text": "Free Shipping",
             "url": ""
           }
         },
         "message_Pdk9GU": {
           "type": "message",
           "settings": {
-            "text": "Satisfait ou remboursé",
-            "url": ""
-          }
-        },
-        "message_Uyftcj": {
-          "type": "message",
-          "settings": {
-            "text": "Expédition en 48h",
+            "text": "Money Back Guarantee",
             "url": ""
           }
         },
         "message_g8HGUa": {
           "type": "message",
           "settings": {
-            "text": "Offre d'hiver",
+            "text": "Spring Offer",
             "url": ""
           }
         }
@@ -46,7 +39,6 @@
       "block_order": [
         "message",
         "message_Pdk9GU",
-        "message_Uyftcj",
         "message_g8HGUa"
       ],
       "settings": {
