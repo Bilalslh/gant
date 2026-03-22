@@ -32,6 +32,12 @@
     "featured_product_QeWLpF": {
       "type": "featured-product",
       "blocks": {
+        "liquid_qTrdDA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #FFD700;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\">Muy bien 4,8/5 · 2957 reseñas verificadas</span>\n</div>"
+          }
+        },
         "liquid_WVacKc": {
           "type": "liquid",
           "settings": {
@@ -129,6 +135,7 @@
         }
       },
       "block_order": [
+        "liquid_qTrdDA",
         "liquid_WVacKc",
         "text_me4z6T",
         "liquid_dHtdyn",
