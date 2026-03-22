@@ -330,69 +330,6 @@
         "spacing": "small"
       }
     },
-    "testimonials_WLyih3": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_aLbdLx": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/image_2_pdp_avis_client.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Anna T.",
-            "title": "That's why thousands of women are already convinced.",
-            "content": "<p>Honestly, I was skeptical about how effective a brush like this could be. Most devices are either too bulky or unable to reach short strands. The Myfelino brush is truly different. Its small head even reaches the hair at the nape and temples. I no longer need 10 minutes in the morning — 2 to 3 minutes is enough. It's a real game-changer for short hair, the difference is immediate.</p>"
-          }
-        },
-        "testimonial_ennfqh": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/image_pdp_avis_client_4.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Rosa M.",
-            "title": "",
-            "content": "<p>I was never good at styling my hair and had just accepted that my short cut would always look just okay. I picked up this brush right away. You can't go wrong with it — it feels just as easy to use as a regular brush. No pulling, no knots, no awkward movements. For the first time, I feel like my hair actually looks intentional, not accidental.</p>"
-          }
-        },
-        "testimonial_qewGdK": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/image_pdp_avis_client.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Martina J.",
-            "title": "",
-            "content": "<p>I have fine hair and have always been scared of heat tools because my hair tends to dry out quickly. That's exactly why I hesitated. But the brush is so much gentler than a flat iron. No feeling of excessive heat, no scalp burn. My hair feels soft and relaxed after use. I use it almost every day now and haven't noticed any negative effects.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_aLbdLx",
-        "testimonial_ennfqh",
-        "testimonial_qewGdK"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "#e8005a",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "media_with_text_iPrAkN": {
       "type": "media-with-text",
       "blocks": {
@@ -428,6 +365,69 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "testimonials_WLyih3": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_aLbdLx": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/image_2_pdp_avis_client.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Anna T.",
+            "title": "",
+            "content": "<p>La verdad, era escéptica sobre qué tan efectivo podía ser un cepillo así. La mayoría de los aparatos son muy grandes o no alcanzan el cabello corto. El cepillo Myfelino es completamente diferente. Su cabeza pequeña llega hasta el cabello de la nuca y las sienes. Ya no necesito 10 minutos por la mañana — con 2 o 3 minutos me basta. Es un cambio real para el cabello corto, la diferencia se nota de inmediato.</p>"
+          }
+        },
+        "testimonial_ennfqh": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/image_pdp_avis_client_4.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Rosa M.",
+            "title": "",
+            "content": "<p>Nunca fui buena peinándome y ya había aceptado que mi corte corto siempre se vería más o menos. Agarré este cepillo de inmediato. No tiene pierde — se usa igual de fácil que un cepillo normal. Sin jalones, sin nudos, sin movimientos raros. Por primera vez siento que mi peinado se ve intencional, no de casualidad.</p>"
+          }
+        },
+        "testimonial_qewGdK": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/image_pdp_avis_client.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Martina J.",
+            "title": "",
+            "content": "<p>Tengo el cabello fino y siempre le he tenido miedo a las herramientas de calor porque se me reseca rápido. Por eso dudaba. Pero el cepillo es mucho más suave que una plancha. Nada de calor excesivo, nada de quemadas en el cuero cabelludo. Mi cabello queda suave y relajado después de usarlo. Lo uso casi todos los días y no he notado ningún efecto negativo.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_aLbdLx",
+        "testimonial_ennfqh",
+        "testimonial_qewGdK"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Por eso miles de mujeres ya están convencidas.",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#e8005a",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -438,7 +438,7 @@
     "media_with_text_W7FNc6",
     "before_after_image_TUWeHG",
     "media_with_text_8hmPQg",
-    "testimonials_WLyih3",
-    "media_with_text_iPrAkN"
+    "media_with_text_iPrAkN",
+    "testimonials_WLyih3"
   ]
 }
