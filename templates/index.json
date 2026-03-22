@@ -102,8 +102,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "What's in the box?",
-            "content": "<p>Your package will include:</p><p>BrushPRO™ Myfelino</p><p>Charging cable</p><p>User manual</p>",
+            "title": "¿Qué incluye la caja?",
+            "content": "<p>Tu paquete incluirá:</p><p>BrushPRO™ Myfelino</p><p>Cable de carga</p><p>Manual de usuario</p>",
             "page": ""
           }
         },
