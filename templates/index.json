@@ -174,7 +174,7 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "HeadingVolume that actually lasts",
+            "title": "Volume that actually lasts",
             "content": "<p>Say goodbye to flat, lifeless hair. Our brush lifts your roots, adds natural-looking volume, and keeps it in place all day long — no spray, no product, no flat spots. Just effortless, full-bodied hair from the very first stroke.</p>",
             "link_text": "",
             "link_url": "shopify://collections/frontpage",
@@ -210,8 +210,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Style without pulling or burning",
-            "content": "<p>Protective ceramic bristles, even heat distribution, and a gentle touch on your scalp — our brush glides through your hair without snagging or scorching. The patented 3PX ceramic technology is as kind to your hair as it is effective, delivering up to 20 hours of volume.</p>",
+            "title": "Reach the back and sides with zero effort",
+            "content": "<p>Short hair has tricky spots — the nape, the sides, the areas most brushes just can't handle. The compact brush head fits perfectly into every angle, glides through without tangling, and the rechargeable battery means no cords holding you back.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -245,9 +245,9 @@
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "⭐⭐⭐⭐⭐",
-            "title": "Join over 100,000 women who have already made the switch.",
-            "content": "<p>⭐⭐⭐⭐⭐ 4.8 | Over 106,000 customers</p>",
+            "subheading": "",
+            "title": "Style without pulling or burning",
+            "content": "<p>Protective ceramic bristles, even heat distribution, and a gentle touch on your scalp — our brush glides through your hair without snagging or scorching. The patented 3PX ceramic technology is as kind to your hair as it is effective, delivering up to 20 hours of volume.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -293,6 +293,42 @@
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
+    },
+    "media_with_text_8hmPQg": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_aT98ay": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/photo_avis_client_5_2.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "⭐⭐⭐⭐⭐",
+            "title": "Join over 100,000 women who have already made the switch.",
+            "content": "<p>⭐⭐⭐⭐⭐ 4.8 | Over 106,000 customers</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_aT98ay"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
@@ -301,6 +337,7 @@
     "media_with_text_PPN3jn",
     "media_with_text_h6JtRH",
     "media_with_text_W7FNc6",
-    "before_after_image_TUWeHG"
+    "before_after_image_TUWeHG",
+    "media_with_text_8hmPQg"
   ]
 }
