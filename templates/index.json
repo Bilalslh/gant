@@ -280,7 +280,7 @@
         "before_image": "shopify://shop_images/imgi_224_coupe_de_cheveux_avant.webp",
         "after_image": "shopify://shop_images/coupe_de_cheveux_apres.jpg",
         "expand_image": false,
-        "text_position": "start",
+        "text_position": "center",
         "before_after_text_position": "top",
         "before_text": "Before",
         "after_text": "After",
