@@ -196,11 +196,83 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "media_with_text_h6JtRH": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_6fxBnj": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Style without pulling or burning",
+            "content": "<p>Protective ceramic bristles, even heat distribution, and a gentle touch on your scalp — our brush glides through your hair without snagging or scorching. The patented 3PX ceramic technology is as kind to your hair as it is effective, delivering up to 20 hours of volume.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6fxBnj"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_W7FNc6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_m4KGwT": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "⭐⭐⭐⭐⭐",
+            "title": "Join over 100,000 women who have already made the switch.",
+            "content": "<p>⭐⭐⭐⭐⭐ 4.8 | Over 106,000 customers</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_m4KGwT"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "testimonials_BkW9fd",
     "featured_product_QeWLpF",
-    "media_with_text_PPN3jn"
+    "media_with_text_PPN3jn",
+    "media_with_text_h6JtRH",
+    "media_with_text_W7FNc6"
   ]
 }
