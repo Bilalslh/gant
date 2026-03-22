@@ -336,6 +336,7 @@
         "testimonial_aLbdLx": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/image_2_pdp_avis_client.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -347,6 +348,7 @@
         "testimonial_ennfqh": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/image_pdp_avis_client_4.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -358,6 +360,7 @@
         "testimonial_qewGdK": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/image_pdp_avis_client.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
