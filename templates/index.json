@@ -392,6 +392,42 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "media_with_text_iPrAkN": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_LpDiay": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Generated_Image_March_22_2026_-_10_11PM.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "¿Qué nos hace únicos?",
+            "content": "<p>Mejoramos tu rutina diaria de verdad. Punto.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LpDiay"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
@@ -402,6 +438,7 @@
     "media_with_text_W7FNc6",
     "before_after_image_TUWeHG",
     "media_with_text_8hmPQg",
-    "testimonials_WLyih3"
+    "testimonials_WLyih3",
+    "media_with_text_iPrAkN"
   ]
 }
