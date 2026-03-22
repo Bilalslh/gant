@@ -32,65 +32,30 @@
     "featured_product_QeWLpF": {
       "type": "featured-product",
       "blocks": {
-        "vendor_gJXMLG": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_efnXHF": {
-          "type": "title",
+        "liquid_WVacKc": {
+          "type": "liquid",
           "settings": {
-            "heading_tag": "h2"
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .visiora-title {\n    font-family: 'Barlow', sans-serif;\n    font-size: 30px;\n    font-weight: 700;\n    color: #000000;\n    line-height: 1.2;\n    margin: 0;\n    padding: 0;\n  }\n</style>\n\n<h1 class=\"visiora-title\">\nMyfelino Brush for Short Hair\n</h1>"
           }
         },
-        "badges_7kMede": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_LXbwnY": {
-          "type": "price",
+        "text_me4z6T": {
+          "type": "text",
           "settings": {
-            "show_taxes_notice": false
+            "text": "<p>The Myfelino brush is designed for short hair: a quick style that makes your life easier, without pulling or irritating the scalp.</p>"
           }
         },
-        "rating_QLcQF7": {
-          "type": "rating",
+        "liquid_dHtdyn": {
+          "type": "liquid",
           "settings": {
-            "show_empty": false
+            "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:18px;\nheight:18px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n<div class=\"beneficios-dermocap\">\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Si adatta al tuo pH naturale</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Idrata e nutre le labbra</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Formula clean, vegan e cruelty-free</p>\n</div>\n</div>"
           }
-        },
-        "separator_fBKx4w": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_Fy7kPw": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant_picker_qPUPJp": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_6bGiTi": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons_qfK9Gf": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#e8005a",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -102,15 +67,9 @@
         }
       },
       "block_order": [
-        "vendor_gJXMLG",
-        "title_efnXHF",
-        "badges_7kMede",
-        "price_LXbwnY",
-        "rating_QLcQF7",
-        "separator_fBKx4w",
-        "description_Fy7kPw",
-        "variant_picker_qPUPJp",
-        "quantity_selector_6bGiTi",
+        "liquid_WVacKc",
+        "text_me4z6T",
+        "liquid_dHtdyn",
         "buy_buttons_qfK9Gf",
         "pickup_availability_HzKQbr"
       ],
