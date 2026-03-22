@@ -428,6 +428,91 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "scrolling_text_tBJejb": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Stock limitado",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 8,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#e8005a",
+        "text_gradient": ""
+      }
+    },
+    "faq_DUyyfX": {
+      "type": "faq",
+      "blocks": {
+        "item_xmFMdN": {
+          "type": "item",
+          "settings": {
+            "title": "¿Funciona en cabello largo o mediano?",
+            "content": "<p>Sí, claro que sí. El Myfelino alisa, ondula y da volumen al cabello mediano y largo perfectamente. Simplemente fue diseñado para destacar donde otras herramientas fallan — en el cabello corto.</p>"
+          }
+        },
+        "item_dkpd6c": {
+          "type": "item",
+          "settings": {
+            "title": "¿Le hace daño al cabello fino?",
+            "content": "<p>No. La tecnología cerámica MCH distribuye el calor de manera uniforme, sin puntos calientes. Ponlo a 160°C para cabello fino — cientos de clientas con cabello fino lo usan a diario sin ningún efecto negativo.</p>"
+          }
+        },
+        "item_DDY7Xc": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cuánto dura la batería?",
+            "content": "<p>25 minutos a máxima potencia — más que suficiente para un peinado completo. Se carga con cable USB universal en aproximadamente 90 minutos usando cualquier cargador de teléfono.</p>"
+          }
+        },
+        "item_T3LcFY": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cómo funciona la garantía de 30 días?",
+            "content": "<p>Si no estás satisfecha dentro de los 30 días después de recibirlo, te devolvemos el dinero completo — aunque hayas usado el cepillo. Sin condiciones, sin preguntas.</p>"
+          }
+        },
+        "item_ntr6VL": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cómo sé que estoy comprando el Myfelino original?",
+            "content": "<p>El único sitio oficial es myfelino.com — ya estás en él. Evita los marketplaces y revendedores no autorizados donde circulan copias con cerdas de plástico y sin ninguna garantía.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xmFMdN",
+        "item_dkpd6c",
+        "item_DDY7Xc",
+        "item_T3LcFY",
+        "item_ntr6VL"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Preguntas frecuentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -439,6 +524,8 @@
     "before_after_image_TUWeHG",
     "media_with_text_8hmPQg",
     "media_with_text_iPrAkN",
-    "testimonials_WLyih3"
+    "testimonials_WLyih3",
+    "scrolling_text_tBJejb",
+    "faq_DUyyfX"
   ]
 }
