@@ -9,602 +9,8 @@
  */
 {
   "sections": {
-    "image_with_text_overlay_86M6tV": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Finally_a_fast_effective_and_painless_shave.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "logo_list_dynfiG": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_MBYKfr": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/elle-logo-png_seeklogo-251986.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_aBYfJi": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
-            "logo_width": 140,
-            "link": ""
-          }
-        },
-        "logo_ahCMdV": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
-            "logo_width": 110,
-            "link": ""
-          }
-        },
-        "logo_ep7Mbw": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
-            "logo_width": 150,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_MBYKfr",
-        "logo_aBYfJi",
-        "logo_ahCMdV",
-        "logo_ep7Mbw"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "They're talking about us",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
-      }
-    },
-    "rich_text_WxxxFX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hgQ8hT": {
-          "type": "heading",
-          "settings": {
-            "text": "Why choose the Myfelino razor?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_hgQ8hT"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_ecCKbD": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_13PM.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "multi_column_9TxU6j": {
-      "type": "multi-column",
-      "blocks": {
-        "item_kVezE3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_57PM.png",
-            "column_size": "3",
-            "title": "Emma J.",
-            "heading_tag": "h4",
-            "content": "<p>\"I have sensitive skin and I always got irritation that itched terribly with my disposable razors, and this had been going on for years. With Myfelino, it doesn't happen at all anymore – a really great discovery that I recommend.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_zLTiG6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_00PM.png",
-            "column_size": "3",
-            "title": "Lauren D.",
-            "heading_tag": "h4",
-            "content": "<p>\"For those wondering, it's not painful! In just one shave, I felt like I'd got smooth skin back like never before. No more redness, no more ingrown hairs, and a softness that lasts. I'm thrilled.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_BcwKc3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_02PM.png",
-            "column_size": "3",
-            "title": "Lucy C.",
-            "heading_tag": "h4",
-            "content": "<p>\"I've always had very sensitive skin in that area, between ingrown hairs and red marks… Now it's gentle, clean, with no reaction at all.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EEMVbi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_06PM.png",
-            "column_size": "3",
-            "title": "Olivia A.",
-            "heading_tag": "h4",
-            "content": "<p>\"Having sensitive skin, I used to use disposable razors and had to go over the same spot 3–4 times. The result: redness, strawberry skin and burning. This product saved me time and took the stress out of shaving: I get a clean finish, comfortable and lasting several days. I've clearly seen the difference!\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_VXTyPQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_10PM.png",
-            "column_size": "3",
-            "title": "Hannah T.",
-            "heading_tag": "h4",
-            "content": "<p>\"What I love is that I go over once and it's done. Before, I had to go over multiple times with a disposable razor and it gave me crazy redness. Now it's quick and the skin stays clean.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_RtppbB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_1_17PM_1.png",
-            "column_size": "3",
-            "title": "Charlotte A.",
-            "heading_tag": "h4",
-            "content": "<p>\"I never showed this part of my body – it was covered in little bumps and ingrown hairs. This is the first time I've got such a clean result without burning or tingling. I've got a bit of my confidence back, and for that alone, thank you.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_pRgHnw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_38PM.png",
-            "column_size": "3",
-            "title": "Sarah B.",
-            "heading_tag": "h4",
-            "content": "<p>\"I no longer feel obligated to think about shaving every day. I do a quick touch-up when I have time – it's actually become pleasant to shave.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_h7jnm7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_32PM.png",
-            "column_size": "3",
-            "title": "Emily D.",
-            "heading_tag": "h4",
-            "content": "<p>\"I've always had very visible hair under my chin and on my neck, and it was a real daily struggle. Even when I shaved, it left dark spots or grew back by the next day. Since I've been using the Myfelino 2-in-1 trimmer, it's like night and day! My skin is smooth, no more marks, and the regrowth has seriously slowed down. I feel like a new person – I finally dare to go out without a scarf or foundation to cover up.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_k77TJG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_12_44PM.png",
-            "column_size": "3",
-            "title": "Rachel Q.",
-            "heading_tag": "h4",
-            "content": "<p>\"I just wanted an effective razor, but I got so much more!! I don't order online much, but I'm honestly blown away. Instant smoothness, and my skin stays clear for several days. Totally approved!\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_kVezE3",
-        "item_zLTiG6",
-        "item_BcwKc3",
-        "item_EEMVbi",
-        "item_VXTyPQ",
-        "item_RtppbB",
-        "item_pRgHnw",
-        "item_h7jnm7",
-        "item_k77TJG"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Our customers rediscovered the softness of their skin",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "featured_product_9T4DdL": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_tpwNNR": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\">Excellent 4.9/5 · 1,800 verified reviews</span>\n</div>"
-          }
-        },
-        "liquid_VQGPE4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');\n\n.main-title {\n  display: inline-block;\n  font-size: 26px;\n  font-weight: 700; /* Barlow Bold */\n  font-family: 'Barlow', sans-serif;\n  color: #000000;\n  cursor: default;\n  vertical-align: middle;\n}\n</style>\n\n<span class=\"main-title\">\nMYFELINO® Razor\n</span>"
-          }
-        },
-        "liquid_egqBjU": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 14px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 14px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock remaining: 3 units</div>\n</div>"
-          }
-        },
-        "liquid_dcQCcr": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .beneficios-myfelino {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n\n<div class=\"beneficios-myfelino\">\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#F9BCB5\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Finally say goodbye to ingrown hairs</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#F9BCB5\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Enjoy soft and smooth skin from the very first use</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#F9BCB5\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">No more cuts, no more stress before shaving</p>\n  </div>\n\n</div>"
-          }
-        },
-        "kaching_bundles_app_block_z3cXVK": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
-          }
-        },
-        "image_8WgDfL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_17_2026_-_3_38PM.png",
-            "alignment": "center",
-            "max_width": 250
-          }
-        },
-        "liquid_cYnRGH": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .countdown-container {\n    text-align: center;\n    margin-top: 15px;\n    font-family: Arial, sans-serif;\n  }\n\n  .countdown {\n    font-size: 32px;\n    font-weight: 700;\n    letter-spacing: 2px;\n  }\n\n  .countdown span {\n    margin: 0 4px;\n  }\n\n  .labels {\n    display: flex;\n    justify-content: center;\n    gap: 25px;\n    margin-top: 4px;\n    font-size: 12px;\n    color: #777;\n    font-weight: 500;\n  }\n\n  .labels div {\n    width: 55px;\n    text-align: center;\n  }\n</style>\n\n<div class=\"countdown-container\">\n  <div class=\"countdown\" id=\"countdown\">\n    00 : 00 : 10 : 00\n  </div>\n\n  <div class=\"labels\">\n    <div>DAYS</div>\n    <div>HOURS</div>\n    <div>MINUTES</div>\n    <div>SECONDS</div>\n  </div>\n</div>\n\n<script>\n  let duration = 10 * 60;\n\n  function updateCountdown() {\n    let days = Math.floor(duration / (24 * 3600));\n    let hours = Math.floor((duration % (24 * 3600)) / 3600);\n    let minutes = Math.floor((duration % 3600) / 60);\n    let seconds = duration % 60;\n\n    document.getElementById(\"countdown\").innerHTML =\n      String(days).padStart(2, '0') + \" : \" +\n      String(hours).padStart(2, '0') + \" : \" +\n      String(minutes).padStart(2, '0') + \" : \" +\n      String(seconds).padStart(2, '0');\n\n    if (duration > 0) {\n      duration--;\n    }\n  }\n\n  setInterval(updateCountdown, 1000);\n</script>"
-          }
-        },
-        "buy_buttons_eHEQCU": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#00a341",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "liquid_DVDybm": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n/* CSS propre pour la liste de méthodes de paiement */\n.payment-methods-container {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  width: 100%;\n  margin: 0 auto;\n  padding: 0px 0;\n}\n\n.list-payment {\n  display: flex;\n  flex-wrap: nowrap; /* Empêche le retour à la ligne */\n  justify-content: center; /* Centrage horizontal */\n  align-items: center; /* Alignement vertical centré */\n  gap: 0px;\n  padding: 0;\n  margin: 0 auto !important;\n  list-style: none;\n  width: auto;\n  overflow-x: auto; /* Ajout si besoin de scroll horizontal */\n}\n\n.list-payment__item {\n  display: flex;\n  align-items: center;\n  flex: 0 0 auto; /* Taille fixe pour éviter la déformation */\n}\n\n/* Version mobile (comportement standard) */\n@media screen and (max-width: 767px) {\n  .list-payment {\n    gap: 0px;\n    flex-wrap: nowrap; /* Force horizontal même sur mobile */\n    overflow-x: auto; /* Permet de scroller horizontalement si trop d'éléments */\n  }\n  \n  .list-payment__item {\n    transform: scale(0.9);\n  }\n}\n\n/* Version desktop uniquement */\n@media screen and (min-width: 768px) {\n  .list-payment {\n    justify-content: center; /* Centré horizontalement */\n    gap: 0px 0px;\n    flex-wrap: nowrap; /* Assure alignement horizontal */\n  }\n  \n  .list-payment__item {\n    flex: 0 0 auto;\n  }\n}\n</style>\n\n<div class=\"payment-methods-container\">\n  <ul class=\"list-payment\" role=\"list\">\n    <li class=\"list-payment__item\">\n<svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"pi-american_express\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-american_express\">American Express</title><path fill=\"#000\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z\" opacity=\".07\"></path><path fill=\"#006FCF\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z\"></path><path fill=\"#FFF\" d=\"M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z\"></path><path fill=\"#006FCF\" d=\"M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z\"></path><path fill=\"#006FCF\" d=\"m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z\"></path><path fill=\"#FFF\" d=\"M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z\"></path><path fill=\"#006FCF\" d=\"m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z\"></path><path fill=\"#006FCF\" d=\"M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z\"></path></svg>\n\n            </li><li class=\"list-payment__item\">\n              <svg class=\"icon icon--full-color\" version=\"1.1\" xmlns=\"<http://www.w3.org/2000/svg>\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n\n            </li><li class=\"list-payment__item\">\n              <svg class=\"icon icon--full-color\" xmlns=\"<http://www.w3.org/2000/svg>\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-google_pay\"><title id=\"pi-google_pay\">Google Pay</title><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\" opacity=\".07\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFF\"></path><path d=\"M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z\" fill=\"#5F6368\"></path><path d=\"M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z\" fill=\"#4285F4\"></path><path d=\"M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z\" fill=\"#34A853\"></path><path d=\"M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z\" fill=\"#FBBC04\"></path><path d=\"M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z\" fill=\"#EA4335\"></path></svg>\n\n            </li><li class=\"list-payment__item\">\n              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"<http://www.w3.org/2000/svg>\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg>\n            </li><li class=\"list-payment__item\">\n              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"<http://www.w3.org/2000/svg>\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-paypal\"><title id=\"pi-paypal\">PayPal</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path fill=\"#003087\" d=\"M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z\"></path><path fill=\"#3086C8\" d=\"M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z\"></path><path fill=\"#012169\" d=\"M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z\"></path></svg>\n            </li><li class=\"list-payment__item\">\n              <svg class=\"icon icon--full-color\" xmlns=\"<http://www.w3.org/2000/svg>\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-shopify_pay\"><title id=\"pi-shopify_pay\">Shop Pay</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\"></path><path d=\"M35.889 0C37.05 0 38 .982 38 2.182v19.636c0 1.2-.95 2.182-2.111 2.182H2.11C.95 24 0 23.018 0 21.818V2.182C0 .982.95 0 2.111 0H35.89z\" fill=\"#5A31F4\"></path><path d=\"M9.35 11.368c-1.017-.223-1.47-.31-1.47-.705 0-.372.306-.558.92-.558.54 0 .934.238 1.225.704a.079.079 0 00.104.03l1.146-.584a.082.082 0 00.032-.114c-.475-.831-1.353-1.286-2.51-1.286-1.52 0-2.464.755-2.464 1.956 0 1.275 1.15 1.597 2.17 1.82 1.02.222 1.474.31 1.474.705 0 .396-.332.582-.993.582-.612 0-1.065-.282-1.34-.83a.08.08 0 00-.107-.035l-1.143.57a.083.083 0 00-.036.111c.454.92 1.384 1.437 2.627 1.437 1.583 0 2.539-.742 2.539-1.98s-1.155-1.598-2.173-1.82v-.003zM15.49 8.855c-.65 0-1.224.232-1.636.646a.04.04 0 01-.069-.03v-2.64a.08.08 0 00-.08-.081H12.27a.08.08 0 00-.08.082v8.194a.08.08 0 00.08.082h1.433a.08.08 0 00.081-.082v-3.594c0-.695.528-1.227 1.239-1.227.71 0 1.226.521 1.226 1.227v3.594a.08.08 0 00.081.082h1.433a.08.08 0 00.081-.082v-3.594c0-1.51-.981-2.577-2.355-2.577zM20.753 8.62c-.778 0-1.507.24-2.03.588a.082.082 0 00-.027.109l.632 1.088a.08.08 0 00.11.03 2.5 2.5 0 011.318-.366c1.25 0 2.17.891 2.17 2.068 0 1.003-.736 1.745-1.669 1.745-.76 0-1.288-.446-1.288-1.077 0-.361.152-.657.548-.866a.08.08 0 00.032-.113l-.596-1.018a.08.08 0 00-.098-.035c-.799.299-1.359 1.018-1.359 1.984 0 1.46 1.152 2.55 2.76 2.55 1.877 0 3.227-1.313 3.227-3.195 0-2.018-1.57-3.492-3.73-3.492zM28.675 8.843c-.724 0-1.373.27-1.845.746-.026.027-.069.007-.069-.029v-.572a.08.08 0 00-.08-.082h-1.397a.08.08 0 00-.08.082v8.182a.08.08 0 00.08.081h1.433a.08.08 0 00.081-.081v-2.683c0-.036.043-.054.069-.03a2.6 2.6 0 001.808.7c1.682 0 2.993-1.373 2.993-3.157s-1.313-3.157-2.993-3.157zm-.271 4.929c-.956 0-1.681-.768-1.681-1.783s.723-1.783 1.681-1.783c.958 0 1.68.755 1.68 1.783 0 1.027-.713 1.783-1.681 1.783h.001z\" fill=\"#fff\"></path></svg>\n\n            </li><li class=\"list-payment__item\">\n              <svg class=\"icon icon--full-color\" viewBox=\"0 0 38 24\" xmlns=\"<http://www.w3.org/2000/svg>\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg>\n            </li></ul>\n</div>"
-          }
-        },
-        "collapsible_text_BXtdJJ": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "What is MyFelino?",
-            "content": "<p>Discover MyFelino, the 2-in-1 razor that transforms your beauty routine.With its dual-head design, it combines precision and gentleness for flawless skin wherever you are.Forget painful waxing, expensive laser treatments, and irritating disposable blades — MyFelino delivers total comfort without the usual downsides.Waterproof and USB-C rechargeable, it can be used on both dry and wet skin.Ideal for sensitive skin, it helps prevent irritation, ingrown hairs, and cuts.Say goodbye to hassle and hello to a practical, fast, and pain-free solution for smooth, flawless skin every day.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_iAxxRA": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "What’s included in the MyFelino pack?",
-            "content": "<p>The MyFelino pack comes with everything you need for a complete and convenient experience:• Body trimming head: Designed to quickly remove hair on larger areas.• Precision head: Ideal for sensitive areas and a perfect finish.• Included accessories:Comb attachmentCharging cableCleaning brushUser manualYour FREE exfoliating glove!An easy, precise solution suitable for all areas of your body.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_m9JFd4": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "How to use",
-            "content": "<p>1. Exfoliate before shaving (24 hours before)Use the exfoliating glove in circular motions to remove dead skin cells and release ingrown hairs.Dry the skin or leave it slightly damp depending on your preference.2. Order of useLong comb: Trim longer hairs first.Trimmer head: Even out the length across the area.Precision head: Finish while keeping the skin slightly taut.3. Shaving techniqueHold the device at a 30° angle to the skin.Apply light pressure and let the blade glide without forcing it.Start in the direction of hair growth, then if needed, go against the grain with one or two passes only.4. AftercareGently pat the skin dry.Apply a soothing alcohol-free gel or cream to calm redness.5. Exfoliate after shaving (48 hours later)Wait at least two days for the skin barrier to recover.Perform gentle exfoliation to prevent ingrown hairs and maintain smooth, irritation-free skin.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_8Nww6m": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Free Shipping",
-            "content": "<p>• Dispatched within 1 to 2 working days</p><p>• Delivery within 5 to 8 working days with tracking number</p><p>As soon as your order is shipped, you will receive a confirmation email with your tracking number.You will be informed at every step until your order is delivered.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_pC3T8C": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Customer Support",
-            "content": "<p>7 Days a Week Our customer support team is available 7 days a week.</p><p>You can contact us at any time:</p><p>• via the Contact section on our store</p><p>• or by email at:contact@myfelino.com</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_j6N9fV": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Money-Back Guarantee",
-            "content": "<p>If you are not satisfied, you will be refunded within 30 days.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "liquid_tpwNNR",
-        "liquid_VQGPE4",
-        "liquid_egqBjU",
-        "liquid_dcQCcr",
-        "kaching_bundles_app_block_z3cXVK",
-        "image_8WgDfL",
-        "liquid_cYnRGH",
-        "buy_buttons_eHEQCU",
-        "liquid_DVDybm",
-        "collapsible_text_BXtdJJ",
-        "collapsible_text_iAxxRA",
-        "collapsible_text_m9JFd4",
-        "collapsible_text_8Nww6m",
-        "collapsible_text_pC3T8C",
-        "collapsible_text_j6N9fV"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "myfelino®-razor",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "image_with_text_overlay_acTNkD": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Generated_Image_March_17_2026_-_2_27PM.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "faq_tPbMK8": {
-      "type": "faq",
-      "blocks": {
-        "item_YVBK3b": {
-          "type": "item",
-          "settings": {
-            "title": "Is there a risk of cuts or ingrown hairs?",
-            "content": "<p>Thanks to its innovative design, MyFelino removes hair without direct contact with the skin, minimising the risk of cuts or ingrown hairs.</p>"
-          }
-        },
-        "item_VMYjzy": {
-          "type": "item",
-          "settings": {
-            "title": "Is MyFelino suitable for sensitive skin?",
-            "content": "<p>Yes, MyFelino is specially designed to be gentle on the skin, even on the most sensitive areas such as the bikini line or underarms. Thanks to its dual trimmer/shaver head, it provides a smooth experience without irritation or redness.</p>"
-          }
-        },
-        "item_87wTnX": {
-          "type": "item",
-          "settings": {
-            "title": "Is it painful to use?",
-            "content": "<p>Not at all. MyFelino is designed to cut hair without pulling or scratching. You’ll feel comfortable while achieving smooth, cut-free skin.</p>"
-          }
-        },
-        "item_WPQFym": {
-          "type": "item",
-          "settings": {
-            "title": "Is it suitable for delicate areas like the bikini line?",
-            "content": "<p>Yes, it is suitable for all areas of the body, especially the bikini line.</p>"
-          }
-        },
-        "item_tHjUAA": {
-          "type": "item",
-          "settings": {
-            "title": "Can I use MyFelino in the shower?",
-            "content": "<p>Absolutely! MyFelino is fully waterproof and ideal for use in the shower. Use it for a quick and convenient routine.</p>"
-          }
-        },
-        "item_JMzGaz": {
-          "type": "item",
-          "settings": {
-            "title": "How do I clean MyFelino after use?",
-            "content": "<p>After each use, rinse the heads under water. A small brush is included for more precise cleaning.</p>"
-          }
-        },
-        "item_bjGFjC": {
-          "type": "item",
-          "settings": {
-            "title": "Can I take MyFelino when travelling?",
-            "content": "<p>Absolutely! MyFelino easily fits into your suitcase and won’t take up much space in your toiletry bag.</p>"
-          }
-        },
-        "item_9FyMQR": {
-          "type": "item",
-          "settings": {
-            "title": "How long does it take to charge MyFelino?",
-            "content": "<p>A full charge takes approximately 30 to 45 minutes thanks to its fast-charging technology.</p>"
-          }
-        },
-        "item_KGbLKb": {
-          "type": "item",
-          "settings": {
-            "title": "What if I’m not satisfied?",
-            "content": "<p>We offer a 30-day money-back guarantee. If the product doesn’t meet your expectations, contact our customer support.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_YVBK3b",
-        "item_VMYjzy",
-        "item_87wTnX",
-        "item_WPQFym",
-        "item_tHjUAA",
-        "item_JMzGaz",
-        "item_bjGFjC",
-        "item_9FyMQR",
-        "item_KGbLKb"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "#ffffff",
-        "button_text_color": "#000000",
-        "accordion_background": "#f9bcb5",
-        "accordion_text_color": ""
-      }
-    },
     "testimonials_BkW9fd": {
       "type": "testimonials",
-      "blocks": {
-        "testimonial_6EHP97": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "",
-            "title": "Emily R.",
-            "content": "<p>I have sensitive skin and finally found a razor that doesn’t irritate me. I actually enjoy shaving now — highly recommend.</p>"
-          }
-        },
-        "testimonial_Rr9fpm": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "",
-            "title": "Sophie W.",
-            "content": "<p>I’ve never gotten such a good deal. At first I thought it was just a discount, but it really makes a difference!</p>"
-          }
-        },
-        "testimonial_kVxtpG": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "",
-            "title": "Chloe H.",
-            "content": "<p>I’m honestly impressed! This razor has completely changed the way I shave.</p>"
-          }
-        },
-        "testimonial_UDUBdE": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "",
-            "title": "Jessica B.",
-            "content": "<p>My hair is thick and coarse, but it removes everything effortlessly without any pain.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_6EHP97",
-        "testimonial_Rr9fpm",
-        "testimonial_kVxtpG",
-        "testimonial_UDUBdE"
-      ],
       "name": "Testimonials",
       "settings": {
         "full_width": true,
@@ -622,17 +28,114 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "featured_product_QeWLpF": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_gJXMLG": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_efnXHF": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_7kMede": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_LXbwnY": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_QLcQF7": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_fBKx4w": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_Fy7kPw": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_qPUPJp": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_6bGiTi": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_qfK9Gf": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_HzKQbr": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_gJXMLG",
+        "title_efnXHF",
+        "badges_7kMede",
+        "price_LXbwnY",
+        "rating_QLcQF7",
+        "separator_fBKx4w",
+        "description_Fy7kPw",
+        "variant_picker_qPUPJp",
+        "quantity_selector_6bGiTi",
+        "buy_buttons_qfK9Gf",
+        "pickup_availability_HzKQbr"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "myfelino-brush-for-short-hair",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
-    "image_with_text_overlay_86M6tV",
-    "logo_list_dynfiG",
-    "rich_text_WxxxFX",
-    "image_with_text_overlay_ecCKbD",
-    "multi_column_9TxU6j",
-    "featured_product_9T4DdL",
-    "image_with_text_overlay_acTNkD",
-    "faq_tPbMK8",
-    "testimonials_BkW9fd"
+    "testimonials_BkW9fd",
+    "featured_product_QeWLpF"
   ]
 }
