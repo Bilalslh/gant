@@ -17,29 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping",
+            "text": "Stock casi agotado",
             "url": ""
           }
         },
         "message_Pdk9GU": {
           "type": "message",
           "settings": {
-            "text": "Money Back Guarantee",
-            "url": ""
-          }
-        },
-        "message_g8HGUa": {
-          "type": "message",
-          "settings": {
-            "text": "Spring Offer",
+            "text": "Mes de la mujer",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_Pdk9GU",
-        "message_g8HGUa"
+        "message_Pdk9GU"
       ],
       "settings": {
         "enable_sticky": false,
