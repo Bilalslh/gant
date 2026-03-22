@@ -76,6 +76,56 @@
         "pickup_availability_HzKQbr": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "collapsible_text_kfqw74": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What hair styles is it for?I",
+            "content": "<p>Ideal for pixie cuts, bobs, short layers, and bangs. Designed specifically for short hair.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_BiKWrR": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Optimized Battery Life",
+            "content": "<p>Usable for approximately 25 minutes continuously at a maximum temperature of 200°C. Perfect for a complete style without interruption, even on the go.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_gqWch9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What's in the box?",
+            "content": "<p>Your package will include:</p><p>BrushPRO™ Myfelino</p><p>Charging cable</p><p>User manual</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_ygVE4H": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Shipping & Delivery",
+            "content": "<p>We ship all orders within 24 to 48 hours from our warehouse.The average delivery time is 5 to 8 business days (in most cases, your package arrives in about 1 week).A tracking link is sent as soon as your order ships, so you can follow your package every step of the way, in real time.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_zfkDGU": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "30-Day Money-Back GuaranteeNot satisfied?",
+            "content": "<p>No problem. You can return it within 30 days.Whether the product has been opened and used or not. How else were you supposed to try it?As soon as we receive your return, you will receive a full refund</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +135,12 @@
         "buy_buttons_qfK9Gf",
         "liquid_xyzhET",
         "liquid_TaR4Yk",
-        "pickup_availability_HzKQbr"
+        "pickup_availability_HzKQbr",
+        "collapsible_text_kfqw74",
+        "collapsible_text_BiKWrR",
+        "collapsible_text_gqWch9",
+        "collapsible_text_ygVE4H",
+        "collapsible_text_zfkDGU"
       ],
       "name": "Featured product",
       "settings": {
