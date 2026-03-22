@@ -82,8 +82,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "What hair styles is it for?I",
-            "content": "<p>Ideal for pixie cuts, bobs, short layers, and bangs. Designed specifically for short hair.</p>",
+            "title": "¿Para qué estilos de cabello es?",
+            "content": "<p>Ideal para cortes pixie, bobs, capas cortas y flequillo. Diseñado especialmente para cabello corto.</p>",
             "page": ""
           }
         },
@@ -92,8 +92,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Optimized Battery Life",
-            "content": "<p>Usable for approximately 25 minutes continuously at a maximum temperature of 200°C. Perfect for a complete style without interruption, even on the go.</p>",
+            "title": "Batería Optimizada",
+            "content": "<p>Se puede usar aproximadamente 25 minutos continuos a una temperatura máxima de 200°C. Perfecto para un peinado completo sin interrupciones, hasta cuando andas de un lado al otro.</p>",
             "page": ""
           }
         },
@@ -112,8 +112,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Shipping & Delivery",
-            "content": "<p>We ship all orders within 24 to 48 hours from our warehouse.The average delivery time is 5 to 8 business days (in most cases, your package arrives in about 1 week).A tracking link is sent as soon as your order ships, so you can follow your package every step of the way, in real time.</p>",
+            "title": "Envío y Entrega",
+            "content": "<p>Enviamos todos los pedidos en 24 a 48 horas desde nuestro almacén. El tiempo promedio de entrega es de 5 a 8 días hábiles (en la mayoría de los casos, tu paquete llega en aproximadamente 1 semana). Te mandamos un link de rastreo en cuanto sale tu pedido, para que puedas seguirlo en tiempo real.</p>",
             "page": ""
           }
         },
@@ -122,8 +122,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "30-Day Money-Back GuaranteeNot satisfied?",
-            "content": "<p>No problem. You can return it within 30 days.Whether the product has been opened and used or not. How else were you supposed to try it?As soon as we receive your return, you will receive a full refund</p>",
+            "title": "Garantía de Devolución de 30 Días",
+            "content": "<p>¿No estás satisfecha? Sin problema. Puedes devolverlo en 30 días. No importa si el producto fue abierto o usado. ¿De qué otra forma ibas a probarlo? En cuanto recibamos tu devolución, te reembolsamos completamente.</p>",
             "page": ""
           }
         }
