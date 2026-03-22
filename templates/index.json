@@ -329,6 +329,66 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "testimonials_WLyih3": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_aLbdLx": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Anna T.",
+            "title": "That's why thousands of women are already convinced.",
+            "content": "<p>Honestly, I was skeptical about how effective a brush like this could be. Most devices are either too bulky or unable to reach short strands. The Myfelino brush is truly different. Its small head even reaches the hair at the nape and temples. I no longer need 10 minutes in the morning — 2 to 3 minutes is enough. It's a real game-changer for short hair, the difference is immediate.</p>"
+          }
+        },
+        "testimonial_ennfqh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Judith W.",
+            "title": "",
+            "content": "<p>I was never good at styling my hair and had just accepted that my short cut would always look just okay. I picked up this brush right away. You can't go wrong with it — it feels just as easy to use as a regular brush. No pulling, no knots, no awkward movements. For the first time, I feel like my hair actually looks intentional, not accidental.</p>"
+          }
+        },
+        "testimonial_qewGdK": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_aLbdLx",
+        "testimonial_ennfqh",
+        "testimonial_qewGdK"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#e8005a",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -338,6 +398,7 @@
     "media_with_text_h6JtRH",
     "media_with_text_W7FNc6",
     "before_after_image_TUWeHG",
-    "media_with_text_8hmPQg"
+    "media_with_text_8hmPQg",
+    "testimonials_WLyih3"
   ]
 }
