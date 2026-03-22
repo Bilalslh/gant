@@ -203,6 +203,7 @@
         "image_6fxBnj": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/a89aedf4e4334834aec33629f99cee37.HD-1080p-2.5Mbps-67714250.gif",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -238,6 +239,7 @@
         "image_m4KGwT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/bddd0ac4c1bc4bb2be5e950ea7d41573.HD-1080p-2.5Mbps-67714249.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
