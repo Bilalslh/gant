@@ -26,7 +26,7 @@
           "type": "text",
           "settings": {
             "title": "",
-            "content": "<p>Monday to Friday: 9am – 7pm<br/><br/>Saturday: 9am – 2pm<br/><br/>Contact us: <a>contact@myfelino.com</a></p>",
+            "content": "<p>Lunes a Domingo: 9am – 7pm<br/>Contáctanos: <a>contact@myfelino.com</a></p>",
             "enable_follow_on_shop": false
           }
         }
