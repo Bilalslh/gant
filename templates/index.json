@@ -56,6 +56,13 @@
             "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:18px;\nheight:18px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n<div class=\"beneficios-dermocap\">\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Perfecto para cabello corto</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Volumen sin esfuerzo</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Peinado en 2 minutos</p>\n</div>\n</div>"
           }
         },
+        "kaching_bundles_app_block_fGTUz6": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "buy_buttons_qfK9Gf": {
           "type": "buy_buttons",
           "settings": {
@@ -139,6 +146,7 @@
         "liquid_WVacKc",
         "text_me4z6T",
         "liquid_dHtdyn",
+        "kaching_bundles_app_block_fGTUz6",
         "buy_buttons_qfK9Gf",
         "liquid_xyzhET",
         "liquid_TaR4Yk",
