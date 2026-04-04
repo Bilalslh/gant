@@ -9,26 +9,6 @@
  */
 {
   "sections": {
-    "testimonials_BkW9fd": {
-      "type": "testimonials",
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Rated 4.7/5 based on 1,832 reviews",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "featured_product_QeWLpF": {
       "type": "featured-product",
       "blocks": {
@@ -620,7 +600,6 @@
     }
   },
   "order": [
-    "testimonials_BkW9fd",
     "featured_product_QeWLpF",
     "media_with_text_PPN3jn",
     "media_with_text_h6JtRH",
