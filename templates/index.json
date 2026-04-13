@@ -63,23 +63,23 @@
           "type": "pickup_availability",
           "settings": {}
         },
-        "collapsible_text_kfqw74": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "¿Para qué estilos de cabello es?",
-            "content": "<p>Ideal para cortes pixie, bobs, capas cortas y flequillo. Diseñado especialmente para cabello corto.</p>",
-            "page": ""
-          }
-        },
         "collapsible_text_BiKWrR": {
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Batería Optimizada",
-            "content": "<p>Se puede usar aproximadamente 25 minutos continuos a una temperatura máxima de 392°F. Perfecto para un peinado completo sin interrupciones, hasta cuando andas de un lado al otro.</p>",
+            "title": "Détails du produit",
+            "content": "<p><strong>Tissu :</strong> 80% nylon, 20% spandex<br/><br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><br/><strong>Type :</strong> Débardeur gainant à compression avec maintien de la posture</p><ul><li>Renforce la confiance et l’énergie au quotidien<br/></li><li>Aide à atteindre vos objectifs de perte de poids<br/></li><li>Réduit visiblement l’apparence de la poitrine</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_kfqw74": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Comment fonctionne réellement le débardeur Felino™ ?",
+            "content": "<p>Felino™ utilise une technologie avancée de compression ionique conçue pour stimuler la réponse naturelle du corps. Ses fibres micro-tissées favorisent une meilleure circulation sanguine et aident à maintenir une posture droite et dynamique du matin au soir.Avec un port régulier, il permet d’obtenir une silhouette visiblement plus affinée, un meilleur alignement du dos et une amélioration globale de votre apparence et de votre confort.</p>",
             "page": ""
           }
         },
@@ -88,8 +88,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "¿Qué incluye la caja?",
-            "content": "<p>Tu paquete incluirá:</p><p>BrushPRO™ Myfelino</p><p>Cable de carga</p><p>Manual de usuario</p>",
+            "title": "Guide des tailles",
+            "content": "<p><strong>Garantie ajustement parfait.</strong> Nous sommes convaincus que vous allez adorer le rendu.</p><p>Le débardeur Felino™ est conçu avec des zones de compression avancées et une ceinture anti-glissement pour un confort maximal tout au long de la journée.</p><p>Un guide des tailles est disponible dans les images du produit.<br/><br/>Si vous êtes entre deux tailles, nous vous recommandons de prendre la taille au-dessus pour plus de confort.</p>",
             "page": ""
           }
         },
@@ -123,8 +123,8 @@
         "buy_buttons_qfK9Gf",
         "liquid_xyzhET",
         "pickup_availability_HzKQbr",
-        "collapsible_text_kfqw74",
         "collapsible_text_BiKWrR",
+        "collapsible_text_kfqw74",
         "collapsible_text_gqWch9",
         "collapsible_text_ygVE4H",
         "collapsible_text_zfkDGU"
