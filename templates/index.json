@@ -48,7 +48,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#000000",
+            "atc_button_background": "#f0c417",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -103,6 +103,12 @@
             "content": "<p>La livraison est offerte dans le monde entier.</p><p>Les commandes sont expédiées sous 24 à 48 heures.</p><p>Elles sont ensuite livrées sous 5 à 8 jours ouvrés, quelle que soit la destination.</p>",
             "page": ""
           }
+        },
+        "liquid_cW4Ed7": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"vc-section\">\n  <h2 class=\"vc-title\">Des milliers de clients satisfaits</h2>\n\n  <div class=\"vc-grid\">\n    <video\n      src=\"https://cdn.shopify.com/videos/c/o/v/2d6c390637d744209fd149d8c41e2372.mp4\"\n      playsinline loop muted autoplay\n      class=\"vc-video\"\n      onclick=\"this.muted=!this.muted\"\n    ></video>\n\n    <video\n      src=\"https://cdn.shopify.com/videos/c/o/v/4f7d4266df994427b019329e4c93c89c.mp4\"\n      playsinline loop muted autoplay\n      class=\"vc-video\"\n      onclick=\"this.muted=!this.muted\"\n    ></video>\n\n    <video\n      src=\"https://cdn.shopify.com/videos/c/o/v/65f06748b29d437eaea25df9609da0bf.mp4\"\n      playsinline loop muted autoplay\n      class=\"vc-video\"\n      onclick=\"this.muted=!this.muted\"\n    ></video>\n  </div>\n</div>\n\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');\n\n  .vc-section {\n    padding: 24px 12px;\n    text-align: center;\n  }\n\n  .vc-title {\n    font-family: 'Barlow', sans-serif;\n    font-weight: 700;\n    font-size: clamp(22px, 5vw, 30px);\n    color: #111;\n    margin: 0 0 20px;\n    line-height: 1.2;\n  }\n\n  .vc-grid {\n    display: flex;\n    gap: 8px;\n    justify-content: center;\n  }\n\n  .vc-video {\n    width: calc(33.333% - 6px);\n    max-width: 160px;\n    aspect-ratio: 9/16;\n    object-fit: cover;\n    border-radius: 12px;\n    display: block;\n    cursor: pointer;\n    background: #000;\n  }\n</style>"
+          }
         }
       },
       "block_order": [
@@ -117,7 +123,8 @@
         "collapsible_text_BiKWrR",
         "collapsible_text_kfqw74",
         "collapsible_text_gqWch9",
-        "collapsible_text_ygVE4H"
+        "collapsible_text_ygVE4H",
+        "liquid_cW4Ed7"
       ],
       "name": "Featured product",
       "settings": {
