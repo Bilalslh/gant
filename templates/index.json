@@ -281,40 +281,30 @@
         "overlay_opacity": 0
       }
     },
-    "media_with_text_W7FNc6": {
-      "type": "media-with-text",
+    "rich_text_hWDLDA": {
+      "type": "rich-text",
       "blocks": {
-        "image_m4KGwT": {
-          "type": "image",
+        "heading_t9i6mw": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/Generated_Image_April_13_2026_-_8_57PM.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Pourquoi Felino?",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "text": "Pourquoi Felino?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "image_m4KGwT"
+        "heading_t9i6mw"
       ],
-      "name": "Media with text",
+      "name": "Rich text",
       "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_j6RNcD": {
@@ -558,6 +548,22 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_LXgbPy": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Generated_Image_April_13_2026_-_8_57PM_c9bab32c-f4f9-4e53-aadb-c2f0869b01ea.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -566,7 +572,8 @@
     "media_with_text_PPN3jn",
     "image_with_text_overlay_i4jq4X",
     "image_with_text_overlay_ktz3gg",
-    "media_with_text_W7FNc6",
+    "rich_text_hWDLDA",
+    "image_with_text_overlay_LXgbPy",
     "multi_column_j6RNcD",
     "faq_DUyyfX",
     "text_with_icons_xbCwNn"
