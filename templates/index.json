@@ -172,10 +172,32 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_4NXfXq": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
-        "image_YWheJY"
+        "image_YWheJY",
+        "image_4NXfXq"
       ],
       "name": "Media with text",
       "settings": {
@@ -200,21 +222,37 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_ktz3gg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_13_avr._2026_20_46_32.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "media_with_text_W7FNc6": {
       "type": "media-with-text",
       "blocks": {
         "image_m4KGwT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bddd0ac4c1bc4bb2be5e950ea7d41573.HD-1080p-2.5Mbps-67714249.gif",
+            "image": "shopify://shop_images/Generated_Image_April_13_2026_-_8_57PM.jpg",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Péinate sin jalar ni quemar",
-            "content": "<p>Cerdas de cerámica protectora, calor uniforme y suave en tu cuero cabelludo — nuestro cepillo desliza por tu cabello sin jalar ni quemar. La tecnología de cerámica 3PX patentada es tan gentil con tu cabello como efectiva, dándote hasta 20 horas de volumen.</p>",
+            "title": "Pourquoi Felino?",
+            "content": "",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -236,180 +274,94 @@
         "spacing": "small"
       }
     },
-    "before_after_image_TUWeHG": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Antes vs Después",
-        "content": "<p>Cabello perfecto en 2 minutos:</p>",
-        "before_image": "shopify://shop_images/imgi_224_coupe_de_cheveux_avant.webp",
-        "after_image": "shopify://shop_images/coupe_de_cheveux_apres.jpg",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "media_with_text_8hmPQg": {
-      "type": "media-with-text",
+    "multi_column_j6RNcD": {
+      "type": "multi-column",
       "blocks": {
-        "image_aT98ay": {
-          "type": "image",
+        "item_NCjczP": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/photo_avis_client_5_2.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "⭐⭐⭐⭐⭐",
-            "title": "Únete a más de 100,000 mujeres que ya hicieron el cambio.",
-            "content": "<p>⭐⭐⭐⭐⭐ 4.8 | Más de 106,000 clientas</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_aT98ay"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
-    "media_with_text_iPrAkN": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_LpDiay": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Generated_Image_March_22_2026_-_10_11PM.jpg",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "¿Qué nos hace únicos?",
-            "content": "<p>Mejoramos tu rutina diaria de verdad. Punto.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_LpDiay"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
-    "testimonials_WLyih3": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_aLbdLx": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/image_2_pdp_avis_client.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Anna T.",
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
             "title": "",
-            "content": "<p>La verdad, era escéptica sobre qué tan efectivo podía ser un cepillo así. La mayoría de los aparatos son muy grandes o no alcanzan el cabello corto. El cepillo Myfelino es completamente diferente. Su cabeza pequeña llega hasta el cabello de la nuca y las sienes. Ya no necesito 10 minutos por la mañana — con 2 o 3 minutos me basta. Es un cambio real para el cabello corto, la diferencia se nota de inmediato.</p>"
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "testimonial_ennfqh": {
-          "type": "testimonial",
+        "item_GQqQfm": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_pdp_avis_client_4.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Rosa M.",
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
             "title": "",
-            "content": "<p>Nunca fui buena peinándome y ya había aceptado que mi corte corto siempre se vería más o menos. Agarré este cepillo de inmediato. No tiene pierde — se usa igual de fácil que un cepillo normal. Sin jalones, sin nudos, sin movimientos raros. Por primera vez siento que mi peinado se ve intencional, no de casualidad.</p>"
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "testimonial_qewGdK": {
-          "type": "testimonial",
+        "item_WH7hPX": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_pdp_avis_client.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Martina J.",
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
             "title": "",
-            "content": "<p>Tengo el cabello fino y siempre le he tenido miedo a las herramientas de calor porque se me reseca rápido. Por eso dudaba. Pero el cepillo es mucho más suave que una plancha. Nada de calor excesivo, nada de quemadas en el cuero cabelludo. Mi cabello queda suave y relajado después de usarlo. Lo uso casi todos los días y no he notado ningún efecto negativo.</p>"
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kG4W4n": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AenNgr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "testimonial_aLbdLx",
-        "testimonial_ennfqh",
-        "testimonial_qewGdK"
+        "item_NCjczP",
+        "item_GQqQfm",
+        "item_WH7hPX",
+        "item_kG4W4n",
+        "item_AenNgr"
       ],
-      "name": "Testimonials",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "stack_testimonials": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
         "subheading": "",
-        "title": "Por eso miles de mujeres ya están convencidas.",
+        "title": "Nos clients en parlent le mieux",
         "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "#e8005a",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
-    "scrolling_text_tBJejb": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Stock limitado",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 8,
         "background": "",
         "background_gradient": "",
-        "text_color": "#e8005a",
-        "text_gradient": ""
+        "text_color": ""
       }
     },
     "faq_DUyyfX": {
@@ -555,22 +507,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "image_with_text_overlay_ktz3gg": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_13_avr._2026_20_46_32.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
     }
   },
   "order": [
@@ -579,11 +515,7 @@
     "image_with_text_overlay_i4jq4X",
     "image_with_text_overlay_ktz3gg",
     "media_with_text_W7FNc6",
-    "before_after_image_TUWeHG",
-    "media_with_text_8hmPQg",
-    "media_with_text_iPrAkN",
-    "testimonials_WLyih3",
-    "scrolling_text_tBJejb",
+    "multi_column_j6RNcD",
     "faq_DUyyfX",
     "text_with_icons_xbCwNn"
   ]
