@@ -98,18 +98,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Envío y Entrega",
-            "content": "<p>Enviamos todos los pedidos en 24 a 48 horas desde nuestro almacén. El tiempo promedio de entrega es de 5 a 8 días hábiles (en la mayoría de los casos, tu paquete llega en aproximadamente 1 semana). Te mandamos un link de rastreo en cuanto sale tu pedido, para que puedas seguirlo en tiempo real.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_zfkDGU": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Garantía de Devolución de 30 Días",
-            "content": "<p>¿No estás satisfecha? Sin problema. Puedes devolverlo en 30 días. No importa si el producto fue abierto o usado. ¿De qué otra forma ibas a probarlo? En cuanto recibamos tu devolución, te reembolsamos completamente.</p>",
+            "title": "Livraison Gratuite",
+            "content": "<p>La livraison est offerte dans le monde entier.</p><p>Les commandes sont expédiées sous 24 à 48 heures.</p><p>Elles sont ensuite livrées sous 6 à 10 jours ouvrés, quelle que soit la destination.</p>",
             "page": ""
           }
         }
@@ -126,8 +116,7 @@
         "collapsible_text_BiKWrR",
         "collapsible_text_kfqw74",
         "collapsible_text_gqWch9",
-        "collapsible_text_ygVE4H",
-        "collapsible_text_zfkDGU"
+        "collapsible_text_ygVE4H"
       ],
       "name": "Featured product",
       "settings": {
