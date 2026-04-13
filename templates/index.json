@@ -24,12 +24,6 @@
             "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .visiora-title {\n    font-family: 'Barlow', sans-serif;\n    font-size: 30px;\n    font-weight: 700;\n    color: #000000;\n    line-height: 1.2;\n    margin: 0;\n    padding: 0;\n  }\n</style>\n\n<h1 class=\"visiora-title\">\nFelino | Compresse ton ventre, Redresse ta posture, Transforme ton allure\n</h1>"
           }
         },
-        "text_me4z6T": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Débardeur de compression ionique qui vous aide à vous tenir plus droit, redessine votre torse et affine instantanément les zones à problème dès que vous l’enfilez.</p>"
-          }
-        },
         "liquid_dHtdyn": {
           "type": "liquid",
           "settings": {
@@ -114,7 +108,6 @@
       "block_order": [
         "liquid_qTrdDA",
         "liquid_WVacKc",
-        "text_me4z6T",
         "liquid_dHtdyn",
         "liquid_gmrpMf",
         "kaching_bundles_app_block_RrA36V",
