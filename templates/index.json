@@ -289,7 +289,7 @@
           "settings": {
             "image": "shopify://shop_images/Generated_Image_April_13_2026_-_8_57PM.jpg",
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
