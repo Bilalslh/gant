@@ -42,6 +42,13 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 14px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 14px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 4 débardeurs</div>\n</div>"
           }
         },
+        "kaching_bundles_app_block_RrA36V": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "buy_buttons_qfK9Gf": {
           "type": "buy_buttons",
           "settings": {
@@ -110,6 +117,7 @@
         "text_me4z6T",
         "liquid_dHtdyn",
         "liquid_gmrpMf",
+        "kaching_bundles_app_block_RrA36V",
         "buy_buttons_qfK9Gf",
         "liquid_xyzhET",
         "pickup_availability_HzKQbr",
