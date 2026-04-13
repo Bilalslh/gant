@@ -148,6 +148,65 @@
         "input_text_color": ""
       }
     },
+    "logo_list_zadBQJ": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_GDmJ6c": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_nYwkmC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Forbes.png",
+            "logo_width": 130,
+            "link": ""
+          }
+        },
+        "logo_FU8A7P": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/gq-logo-black-and-white.png",
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_LeceM3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Men_s_Health_logo_black.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_GDmJ6c",
+        "logo_nYwkmC",
+        "logo_FU8A7P",
+        "logo_LeceM3"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
     "media_with_text_PPN3jn": {
       "type": "media-with-text",
       "blocks": {
@@ -172,32 +231,10 @@
             "button_background": "",
             "button_text_color": ""
           }
-        },
-        "image_4NXfXq": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
         }
       },
       "block_order": [
-        "image_YWheJY",
-        "image_4NXfXq"
+        "image_YWheJY"
       ],
       "name": "Media with text",
       "settings": {
@@ -519,6 +556,7 @@
   },
   "order": [
     "featured_product_QeWLpF",
+    "logo_list_zadBQJ",
     "media_with_text_PPN3jn",
     "image_with_text_overlay_i4jq4X",
     "image_with_text_overlay_ktz3gg",
