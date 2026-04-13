@@ -401,6 +401,13 @@
             "title": "Peut-on laver le débardeur Felino™ en machine ?",
             "content": "<p>Oui, absolument. Nous recommandons un lavage à froid en cycle délicat afin de préserver la compression et prolonger la durée de vie du tissu.</p>"
           }
+        },
+        "item_WyGX6m": {
+          "type": "item",
+          "settings": {
+            "title": "De quoi est composé Felino™ ?",
+            "content": "<p>80% nylon, 20% spandex.</p>"
+          }
         }
       },
       "block_order": [
@@ -408,13 +415,14 @@
         "item_dkpd6c",
         "item_7gyhAf",
         "item_T3LcFY",
-        "item_ntr6VL"
+        "item_ntr6VL",
+        "item_WyGX6m"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Preguntas frecuentes",
+        "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
