@@ -184,13 +184,20 @@
         "spacing": "small"
       }
     },
-    "media_with_text_h6JtRH": {
-      "type": "media-with-text",
-      "name": "Media with text",
+    "image_with_text_overlay_i4jq4X": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie-de-6-TRANSFORMATIONS-POUR-VOTRE-DOS-_6.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "media_with_text_W7FNc6": {
@@ -549,7 +556,7 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_i4jq4X": {
+    "image_with_text_overlay_ktz3gg": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
@@ -557,7 +564,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie-de-6-TRANSFORMATIONS-POUR-VOTRE-DOS-_6.jpg",
+        "image": "shopify://shop_images/ChatGPT_Image_13_avr._2026_20_46_32.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -570,7 +577,7 @@
     "featured_product_QeWLpF",
     "media_with_text_PPN3jn",
     "image_with_text_overlay_i4jq4X",
-    "media_with_text_h6JtRH",
+    "image_with_text_overlay_ktz3gg",
     "media_with_text_W7FNc6",
     "before_after_image_TUWeHG",
     "media_with_text_8hmPQg",
