@@ -33,19 +33,13 @@
         "liquid_dHtdyn": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:18px;\nheight:18px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n<div class=\"beneficios-dermocap\">\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Élimine le ventre de papa</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Volumen sin esfuerzo</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#E8005A\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#E8005A\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Peinado en 2 minutos</p>\n</div>\n</div>"
-          }
-        },
-        "liquid_h9fqPz": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .price-block {\n    display: inline-flex;\n    align-items: center;\n    gap: 10px;\n    flex-wrap: wrap;\n    margin: 8px 0;\n  }\n  .price-original {\n    font-size: 16px;\n    color: #999;\n    text-decoration: line-through;\n    font-weight: 500;\n  }\n  .price-sale {\n    font-size: 18px;\n    color: #000;\n    font-weight: 700;\n  }\n  .price-badge {\n    background-color: #E8005A;\n    color: #fff;\n    font-size: 13px;\n    font-weight: 700;\n    padding: 4px 12px;\n    border-radius: 6px;\n    display: inline-block;\n  }\n</style>\n\n<div class=\"price-block\">\n  <span class=\"price-original\">$99,99</span>\n  <span class=\"price-sale\">$49,99</span>\n  <span class=\"price-badge\">Ahorras $50</span>\n</div>"
+            "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:18px;\nheight:18px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n\n<div class=\"beneficios-dermocap\">\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Élimine le ventre de papa</p>\n</div>\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Accélère la perte de poids</p>\n</div>\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Aplati la poitrine d’homme</p>\n</div>\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Efface les poignées d’amour</p>\n</div>\n\n</div>"
           }
         },
         "liquid_gmrpMf": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 14px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 14px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restante: 3 unidades</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 14px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 14px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 4 débardeurs</div>\n</div>"
           }
         },
         "buy_buttons_qfK9Gf": {
@@ -53,7 +47,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#e8005a",
+            "atc_button_background": "#000000",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -131,7 +125,6 @@
         "liquid_WVacKc",
         "text_me4z6T",
         "liquid_dHtdyn",
-        "liquid_h9fqPz",
         "liquid_gmrpMf",
         "buy_buttons_qfK9Gf",
         "liquid_xyzhET",
