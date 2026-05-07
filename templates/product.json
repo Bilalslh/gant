@@ -24,6 +24,12 @@
             "liquid": "<style>\n  .beneficios-dermocap {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n  .beneficio-title {\n    font-size: 22px;\n    color: #000000;\n    font-weight: 700;\n    margin-bottom: 6px;\n  }\n  .beneficio-subtitle {\n    font-size: 14px;\n    color: #000000;\n    font-weight: 600;\n    margin-bottom: 12px;\n  }\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n<div class=\"beneficios-dermocap\">\n  <p class=\"beneficio-title\">EarPlug™ – Bouchons d'oreilles moto – 27 dB</p>\n  <p class=\"beneficio-subtitle\">Réduit le bruit du vent et les sifflements dans les oreilles</p>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Réduit efficacement le bruit du vent</p>\n  </div>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Permet d'entendre l'intercom et le trafic</p>\n  </div>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Confort toute la journée sous le casque</p>\n  </div>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Garantie satisfait ou remboursé 30 jours</p>\n  </div>\n</div>"
           }
         },
+        "liquid_qY9Un4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 14px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 14px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 3 unités </div>\n</div>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -39,6 +45,7 @@
       "block_order": [
         "liquid_qBRGdE",
         "liquid_ryWzEQ",
+        "liquid_qY9Un4",
         "buy_buttons"
       ],
       "settings": {
