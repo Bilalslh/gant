@@ -264,6 +264,110 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "multi_column_LQJtGz": {
+      "type": "multi-column",
+      "blocks": {
+        "item_T9qqpx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_e2f5392f-c5f2-48bb-aff6-d7bca95cd122.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LLTJ4D": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_bbbb62e3-2508-4b6d-ad08-740f950482fd.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UejFeR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_82ba57cd-0609-41be-8722-ccdf61afec66.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JpNTRJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_4dc7931e-5b61-413d-bfe0-3b0321a6b325.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DwaqpB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_sous-titre.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gVCJxt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_821bdfcc-61c6-4b10-b79b-2b61870aae63.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_T9qqpx",
+        "item_LLTJ4D",
+        "item_UejFeR",
+        "item_JpNTRJ",
+        "item_DwaqpB",
+        "item_gVCJxt"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos motards en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -272,6 +376,7 @@
     "media_with_text_rbBLKH",
     "media_with_text_Bmnwtx",
     "media_with_text_FLRadp",
-    "faq_zKab9F"
+    "faq_zKab9F",
+    "multi_column_LQJtGz"
   ]
 }
