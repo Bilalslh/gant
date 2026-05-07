@@ -18,16 +18,10 @@
             "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,8/5 + 2786 (motards satisfaits) </span>\n</div>"
           }
         },
-        "title": {
-          "type": "title",
+        "liquid_ryWzEQ": {
+          "type": "liquid",
           "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "text_DjMh6E": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The Myfelino brush is designed for short hair: a quick style that makes your life easier, without pulling or irritating the scalp.</p>"
+            "liquid": "<style>\n  .beneficios-dermocap {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n  .beneficio-title {\n    font-size: 22px;\n    color: #000000;\n    font-weight: 700;\n    margin-bottom: 6px;\n  }\n  .beneficio-subtitle {\n    font-size: 14px;\n    color: #000000;\n    font-weight: 600;\n    margin-bottom: 12px;\n  }\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n<div class=\"beneficios-dermocap\">\n  <p class=\"beneficio-title\">EarPlug™ – Bouchons d'oreilles moto – 27 dB</p>\n  <p class=\"beneficio-subtitle\">Réduit le bruit du vent et les sifflements dans les oreilles</p>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Réduit efficacement le bruit du vent</p>\n  </div>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Permet d'entendre l'intercom et le trafic</p>\n  </div>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Confort toute la journée sous le casque</p>\n  </div>\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Garantie satisfait ou remboursé 30 jours</p>\n  </div>\n</div>"
           }
         },
         "buy_buttons": {
@@ -35,7 +29,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#f0c417",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -44,8 +38,7 @@
       },
       "block_order": [
         "liquid_qBRGdE",
-        "title",
-        "text_DjMh6E",
+        "liquid_ryWzEQ",
         "buy_buttons"
       ],
       "settings": {
@@ -87,10 +80,47 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "media_with_text_rbBLKH": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AA87GF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gempages_519052065381549017-3d31114f-3447-4858-812b-08b8b0ab3dd8.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AA87GF"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "media_with_text_rbBLKH"
   ]
 }
