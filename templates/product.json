@@ -230,8 +230,8 @@
         "item_Yjp7qX": {
           "type": "item",
           "settings": {
-            "title": "N’hésitez pas à contacter notre service",
-            "content": "<p>contact@myfelino.com</p>"
+            "title": "D'autres questions ?",
+            "content": "<p>N’hésitez pas à contacter notre service client:</p><p>contact@myfelino.com</p>"
           }
         }
       },
@@ -250,7 +250,7 @@
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
-        "answer_time": "Average answer time: 24h",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
