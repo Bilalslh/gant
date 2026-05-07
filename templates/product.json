@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_qBRGdE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,8/5 + 2786 (motards satisfaits) </span>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -37,6 +43,7 @@
         }
       },
       "block_order": [
+        "liquid_qBRGdE",
         "title",
         "text_DjMh6E",
         "buy_buttons"
