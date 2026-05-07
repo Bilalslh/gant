@@ -195,6 +195,75 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "faq_zKab9F": {
+      "type": "faq",
+      "blocks": {
+        "item_6KjHAL": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi ai-je besoin de bouchons d’oreilles pour rouler ?",
+            "content": "<p>Vous connaissez ce bruit de vent intense que l’on ressent à grande vitesse ?Y être exposé ne serait-ce que pendant 10 minutes peut provoquer ces redoutables sifflements d’oreilles. Ce phénomène n’est pas seulement gênant, il peut entraîner des dommages auditifs permanents lorsqu’il se répète dans le temps. Également appelé acouphènes, c’est malheureusement un problème auquel trop de motards expérimentés sont confrontés.C’est pourquoi notre mission est de prévenir ces sifflements d’oreilles permanents en proposant les bouchons d’oreilles les plus adaptés aux motards du marché.</p>"
+          }
+        },
+        "item_GzyLne": {
+          "type": "item",
+          "settings": {
+            "title": "De combien de bruit réduisent-ils ?",
+            "content": "<p>Les bouchons d’oreilles Felino réduisent jusqu’à 27 dB de bruit nocif. Cela permet d’atténuer les bruits agressifs, comme le bruit du vent, à un niveau plus paisible, vous aidant à mieux vous concentrer sur la conduite, tout en continuant d’entendre la circulation autour de vous ainsi que votre intercom.Vous pouvez également tenir une conversation normale avec les bouchons en place, car ils atténuent moins les fréquences de la voix humaine.</p>"
+          }
+        },
+        "item_8W9UxA": {
+          "type": "item",
+          "settings": {
+            "title": "Mes oreilles me feront-elles mal après utilisation ?",
+            "content": "<p>Non ! C’est justement l’un de leurs plus grands atouts. Fabriqués en silicone souple de qualité médicale, vous oublierez même que vous les portez. Confortables pour un port toute la journée.Contrairement aux autres bouchons d’oreilles, ils se logent discrètement dans le conduit auditif, ce qui évite les frottements contre le casque – la principale cause d’irritation avec les bouchons en mousse classiques.</p>"
+          }
+        },
+        "item_YmKPVN": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps prend la livraison ?",
+            "content": "<p>La livraison prend entre 5 et 7 jours ouvrés, auxquels s’ajoutent 1 à 2 jours de traitement de la commande.</p>"
+          }
+        },
+        "item_Yjp7qX": {
+          "type": "item",
+          "settings": {
+            "title": "N’hésitez pas à contacter notre service",
+            "content": "<p>contact@myfelino.com</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_6KjHAL",
+        "item_GzyLne",
+        "item_8W9UxA",
+        "item_YmKPVN",
+        "item_Yjp7qX"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -202,6 +271,7 @@
     "related-products",
     "media_with_text_rbBLKH",
     "media_with_text_Bmnwtx",
-    "media_with_text_FLRadp"
+    "media_with_text_FLRadp",
+    "faq_zKab9F"
   ]
 }
