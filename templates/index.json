@@ -472,6 +472,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_QbNEtc": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"rlv-wirk\">\n  <h2 class=\"rlv-wirk__title\">Drei innovative <span>Wirkmechanismen</span></h2>\n  <div class=\"rlv-wirk__grid\">\n    <div class=\"rlv-wirk__features\">\n      <div class=\"rlv-wirk__item\">\n        <div class=\"rlv-wirk__icon\"><img src=\"URL_ICONE_1\" alt=\"\"></div>\n        <div class=\"rlv-wirk__text\">\n          <h3>Wärmetherapie</h3>\n          <p>Wärme erweitert die Blutgefäße rund um das Schultergelenk, entspannt die verspannte Muskulatur und verbessert die Durchblutung des unterversorgten Gewebes.</p>\n        </div>\n      </div>\n      <div class=\"rlv-wirk__item\">\n        <div class=\"rlv-wirk__icon\"><img src=\"URL_ICONE_2\" alt=\"\"></div>\n        <div class=\"rlv-wirk__text\">\n          <h3>Massagetherapie</h3>\n          <p>Die gezielte Massage löst tief sitzende muskuläre Blockaden, fördert den Abtransport von Entzündungsstoffen und regt die Regeneration des Gewebes an.</p>\n        </div>\n      </div>\n      <div class=\"rlv-wirk__item\">\n        <div class=\"rlv-wirk__icon\"><img src=\"URL_ICONE_3\" alt=\"\"></div>\n        <div class=\"rlv-wirk__text\">\n          <h3>Kompression</h3>\n          <p>Der gleichmäßige Andruck hält Wärme und Massage konstant am betroffenen Gelenk — so wirken beide Technologien dort, wo der Schmerz tatsächlich entsteht.</p>\n        </div>\n      </div>\n    </div>\n    <div class=\"rlv-wirk__image\">\n      <img src=\"URL_IMAGE_PRINCIPALE\" alt=\"\">\n    </div>\n  </div>\n</div>\n\n<style>\n.rlv-wirk{max-width:1200px;margin:0 auto;padding:60px 20px;font-family:inherit}\n.rlv-wirk__title{text-align:center;font-size:clamp(28px,4vw,42px);font-weight:800;margin:0 0 50px;color:#111;line-height:1.2}\n.rlv-wirk__title span{color:#2aa37a}\n.rlv-wirk__grid{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center}\n.rlv-wirk__item{display:flex;gap:20px;padding:25px 0;align-items:flex-start}\n.rlv-wirk__item+.rlv-wirk__item{border-top:1px solid #e5e5e5}\n.rlv-wirk__icon{flex:0 0 70px}\n.rlv-wirk__icon img{width:70px;height:70px;border-radius:50%;object-fit:cover;display:block}\n.rlv-wirk__text h3{margin:0 0 10px;font-size:20px;font-weight:700;color:#111}\n.rlv-wirk__text p{margin:0;font-size:16px;line-height:1.6;color:#444}\n.rlv-wirk__image img{width:100%;height:auto;border-radius:20px;display:block}\n@media (max-width:768px){\n  .rlv-wirk__grid{grid-template-columns:1fr;gap:30px}\n  .rlv-wirk__image{order:-1}\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -481,6 +494,7 @@
     "media_with_text_UPTDqW",
     "media_with_text_bmLnRM",
     "faq_DUyyfX",
-    "text_with_icons_xbCwNn"
+    "text_with_icons_xbCwNn",
+    "custom_liquid_QbNEtc"
   ]
 }
