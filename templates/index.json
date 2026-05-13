@@ -347,49 +347,69 @@
         "text_color": ""
       }
     },
+    "custom_liquid_y7g47Q": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- ===== COMPARATIF ===== -->\n<div class=\"rlv-cmp\">\n  <div class=\"rlv-cmp__left\">\n    <h2 class=\"rlv-cmp__h2\">Toutes les solutions<br><span>ne se valent pas.</span></h2>\n    <p class=\"rlv-cmp__sub\">La plupart traitent la douleur. FELINO traite la cause.</p>\n  </div>\n  <div class=\"rlv-cmp__table\">\n    <div class=\"rlv-cmp__row rlv-cmp__row--head\">\n      <div class=\"rlv-cmp__c1\"></div>\n      <div class=\"rlv-cmp__c2 rlv-cmp__c2--top\">\n        <span class=\"rlv-cmp__brand\">felino</span>\n        <span class=\"rlv-cmp__badge\">Technologie Orthobionale</span>\n      </div>\n      <div class=\"rlv-cmp__c3\">\n        <strong>Autres<br>solutions</strong>\n        <small>Injections de cortisone, physiothérapie & massages</small>\n      </div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/></svg>Solution durable</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 20A7 7 0 0 1 4 13c0-5 4-9 8-11 4 2 8 6 8 11a7 7 0 0 1-7 7Z\"/><path d=\"M11 20v-7\"/></svg>Aucun effet secondaire</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-7 8-13a8 8 0 1 0-16 0c0 6 8 13 8 13Z\"/><circle cx=\"12\" cy=\"9\" r=\"2.5\"/></svg>Développé en Allemagne</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 2 4 5v7c0 5 3.5 8.5 8 10 4.5-1.5 8-5 8-10V5l-8-3Z\"/><path d=\"m9 12 2 2 4-4\"/></svg>Garantie satisfait ou remboursé 60 jours</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M14.5 9.5a2.5 2.5 0 0 0-5 0c0 1.5 1 2 2.5 2.5s2.5 1 2.5 2.5a2.5 2.5 0 0 1-5 0M12 7v10\"/></svg>Coût unique faible</div>\n      <div class=\"rlv-cmp__c2 rlv-cmp__c2--bot\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n  </div>\n</div>\n\n<!-- ===== ÉTAPES ===== -->\n<div class=\"rlv-steps\">\n  <h2 class=\"rlv-steps__title\">Aussi simple <span>que ça</span></h2>\n  <div class=\"rlv-steps__grid\">\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_crtnxdcrtnxdcrtn_1_png_ca9c42ab-b6b8-4da2-8208-e6a8665f23f1.png?v=1778687117\" alt=\"Étape 1\">\n      <h3>Étape 1 :</h3>\n      <p>Charge complètement l'appareil</p>\n    </div>\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_wfc0r1wfc0r1wfc0_1_png.png?v=1778687117\" alt=\"Étape 2\">\n      <h3>Étape 2 :</h3>\n      <p>Place l'appareil sur ton épaule et passe la sangle autour de ton corps</p>\n    </div>\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_d0earcd0earcd0ea_2_png.png?v=1778687117\" alt=\"Étape 3\">\n      <h3>Étape 3 :</h3>\n      <p>Allume l'appareil et ressens la technologie Orthobionale faire disparaître tes douleurs</p>\n    </div>\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_1yc54k1yc54k1yc5_1_png.png?v=1778687117\" alt=\"Étape 4\">\n      <h3>Étape 4 :</h3>\n      <p>Sens-toi libre, reposé et plein d'énergie</p>\n    </div>\n  </div>\n</div>\n\n<style>\n/* Comparatif */\n.rlv-cmp{max-width:1200px;margin:0 auto;padding:60px 20px;display:grid;grid-template-columns:1fr 1.3fr;gap:40px;align-items:center;font-family:inherit}\n.rlv-cmp__h2{font-size:clamp(26px,3vw,38px);font-weight:800;margin:0 0 16px;color:#111;line-height:1.2}\n.rlv-cmp__h2 span{color:#2aa37a}\n.rlv-cmp__sub{font-size:15px;color:#444;margin:0;line-height:1.6}\n.rlv-cmp__table{display:flex;flex-direction:column}\n.rlv-cmp__row{display:grid;grid-template-columns:1.5fr 1fr 1fr;align-items:center;border-bottom:1px solid #eaeaea}\n.rlv-cmp__row:last-child{border-bottom:0}\n.rlv-cmp__row--head{border-bottom:0;align-items:stretch}\n.rlv-cmp__c1{display:flex;align-items:center;gap:10px;padding:14px 10px;font-size:14px;color:#222;font-weight:500}\n.rlv-cmp__c1 svg{width:22px;height:22px;flex-shrink:0}\n.rlv-cmp__c2{background:#2aa37a;display:flex;align-items:center;justify-content:center;padding:14px 10px;flex-direction:column;gap:6px;color:#fff;text-align:center}\n.rlv-cmp__c2--top{border-radius:60px 60px 0 0;padding:22px 10px 14px}\n.rlv-cmp__c2--bot{border-radius:0 0 60px 60px;padding:14px 10px 22px}\n.rlv-cmp__brand{font-size:20px;font-weight:800;color:#fff;text-transform:lowercase}\n.rlv-cmp__badge{font-size:11px;background:rgba(255,255,255,.18);color:#fff;padding:5px 10px;border-radius:20px;font-weight:600}\n.rlv-cmp__c3{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:14px 10px;text-align:center;gap:4px}\n.rlv-cmp__row--head .rlv-cmp__c3 strong{font-size:15px;color:#111}\n.rlv-cmp__row--head .rlv-cmp__c3 small{font-size:11px;color:#666;line-height:1.3}\n.rlv-cmp__ok{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#fff;color:#2aa37a;font-weight:900;font-size:14px}\n.rlv-cmp__ko{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#111;color:#fff;font-weight:700;font-size:13px}\n@media (max-width:768px){.rlv-cmp{grid-template-columns:1fr;text-align:center}.rlv-cmp__left{text-align:center}}\n\n/* Étapes */\n.rlv-steps{max-width:1400px;margin:0 auto;padding:30px 20px 60px;font-family:inherit}\n.rlv-steps__title{text-align:center;font-size:clamp(24px,3vw,34px);font-weight:800;color:#111;margin:0 0 40px}\n.rlv-steps__title span{color:#2aa37a}\n.rlv-steps__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}\n.rlv-steps__card{border:1px solid #eaeaea;border-radius:14px;padding:14px;background:#fff}\n.rlv-steps__card img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;display:block;margin-bottom:18px}\n.rlv-steps__card h3{margin:0 0 10px;font-size:17px;font-weight:700;color:#111}\n.rlv-steps__card p{margin:0;font-size:14px;line-height:1.6;color:#444}\n@media (max-width:1024px){.rlv-steps__grid{grid-template-columns:repeat(2,1fr)}}\n@media (max-width:560px){.rlv-steps__grid{grid-template-columns:1fr}}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_DUyyfX": {
       "type": "faq",
       "blocks": {
         "item_xmFMdN": {
           "type": "item",
           "settings": {
-            "title": "À qui s’adresse Felino™ ?",
-            "content": "<p>Felino™ est conçu pour les hommes qui souhaitent affiner leur silhouette, retrouver confiance en eux, améliorer leur posture et se sentir plus dynamiques tout au long de la journée. Il vous aide à paraître plus mince sous n’importe quelle tenue.</p>"
+            "title": "Pour qui est conçu le masseur d’épaule FELINO ?",
+            "content": "<p>Pour toute personne souffrant de douleurs chroniques à l’épaule, de tensions de la coiffe des rotateurs ou de troubles liés à la posture, notamment les personnes travaillant au bureau, les travailleurs manuels en surcharge, les sportifs en phase de récupération et les seniors avec usure liée à l’âge.Idéal également après une opération de l’épaule pour accompagner la rééducation.</p>"
           }
         },
         "item_dkpd6c": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne réellement le débardeur Felino™ ?",
-            "content": "<p>Felino™ utilise une technologie avancée de compression ionique conçue pour stimuler la réponse naturelle du corps. Ses fibres micro-tissées favorisent une meilleure circulation sanguine et aident à maintenir une posture droite et dynamique du matin au soir.Avec un port régulier, il permet d’obtenir une silhouette visiblement plus affinée, un meilleur alignement du dos et une amélioration globale de votre apparence et de votre confort.</p>"
+            "title": "Comment fonctionne exactement le masseur d’épaule FELINO ?",
+            "content": "<p>FELINO utilise la technologie Orthobionale brevetée en 3 phases :</p><p>1. Chaleur infrarouge (42°C) Dilate les vaisseaux sanguins et apporte l’oxygène directement dans les zones contractées.</p><p>2. Compression rythmique Des ondes de pression pneumatiques massent les couches musculaires profondes et favorisent le drainage lymphatique.</p><p>3. Massage profond Détend les nœuds musculaires et interrompt les signaux de douleur envoyés par les nerfs.👉 Cette combinaison agit non seulement en surface, mais aussi sur la cause des douleurs.</p>"
           }
         },
         "item_7gyhAf": {
           "type": "item",
           "settings": {
-            "title": "En combien de temps vais-je voir des résultats ?",
-            "content": "<p>Chaque personne est différente, mais la majorité de nos clients constatent des résultats visibles dès les 30 premiers jours.Pour un effet optimal, portez votre Felino™ quotidiennement et combinez-le avec une alimentation équilibrée et une activité physique régulière.</p>"
+            "title": "En combien de temps vais-je ressentir une amélioration ?",
+            "content": "<p>De nombreux utilisateurs ressentent un soulagement dès la première utilisation.Pour des résultats durables, une utilisation quotidienne pendant 2 à 3 semaines est recommandée.Le corps a besoin de temps pour se régénérer.</p>"
           }
         },
         "item_T3LcFY": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>La livraison est offerte et les commandes arrivent généralement sous 5 à 8 jours ouvrés.La majorité des colis arrivent avant ce délai, mais nous préférons annoncer une estimation plus large pour plus de sécurité.</p>"
+            "title": "Combien de temps et à quelle fréquence utiliser FELINO ?",
+            "content": "<p>Pour des résultats optimaux : 10 à 20 minutes par épaule chaque jour.L’appareil dispose d’un arrêt automatique intelligent après 20 minutes pour éviter toute sur utilisation.</p>"
           }
         },
         "item_ntr6VL": {
           "type": "item",
           "settings": {
-            "title": "Peut-on laver le débardeur Felino™ en machine ?",
-            "content": "<p>Oui, absolument. Nous recommandons un lavage à froid en cycle délicat afin de préserver la compression et prolonger la durée de vie du tissu.</p>"
+            "title": "Puis-je utiliser FELINO en cas de capsulite, épaule calcifiée ou bursite ?",
+            "content": "<p>Oui. FELINO est spécialement conçu pour aider en cas de :capsulite, épaule calcifiée, bursite, problèmes de coiffe des rotateurs et douleurs articulaires ou musculaires générales.</p>"
           }
         },
         "item_WyGX6m": {
           "type": "item",
           "settings": {
-            "title": "De quoi est composé Felino™ ?",
-            "content": "<p>80% nylon, 20% spandex.</p>"
+            "title": "FELINO convient-il à toutes les épaules, même en cas de gonflement ?",
+            "content": "<p>Oui. FELINO est conçu en taille universelle avec des sangles ajustables, adaptées même aux épaules gonflées ou de grande taille.Aucune aide nécessaire pour l’installation.</p>"
+          }
+        },
+        "item_J7ybTH": {
+          "type": "item",
+          "settings": {
+            "title": "L’appareil convient-il à l’épaule gauche et droite ?",
+            "content": "<p>Oui. Le système s’adapte anatomiquement aux deux épaules. Il suffit d’ajuster les sangles.</p>"
           }
         }
       },
@@ -399,7 +419,8 @@
         "item_7gyhAf",
         "item_T3LcFY",
         "item_ntr6VL",
-        "item_WyGX6m"
+        "item_WyGX6m",
+        "item_J7ybTH"
       ],
       "name": "FAQ",
       "settings": {
@@ -494,19 +515,6 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_y7g47Q": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!-- ===== COMPARATIF ===== -->\n<div class=\"rlv-cmp\">\n  <div class=\"rlv-cmp__left\">\n    <h2 class=\"rlv-cmp__h2\">Toutes les solutions<br><span>ne se valent pas.</span></h2>\n    <p class=\"rlv-cmp__sub\">La plupart traitent la douleur. FELINO traite la cause.</p>\n  </div>\n  <div class=\"rlv-cmp__table\">\n    <div class=\"rlv-cmp__row rlv-cmp__row--head\">\n      <div class=\"rlv-cmp__c1\"></div>\n      <div class=\"rlv-cmp__c2 rlv-cmp__c2--top\">\n        <span class=\"rlv-cmp__brand\">felino</span>\n        <span class=\"rlv-cmp__badge\">Technologie Orthobionale</span>\n      </div>\n      <div class=\"rlv-cmp__c3\">\n        <strong>Autres<br>solutions</strong>\n        <small>Injections de cortisone, physiothérapie & massages</small>\n      </div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/></svg>Solution durable</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 20A7 7 0 0 1 4 13c0-5 4-9 8-11 4 2 8 6 8 11a7 7 0 0 1-7 7Z\"/><path d=\"M11 20v-7\"/></svg>Aucun effet secondaire</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-7 8-13a8 8 0 1 0-16 0c0 6 8 13 8 13Z\"/><circle cx=\"12\" cy=\"9\" r=\"2.5\"/></svg>Développé en Allemagne</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 2 4 5v7c0 5 3.5 8.5 8 10 4.5-1.5 8-5 8-10V5l-8-3Z\"/><path d=\"m9 12 2 2 4-4\"/></svg>Garantie satisfait ou remboursé 60 jours</div>\n      <div class=\"rlv-cmp__c2\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n    <div class=\"rlv-cmp__row\">\n      <div class=\"rlv-cmp__c1\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#7a8088\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M14.5 9.5a2.5 2.5 0 0 0-5 0c0 1.5 1 2 2.5 2.5s2.5 1 2.5 2.5a2.5 2.5 0 0 1-5 0M12 7v10\"/></svg>Coût unique faible</div>\n      <div class=\"rlv-cmp__c2 rlv-cmp__c2--bot\"><span class=\"rlv-cmp__ok\">✓</span></div>\n      <div class=\"rlv-cmp__c3\"><span class=\"rlv-cmp__ko\">✕</span></div>\n    </div>\n  </div>\n</div>\n\n<!-- ===== ÉTAPES ===== -->\n<div class=\"rlv-steps\">\n  <h2 class=\"rlv-steps__title\">Aussi simple <span>que ça</span></h2>\n  <div class=\"rlv-steps__grid\">\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_crtnxdcrtnxdcrtn_1_png_ca9c42ab-b6b8-4da2-8208-e6a8665f23f1.png?v=1778687117\" alt=\"Étape 1\">\n      <h3>Étape 1 :</h3>\n      <p>Charge complètement l'appareil</p>\n    </div>\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_wfc0r1wfc0r1wfc0_1_png.png?v=1778687117\" alt=\"Étape 2\">\n      <h3>Étape 2 :</h3>\n      <p>Place l'appareil sur ton épaule et passe la sangle autour de ton corps</p>\n    </div>\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_d0earcd0earcd0ea_2_png.png?v=1778687117\" alt=\"Étape 3\">\n      <h3>Étape 3 :</h3>\n      <p>Allume l'appareil et ressens la technologie Orthobionale faire disparaître tes douleurs</p>\n    </div>\n    <div class=\"rlv-steps__card\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Gemini_Generated_Image_1yc54k1yc54k1yc5_1_png.png?v=1778687117\" alt=\"Étape 4\">\n      <h3>Étape 4 :</h3>\n      <p>Sens-toi libre, reposé et plein d'énergie</p>\n    </div>\n  </div>\n</div>\n\n<style>\n/* Comparatif */\n.rlv-cmp{max-width:1200px;margin:0 auto;padding:60px 20px;display:grid;grid-template-columns:1fr 1.3fr;gap:40px;align-items:center;font-family:inherit}\n.rlv-cmp__h2{font-size:clamp(26px,3vw,38px);font-weight:800;margin:0 0 16px;color:#111;line-height:1.2}\n.rlv-cmp__h2 span{color:#2aa37a}\n.rlv-cmp__sub{font-size:15px;color:#444;margin:0;line-height:1.6}\n.rlv-cmp__table{display:flex;flex-direction:column}\n.rlv-cmp__row{display:grid;grid-template-columns:1.5fr 1fr 1fr;align-items:center;border-bottom:1px solid #eaeaea}\n.rlv-cmp__row:last-child{border-bottom:0}\n.rlv-cmp__row--head{border-bottom:0;align-items:stretch}\n.rlv-cmp__c1{display:flex;align-items:center;gap:10px;padding:14px 10px;font-size:14px;color:#222;font-weight:500}\n.rlv-cmp__c1 svg{width:22px;height:22px;flex-shrink:0}\n.rlv-cmp__c2{background:#2aa37a;display:flex;align-items:center;justify-content:center;padding:14px 10px;flex-direction:column;gap:6px;color:#fff;text-align:center}\n.rlv-cmp__c2--top{border-radius:60px 60px 0 0;padding:22px 10px 14px}\n.rlv-cmp__c2--bot{border-radius:0 0 60px 60px;padding:14px 10px 22px}\n.rlv-cmp__brand{font-size:20px;font-weight:800;color:#fff;text-transform:lowercase}\n.rlv-cmp__badge{font-size:11px;background:rgba(255,255,255,.18);color:#fff;padding:5px 10px;border-radius:20px;font-weight:600}\n.rlv-cmp__c3{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:14px 10px;text-align:center;gap:4px}\n.rlv-cmp__row--head .rlv-cmp__c3 strong{font-size:15px;color:#111}\n.rlv-cmp__row--head .rlv-cmp__c3 small{font-size:11px;color:#666;line-height:1.3}\n.rlv-cmp__ok{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#fff;color:#2aa37a;font-weight:900;font-size:14px}\n.rlv-cmp__ko{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#111;color:#fff;font-weight:700;font-size:13px}\n@media (max-width:768px){.rlv-cmp{grid-template-columns:1fr;text-align:center}.rlv-cmp__left{text-align:center}}\n\n/* Étapes */\n.rlv-steps{max-width:1400px;margin:0 auto;padding:30px 20px 60px;font-family:inherit}\n.rlv-steps__title{text-align:center;font-size:clamp(24px,3vw,34px);font-weight:800;color:#111;margin:0 0 40px}\n.rlv-steps__title span{color:#2aa37a}\n.rlv-steps__grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}\n.rlv-steps__card{border:1px solid #eaeaea;border-radius:14px;padding:14px;background:#fff}\n.rlv-steps__card img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;display:block;margin-bottom:18px}\n.rlv-steps__card h3{margin:0 0 10px;font-size:17px;font-weight:700;color:#111}\n.rlv-steps__card p{margin:0;font-size:14px;line-height:1.6;color:#444}\n@media (max-width:1024px){.rlv-steps__grid{grid-template-columns:repeat(2,1fr)}}\n@media (max-width:560px){.rlv-steps__grid{grid-template-columns:1fr}}\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
