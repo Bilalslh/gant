@@ -219,15 +219,15 @@
         "image_YWheJY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/b22b2f59f8f5e7513b9a9aa96408dcc9_480x480_480x480_2fd5a742-5aec-4d07-be1f-34107df8339e.webp",
+            "image": "shopify://shop_images/ezgif-1346df86ca2a1cd4_gif.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Retrouvez votre confiance et votre puissance",
-            "content": "<p>Retrouvez votre énergie et votre confiance avec FELINO. Si vous avez des kilos en trop au niveau du ventre, que vous vous sentez fatigué ou que vous évitez les miroirs, FELINO a été conçu exactement pour vous.</p><p>Grâce à sa technologie avancée de compression ionique, il ne se contente pas de remodeler votre silhouette : il améliore la circulation sanguine, active votre sangle abdominale et redonne de l’énergie pour vous permettre de vous lever prêt à bouger, performer et vous sentir comme avant.</p>",
+            "title": "La douleur à l’épaule n’est pas inévitable",
+            "content": "<p>Beaucoup de personnes s’y habituent avec le temps : aux nuits où l’on ne trouve pas de bonne position, aux mouvements que l’on préfère éviter, au quotidien qui s’organise peu à peu autour de la douleur. À un moment, cela finit par sembler normal. Mais normal ne signifie pas que cela doit l’être.Les douleurs à l’épaule n’apparaissent pas sans raison. Elles sont généralement liées à une combinaison de mauvaise circulation sanguine, de tensions musculaires et d’inflammations dans les tissus. Des choses qui se sont installées sur des mois, voire des années. Et c’est précisément pour cela que les solutions superficielles ne fonctionnent souvent que temporairement : elles atténuent la douleur pendant un moment, sans traiter ce qui la fait revenir encore et encore.</p>",
             "link_text": "",
             "link_url": "shopify://collections/frontpage",
             "background": "#ffffff",
@@ -249,168 +249,76 @@
         "spacing": "small"
       }
     },
-    "image_with_text_overlay_i4jq4X": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Generated_Image_April_22_2026_-_12_28AM.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_ktz3gg": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_13_avr._2026_20_46_32.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_hWDLDA": {
-      "type": "rich-text",
+    "media_with_text_UPTDqW": {
+      "type": "media-with-text",
       "blocks": {
-        "heading_t9i6mw": {
-          "type": "heading",
+        "image_VxNcGa": {
+          "type": "image",
           "settings": {
-            "text": "Pourquoi Felino?",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/RELEVO_GIF_2-ezgif_com-video-to-gif-converter_1_gif.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Felino vous redonne ce que les douleurs à l’épaule vous ont enlevé.",
+            "content": "<p>Retrouver des nuits complètes, sans se réveiller toutes les heures. Lever le bras sans avoir à y penser. Se lever le matin et commencer sa journée sans que la douleur soit la première chose ressentie.</p><p>Felino a été conçu pour rendre cela possible : un soulagement perceptible des douleurs à l’épaule, plus de mobilité au quotidien et des nuits vraiment réparatrices. Pas dans plusieurs semaines, mais dès la première utilisation.</p><p>Pas de rendez-vous. Pas de salle d’attente. 15 minutes par jour, à domicile, quand cela vous convient.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "heading_t9i6mw"
+        "image_VxNcGa"
       ],
-      "name": "Rich text",
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
-    "image_with_text_overlay_LXgbPy": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Generated_Image_April_13_2026_-_8_57PM_c9bab32c-f4f9-4e53-aadb-c2f0869b01ea.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "multi_column_j6RNcD": {
-      "type": "multi-column",
+    "media_with_text_bmLnRM": {
+      "type": "media-with-text",
       "blocks": {
-        "item_NCjczP": {
-          "type": "item",
+        "image_WbkXyq": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
+            "image": "shopify://shop_images/RELEVO_GIF-ezgif_com-video-to-gif-converter_1_gif.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Qu’est-ce qui se cache derrière la technologie Orthobional ?",
+            "content": "<p>La plupart des solutions contre les douleurs à l’épaule agissent sur un seul levier. Une bouillotte chauffe. Une attelle soutient. Un appareil de massage détend.</p><p>Le problème :</p><p>Les douleurs à l’épaule proviennent rarement d’un seul facteur, et disparaissent donc rarement avec une seule solution.</p><p>La technologie Orthobional combine trois mécanismes thérapeutiques en une seule application :</p><p>La chaleur détend les muscles environnants et prépare les tissus au traitement.</p><p>Le massage ciblé stimule la circulation sanguine directement dans l’articulation de l’épaule, là où les inflammations apparaissent en cas de mauvaise irrigation.</p><p>La compression maintient une pression constante au bon endroit et renforce l’effet combiné des deux autres fonctions.</p><p>Le résultat n’est pas un effet ponctuel qui disparaît au bout d’une heure.<br/><br/>C’est une combinaison qui permet au corps de retrouver les conditions nécessaires pour faire ce qu’il sait naturellement faire : se réparer lui-même.</p>",
             "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_GQqQfm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_WH7hPX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_kG4W4n": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AenNgr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "item_NCjczP",
-        "item_GQqQfm",
-        "item_WH7hPX",
-        "item_kG4W4n",
-        "item_AenNgr"
+        "image_WbkXyq"
       ],
-      "name": "Multi-column",
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clients en parlent le mieux",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "faq_DUyyfX": {
@@ -570,11 +478,8 @@
     "featured_product_QeWLpF",
     "logo_list_zadBQJ",
     "media_with_text_PPN3jn",
-    "image_with_text_overlay_i4jq4X",
-    "image_with_text_overlay_ktz3gg",
-    "rich_text_hWDLDA",
-    "image_with_text_overlay_LXgbPy",
-    "multi_column_j6RNcD",
+    "media_with_text_UPTDqW",
+    "media_with_text_bmLnRM",
     "faq_DUyyfX",
     "text_with_icons_xbCwNn"
   ]
