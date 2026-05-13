@@ -173,19 +173,19 @@
             "link": ""
           }
         },
-        "logo_FU8A7P": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/gq-logo-black-and-white.png",
-            "logo_width": 90,
-            "link": ""
-          }
-        },
         "logo_LeceM3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Men_s_Health_logo_black.png",
-            "logo_width": 150,
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_FU8A7P": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 160,
             "link": ""
           }
         }
@@ -193,8 +193,8 @@
       "block_order": [
         "logo_GDmJ6c",
         "logo_nYwkmC",
-        "logo_FU8A7P",
-        "logo_LeceM3"
+        "logo_LeceM3",
+        "logo_FU8A7P"
       ],
       "name": "Logo list",
       "settings": {
