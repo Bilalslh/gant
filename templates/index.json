@@ -15,7 +15,7 @@
         "liquid_qTrdDA": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,8/5 + 2786 avis </span>\n</div>"
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,7/5 + 2786 avis </span>\n</div>"
           }
         },
         "liquid_WVacKc": {
@@ -27,7 +27,7 @@
         "liquid_dHtdyn": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:18px;\nheight:18px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n\n<div class=\"beneficios-dermocap\">\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Élimine le ventre de papa</p>\n</div>\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Accélère la perte de poids</p>\n</div>\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Aplati la poitrine d’homme</p>\n</div>\n\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"9\" fill=\"white\" stroke=\"#000\" stroke-width=\"1.5\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Efface les poignées d’amour</p>\n</div>\n\n</div>"
+            "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:20px;\nheight:20px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n<div class=\"beneficios-dermocap\">\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#2aa37a\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Soulage les douleurs chroniques à l'épaule dès la première utilisation</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#2aa37a\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Réduit les gonflements et les inflammations</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#2aa37a\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Seulement 15 minutes par jour — détendez-vous en regardant la télévision ou en lisant</p>\n</div>\n</div>"
           }
         },
         "liquid_gmrpMf": {
@@ -77,8 +77,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Détails du produit",
-            "content": "<p><strong>Tissu :</strong> 80% nylon, 20% spandex<br/><br/><strong>Couleurs disponibles :</strong> Noir, Blanc, Gris<br/><br/><strong>Type :</strong> Débardeur gainant à compression avec maintien de la posture</p><ul><li>Renforce la confiance et l’énergie au quotidien<br/></li><li>Aide à atteindre vos objectifs de perte de poids<br/></li><li>Réduit visiblement l’apparence de la poitrine</li></ul>",
+            "title": "Technologie Orthobionale",
+            "content": "<p>La technologie Orthobionale est notre système de traitement 3-en-1 combinant chaleur, massage et compression.<br/><br/>Les trois fonctions agissent simultanément :</p><p><strong>La chaleur</strong> apporte du sang à l’épaule pour nourrir les tendons.</p><p><strong>Le massage</strong> détend les muscles contractés afin que le bras retrouve sa position naturelle.</p><p><strong>La compression</strong> réduit les gonflements de l’extérieur et crée de l’espace dans l’articulation.</p><p>Développé selon des principes orthopédiques pour un traitement efficace à domicile</p>",
             "page": ""
           }
         },
@@ -87,35 +87,9 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Comment fonctionne réellement le débardeur Felino™ ?",
-            "content": "<p>Felino™ utilise une technologie avancée de compression ionique conçue pour stimuler la réponse naturelle du corps. Ses fibres micro-tissées favorisent une meilleure circulation sanguine et aident à maintenir une posture droite et dynamique du matin au soir.Avec un port régulier, il permet d’obtenir une silhouette visiblement plus affinée, un meilleur alignement du dos et une amélioration globale de votre apparence et de votre confort.</p>",
+            "title": "Aussi simple que ça",
+            "content": "<p><strong>1. Charger complètement</strong> avant la première utilisation</p><p><strong>2. Installer :</strong> placer l’appareil sur l’épaule concernée et le fixer avec la sangle ajustable autour du corps</p><p><strong>3. Choisir le mode :</strong> appuyer simplement sur le bouton — la thérapie Orthobionale (chaleur, massage et compression) démarre automatiquement</p><p><strong>4. Se détendre :</strong> profiter 15 minutes — l’appareil s’arrête automatiquement à la fin</p><p>👉 Pour des résultats optimaux, une utilisation quotidienne est recommandée.<br/><br/>L’appareil peut être utilisé assis ou debout, par exemple en regardant la télévision ou au bureau.</p>",
             "page": ""
-          }
-        },
-        "collapsible_text_gqWch9": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Guide des tailles",
-            "content": "<p><strong>Garantie ajustement parfait.</strong> Nous sommes convaincus que vous allez adorer le rendu.</p><p>Le débardeur Felino™ est conçu avec des zones de compression avancées et une ceinture anti-glissement pour un confort maximal tout au long de la journée.</p><p>Un guide des tailles est disponible dans les images du produit.<br/><br/>Si vous êtes entre deux tailles, nous vous recommandons de prendre la taille au-dessus pour plus de confort.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_ygVE4H": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Livraison Gratuite",
-            "content": "<p>La livraison est offerte dans le monde entier.</p><p>Les commandes sont expédiées sous 24 à 48 heures.</p><p>Elles sont ensuite livrées sous 5 à 8 jours ouvrés, quelle que soit la destination.</p>",
-            "page": ""
-          }
-        },
-        "liquid_cW4Ed7": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"vc-section\">\n  <h2 class=\"vc-title\">Des milliers de clients satisfaits</h2>\n\n  <div class=\"vc-grid\">\n    <video\n      src=\"https://cdn.shopify.com/videos/c/o/v/2d6c390637d744209fd149d8c41e2372.mp4\"\n      playsinline loop muted autoplay\n      class=\"vc-video\"\n      onclick=\"this.muted=!this.muted\"\n    ></video>\n\n    <video\n      src=\"https://cdn.shopify.com/videos/c/o/v/4f7d4266df994427b019329e4c93c89c.mp4\"\n      playsinline loop muted autoplay\n      class=\"vc-video\"\n      onclick=\"this.muted=!this.muted\"\n    ></video>\n\n    <video\n      src=\"https://cdn.shopify.com/videos/c/o/v/65f06748b29d437eaea25df9609da0bf.mp4\"\n      playsinline loop muted autoplay\n      class=\"vc-video\"\n      onclick=\"this.muted=!this.muted\"\n    ></video>\n  </div>\n</div>\n\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');\n\n  .vc-section {\n    padding: 24px 12px;\n    text-align: center;\n  }\n\n  .vc-title {\n    font-family: 'Barlow', sans-serif;\n    font-weight: 700;\n    font-size: clamp(22px, 5vw, 30px);\n    color: #111;\n    margin: 0 0 20px;\n    line-height: 1.2;\n  }\n\n  .vc-grid {\n    display: flex;\n    gap: 8px;\n    justify-content: center;\n  }\n\n  .vc-video {\n    width: calc(33.333% - 6px);\n    max-width: 160px;\n    aspect-ratio: 9/16;\n    object-fit: cover;\n    border-radius: 12px;\n    display: block;\n    cursor: pointer;\n    background: #000;\n  }\n</style>"
           }
         }
       },
@@ -130,10 +104,7 @@
         "image_qkCKP7",
         "pickup_availability_HzKQbr",
         "collapsible_text_BiKWrR",
-        "collapsible_text_kfqw74",
-        "collapsible_text_gqWch9",
-        "collapsible_text_ygVE4H",
-        "liquid_cW4Ed7"
+        "collapsible_text_kfqw74"
       ],
       "name": "Featured product",
       "settings": {
@@ -177,7 +148,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
-            "logo_width": 100,
+            "logo_width": 90,
             "link": ""
           }
         },
