@@ -244,7 +244,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Posologie",
+            "title": "Comment le prendre ?",
             "content": "<p><strong>Prendre 1 sachet par jour</strong>, de préférence le matin ou ou le soir, du lundi au vendredi.</p><ul><li><strong>En cas de stress intense</strong>, il est possible de prendre jusqu'à <strong>2 sachets par jour</strong>, en répartissant les prises dans la journée (par exemple, un le matin et un autre en début d’après-midi).</li><li><strong>Pause recommandée le week-end</strong> pour maximiser les bienfaits à long terme et éviter que l'organisme ne développe une tolérance.</li></ul><p>Bien agiter ou mélanger dans un verre d’eau avant consommation. Pour des résultats optimaux, suivez cette routine régulièrement.</p>",
             "page": ""
           }
@@ -505,6 +505,66 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "testimonials_CwnBVm": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_VtmJC7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Matteo K.  ",
+            "title": "Avis vérifié",
+            "content": "<p>J'ai commencé Felino parce que le stress au travail était devenu vraiment intense et je voulais quelque chose de simple à intégrer dans ma routine. Honnêtement ça m'aide à me sentir un peu plus calme et équilibré dans la journée, et le goût est vraiment bon. Rien d'excessif, juste un truc solide au quotidien, et j'y suis resté. 👍</p>"
+          }
+        },
+        "testimonial_fKYayT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jonas M.",
+            "title": "Avis vérifié",
+            "content": "<p>J'avais vu Felino en pub sur Facebook et Instagram et j'étais curieux, alors je l'ai commandé. Ça fait maintenant quelques mois que je le bois et c'est devenu une de mes routines quotidiennes préférées. Ça m'aide à me sentir plus calme, plus constant et quelque part bien plus confiant en moi. J'aurais pas cru que ça ferait une telle différence, mais je suis vraiment content. </p>"
+          }
+        },
+        "testimonial_D4xE47": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lenny A.",
+            "title": "Avis vérifié",
+            "content": "<p>Honnêtement, après environ 5 semaines avec la boisson je me sens juste bien mieux dans ma peau. Mon énergie est plus stable, l'humeur plus légère et je remarque vraiment que je me comporte différemment au quotidien.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_VtmJC7",
+        "testimonial_fKYayT",
+        "testimonial_D4xE47"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -514,6 +574,7 @@
     "featured_product_QeWLpF",
     "media_with_text_PPN3jn",
     "faq_DUyyfX",
-    "text_with_icons_xbCwNn"
+    "text_with_icons_xbCwNn",
+    "testimonials_CwnBVm"
   ]
 }
