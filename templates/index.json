@@ -9,6 +9,81 @@
  */
 {
   "sections": {
+    "logo_list_zadBQJ": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_GDmJ6c": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue-Logo.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_nYwkmC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_LeceM3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_FU8A7P": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 180,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_GDmJ6c",
+        "logo_nYwkmC",
+        "logo_LeceM3",
+        "logo_FU8A7P"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
+    "image_with_text_overlay_XFEGMX": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Image_b.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured_product_QeWLpF": {
       "type": "featured-product",
       "blocks": {
@@ -123,65 +198,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "logo_list_zadBQJ": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_GDmJ6c": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Vogue-Logo.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_nYwkmC": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Forbes.png",
-            "logo_width": 130,
-            "link": ""
-          }
-        },
-        "logo_LeceM3": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
-            "logo_width": 90,
-            "link": ""
-          }
-        },
-        "logo_FU8A7P": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
-            "logo_width": 160,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_GDmJ6c",
-        "logo_nYwkmC",
-        "logo_LeceM3",
-        "logo_FU8A7P"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Vu sur",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
       }
     },
     "custom_liquid_LcDN3Y": {
@@ -506,8 +522,9 @@
     }
   },
   "order": [
-    "featured_product_QeWLpF",
     "logo_list_zadBQJ",
+    "image_with_text_overlay_XFEGMX",
+    "featured_product_QeWLpF",
     "custom_liquid_LcDN3Y",
     "media_with_text_PPN3jn",
     "media_with_text_UPTDqW",
