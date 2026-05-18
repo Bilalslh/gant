@@ -84,6 +84,82 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_hpmdnb": {
+      "type": "multi-column",
+      "blocks": {
+        "item_RqzmgE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_mai_2026_16_23_05.png",
+            "column_size": "3",
+            "title": "Daniel 29 ans",
+            "heading_tag": "h4",
+            "content": "<p>4 mois avec Felino et j’ai perdu 12 kg. Avant, j’allais 6 jours par semaine à la salle. Tous les jours poulet et riz. La balance ne bougeait pas d’un millimètre. Au final, le problème, c’était le cortisol tout le long. Avec Felino, tout a changé. Je m’entraîne maintenant beaucoup moins, je mange plus… et pourtant je continue de perdre du poids.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FpxBCL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_mai_2026_16_23_13.png",
+            "column_size": "3",
+            "title": "Thomas 41 ans",
+            "heading_tag": "h4",
+            "content": "<p>Honnêtement, j’étais super sceptique. Mais j’ai testé Felino, notamment grâce à la garantie satisfait ou remboursé. Après environ un mois, ma femme m’a dit que mon visage paraissait plus fin. Je pensais que c’était un hasard. Mais après 2,5 mois, mon ventre était tellement plat que, pour la première fois depuis des années, mes abdos étaient visibles. J’étais vraiment choqué de voir à quel point ça fonctionnait.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9YyFAx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/hf_20260305_065742_b49e0bb2-0acf-4112-b32a-cf0d15eeff10.png",
+            "column_size": "3",
+            "title": "Lukas 37 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je n’ai pas compris pendant des années pourquoi je n’arrivais tout simplement pas à perdre du poids. Puis je suis tombé sur Felino et la façon dont ils expliquaient ce que le cortisol fait au corps — et là, j’ai eu un déclic. C’était ça le problème qui me bloquait depuis tout ce temps. 7 mois plus tard, j’ai perdu 22 kg. Mon énergie est au maximum et j’ai enfin l’impression que mon corps travaille avec moi, et non contre moi.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cJJUcn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/hf_20260305_072219_d2d662ba-8bc6-4664-a2aa-4c7f34d53af3.png",
+            "column_size": "3",
+            "title": "Michael 28 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je n’ai pas cru un mot de Felino. Mais je l’ai quand même commandé, grâce à la garantie satisfait ou remboursé. Et honnêtement, je n’avais plus d’autres options. J’ai essayé le keto, le jeûne, j’ai arrêté l’alcool et la cigarette. J’ai compté chaque calorie, je me suis entraîné 5 jours par semaine. Rien. Aucune énergie toute la journée, aucune envie de sexe et mon ventre ne bougeait pas. Après 5 mois avec Felino, mon visage est redevenu défini et mon ventre est aussi plat que jamais. Désolé d’avoir douté de toi Felino !!!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_RqzmgE",
+        "item_FpxBCL",
+        "item_9YyFAx",
+        "item_cJJUcn"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos client en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_QeWLpF": {
       "type": "featured-product",
       "blocks": {
@@ -519,87 +595,12 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "multi_column_hpmdnb": {
-      "type": "multi-column",
-      "blocks": {
-        "item_RqzmgE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/hf_20260305_064522_1562948a-9ad6-4824-906b-5bebbdc8f7d7.png",
-            "column_size": "3",
-            "title": "Daniel 29 ans",
-            "heading_tag": "h4",
-            "content": "<p>4 mois avec Felino et j’ai perdu 12 kg. Avant, j’allais 6 jours par semaine à la salle. Tous les jours poulet et riz. La balance ne bougeait pas d’un millimètre. Au final, le problème, c’était le cortisol tout le long. Avec Felino, tout a changé. Je m’entraîne maintenant beaucoup moins, je mange plus… et pourtant je continue de perdre du poids.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_FpxBCL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/hf_20260305_071339_5b2ebe46-c562-41a3-ab94-64d669ba11d8.png",
-            "column_size": "3",
-            "title": "Thomas 41 ans",
-            "heading_tag": "h4",
-            "content": "<p>Honnêtement, j’étais super sceptique. Mais j’ai testé Felino, notamment grâce à la garantie satisfait ou remboursé. Après environ un mois, ma femme m’a dit que mon visage paraissait plus fin. Je pensais que c’était un hasard. Mais après 2,5 mois, mon ventre était tellement plat que, pour la première fois depuis des années, mes abdos étaient visibles. J’étais vraiment choqué de voir à quel point ça fonctionnait.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9YyFAx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/hf_20260305_065742_b49e0bb2-0acf-4112-b32a-cf0d15eeff10.png",
-            "column_size": "3",
-            "title": "Lukas 37 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je n’ai pas compris pendant des années pourquoi je n’arrivais tout simplement pas à perdre du poids. Puis je suis tombé sur Felino et la façon dont ils expliquaient ce que le cortisol fait au corps — et là, j’ai eu un déclic. C’était ça le problème qui me bloquait depuis tout ce temps. 7 mois plus tard, j’ai perdu 22 kg. Mon énergie est au maximum et j’ai enfin l’impression que mon corps travaille avec moi, et non contre moi.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_cJJUcn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/hf_20260305_072219_d2d662ba-8bc6-4664-a2aa-4c7f34d53af3.png",
-            "column_size": "3",
-            "title": "Michael 28 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je n’ai pas cru un mot de Felino. Mais je l’ai quand même commandé, grâce à la garantie satisfait ou remboursé. Et honnêtement, je n’avais plus d’autres options. J’ai essayé le keto, le jeûne, j’ai arrêté l’alcool et la cigarette. J’ai compté chaque calorie, je me suis entraîné 5 jours par semaine. Rien. Aucune énergie toute la journée, aucune envie de sexe et mon ventre ne bougeait pas. Après 5 mois avec Felino, mon visage est redevenu défini et mon ventre est aussi plat que jamais. Désolé d’avoir douté de toi Felino !!!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_RqzmgE",
-        "item_FpxBCL",
-        "item_9YyFAx",
-        "item_cJJUcn"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "logo_list_zadBQJ",
     "image_with_text_overlay_XFEGMX",
+    "multi_column_hpmdnb",
     "featured_product_QeWLpF",
     "custom_liquid_LcDN3Y",
     "media_with_text_PPN3jn",
@@ -609,7 +610,6 @@
     "custom_liquid_rzMKqm",
     "custom_liquid_y7g47Q",
     "faq_DUyyfX",
-    "text_with_icons_xbCwNn",
-    "multi_column_hpmdnb"
+    "text_with_icons_xbCwNn"
   ]
 }
