@@ -16,7 +16,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Vogue-Logo.png",
-            "logo_width": 150,
+            "logo_width": 140,
             "link": ""
           }
         },
@@ -31,16 +31,16 @@
         "logo_LeceM3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Forbes.png",
+            "logo_width": 130,
             "link": ""
           }
         },
         "logo_FU8A7P": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
-            "logo_width": 180,
+            "logo": "shopify://shop_images/Men_s_Health_logo_black.png",
+            "logo_width": 150,
             "link": ""
           }
         }
