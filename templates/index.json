@@ -184,7 +184,7 @@
         "liquid_dHtdyn": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:20px;\nheight:20px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n<div class=\"beneficios-dermocap\">\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#2aa37a\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Soulage les douleurs chroniques à l'épaule dès la première utilisation</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#2aa37a\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Réduit les gonflements et les inflammations</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#2aa37a\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Seulement 15 minutes par jour — détendez-vous en regardant la télévision ou en lisant</p>\n</div>\n</div>"
+            "liquid": "<style>\n.beneficios-dermocap{\nmax-width:900px;\nmargin:20px auto 15px auto;\npadding:0;\n}\n.beneficio-item{\ndisplay:flex;\nalign-items:center;\ngap:10px;\nmargin-bottom:10px;\n}\n.beneficio-icono svg{\nwidth:20px;\nheight:20px;\n}\n.beneficio-texto{\nfont-size:15px;\ncolor:#000;\nmargin:0;\nline-height:1.5;\nfont-weight:500;\n}\n</style>\n<div class=\"beneficios-dermocap\">\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#cdfbff\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Réduit la graisse abdominale et dégonfle le ventre</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#cdfbff\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Booste l'énergie toute la journée sans coup de barre</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#cdfbff\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Améliore le sommeil pour des nuits vraiment réparatrices</p>\n</div>\n<div class=\"beneficio-item\">\n<div class=\"beneficio-icono\">\n<svg viewBox=\"0 0 24 24\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#cdfbff\"/>\n<path d=\"M7 12.5L10 15.5L17 8.5\" fill=\"none\" stroke=\"#000\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n</svg>\n</div>\n<p class=\"beneficio-texto\">Réduit le stress et l'irritabilité durablement</p>\n</div>\n</div>"
           }
         },
         "liquid_gmrpMf": {
@@ -234,8 +234,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Technologie Orthobionale",
-            "content": "<p>La technologie Orthobionale est notre système de traitement 3-en-1 combinant chaleur, massage et compression.<br/><br/>Les trois fonctions agissent simultanément :</p><p><strong>La chaleur</strong> apporte du sang à l’épaule pour nourrir les tendons.</p><p><strong>Le massage</strong> détend les muscles contractés afin que le bras retrouve sa position naturelle.</p><p><strong>La compression</strong> réduit les gonflements de l’extérieur et crée de l’espace dans l’articulation.</p><p>Développé selon des principes orthopédiques pour un traitement efficace à domicile</p>",
+            "title": "Ingrédients",
+            "content": "<p><strong>Ingrédients actifs :</strong></p><ul><li><strong>Ashwagandha</strong> : 300 mg</li><li><strong>L-Théanine</strong> : 400 mg</li><li><strong>Magnésium Glycinate</strong> : 100 mg</li><li><strong>Vitamine D3</strong> : 1000 IU</li></ul><p><strong>Autres ingrédients :</strong></p><ul><li>Acide citrique, arôme naturel de framboise, arôme naturel de citron, extrait de betterave biologique, extrait de feuille de stévia.</li></ul>",
             "page": ""
           }
         },
@@ -244,8 +244,18 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Aussi simple que ça",
-            "content": "<p><strong>1. Charger complètement</strong> avant la première utilisation</p><p><strong>2. Installer :</strong> placer l’appareil sur l’épaule concernée et le fixer avec la sangle ajustable autour du corps</p><p><strong>3. Choisir le mode :</strong> appuyer simplement sur le bouton — la thérapie Orthobionale (chaleur, massage et compression) démarre automatiquement</p><p><strong>4. Se détendre :</strong> profiter 15 minutes — l’appareil s’arrête automatiquement à la fin</p><p>👉 Pour des résultats optimaux, une utilisation quotidienne est recommandée.<br/><br/>L’appareil peut être utilisé assis ou debout, par exemple en regardant la télévision ou au bureau.</p>",
+            "title": "Posologie",
+            "content": "<p><strong>Prendre 1 sachet par jour</strong>, de préférence le matin ou ou le soir, du lundi au vendredi.</p><ul><li><strong>En cas de stress intense</strong>, il est possible de prendre jusqu'à <strong>2 sachets par jour</strong>, en répartissant les prises dans la journée (par exemple, un le matin et un autre en début d’après-midi).</li><li><strong>Pause recommandée le week-end</strong> pour maximiser les bienfaits à long terme et éviter que l'organisme ne développe une tolérance.</li></ul><p>Bien agiter ou mélanger dans un verre d’eau avant consommation. Pour des résultats optimaux, suivez cette routine régulièrement.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Yidxek": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison Gratuite",
+            "content": "<p>Toutes les commandes sont expédiées en 24 à 48h.</p><p>Livraison sous 5 à 8 jours ouvrés en France, dans toute l'Europe et au Canada.</p>",
             "page": ""
           }
         }
@@ -262,7 +272,8 @@
         "image_qkCKP7",
         "pickup_availability_HzKQbr",
         "collapsible_text_BiKWrR",
-        "collapsible_text_kfqw74"
+        "collapsible_text_kfqw74",
+        "collapsible_text_Yidxek"
       ],
       "name": "Featured product",
       "settings": {
