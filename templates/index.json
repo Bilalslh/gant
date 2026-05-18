@@ -166,13 +166,13 @@
         "liquid_qTrdDA": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,7/5 + 2786 avis </span>\n</div>"
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,8/5 + 5786 avis </span>\n</div>"
           }
         },
         "liquid_WVacKc": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .visiora-title {\n    font-family: 'Barlow', sans-serif;\n    font-size: 30px;\n    font-weight: 700;\n    color: #000000;\n    line-height: 1.2;\n    margin: 0;\n    padding: 0;\n  }\n</style>\n\n<h1 class=\"visiora-title\">\nMasseur d’épaule 3-en-1 FELINO\n</h1>"
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .visiora-title {\n    font-family: 'Barlow', sans-serif;\n    font-size: 30px;\n    font-weight: 700;\n    color: #000000;\n    line-height: 1.2;\n    margin: 0;\n    padding: 0;\n  }\n</style>\n\n<h1 class=\"visiora-title\">\nFELINO - Supercalm\n</h1>"
           }
         },
         "liquid_dHtdyn": {
