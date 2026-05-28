@@ -54,6 +54,26 @@
             "alignment": "center",
             "max_width": 400
           }
+        },
+        "collapsible_text_dtfT9P": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Utilisation",
+            "content": "<p><strong>Utilisation & entretien</strong></p><p>Tellement simple que même votre voisin sera jaloux 😄</p><p>Le panier de grill est conçu pour être ultra simple à utiliser —<br/><br/>placez les aliments, fermez, et c’est prêt.<br/><br/>Aucune technique, aucune étape compliquée.</p><p>👉 Mode d’emploi :</p><ul><li>Déposez les aliments dans le panier<br/></li><li>Fermez le couvercle et placez-le sur le barbecue<br/></li><li>Profitez d’une cuisson parfaite<br/></li></ul><p>👉 Nettoyage :<br/><br/>Passez-le directement au lave-vaisselle ou rincez-le sous l’eau.<br/><br/>Résiste jusqu’à 500°C sans problème.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_4QybjC": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison gratuite",
+            "content": "<p><strong>Livraison & expédition</strong></p><ul><li>Livraison gratuite (expédition 24h-48) (livraison 5-8j)<br/></li><li>Suivi de commande disponible<br/></li><li>Notification par email lorsque votre colis est en route<br/></li></ul><p>Parfait pour vos grillades du week-end ou vos repas improvisés 🔥</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -62,7 +82,9 @@
         "liquid_qY9Un4",
         "buy_buttons",
         "liquid_66Depb",
-        "image_LJ9yG3"
+        "image_LJ9yG3",
+        "collapsible_text_dtfT9P",
+        "collapsible_text_4QybjC"
       ],
       "settings": {
         "full_width": true,
