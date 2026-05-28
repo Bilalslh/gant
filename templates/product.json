@@ -36,13 +36,13 @@
         "liquid_tAVq4B": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n  .rating-stars {\n    color: #4CAF7D;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,8/5 + 2786 (motards satisfaits) </span>\n</div>"
+            "liquid": "<style>\n  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');\n\n  .rating-bar {\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    margin: 0;\n    padding: 0;\n    line-height: 1;\n  }\n\n  .rating-stars {\n    color: #E53935;\n    font-size: 16px;\n    letter-spacing: 1px;\n  }\n\n  .rating-text {\n    font-family: 'Barlow', sans-serif;\n    color: #333;\n    font-size: 16px;\n    font-weight: 600;\n  }\n</style>\n\n<div class=\"rating-bar\">\n  <span class=\"rating-stars\">★★★★★</span>\n  <span class=\"rating-text\"> Excellent 4,8/5 + 2786 (clients satisfaits) </span>\n</div>"
           }
         },
         "liquid_tP9U7L": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .beneficios-dermocap {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n  .beneficio-title {\n    font-size: 22px;\n    color: #000000;\n    font-weight: 700;\n    margin-bottom: 6px;\n  }\n  .beneficio-subtitle {\n    font-size: 14px;\n    color: #000000;\n    font-weight: 600;\n    margin-bottom: 12px;\n  }\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n\n<div class=\"beneficios-dermocap\">\n  \n  <p class=\"beneficio-title\">Panier de grill – Qualité supérieure, cuisson parfaite</p>\n  <p class=\"beneficio-subtitle\">Grillez facilement viandes, légumes et fruits de mer sans effort</p>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Aucun aliment ne colle – idéal pour crevettes, légumes et viande</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Résiste jusqu’à 500°C – compatible avec tous les types de barbecue</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#000000\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Acier inoxydable – passe au lave-vaisselle pour un nettoyage facile</p>\n  </div>\n\n</div>"
+            "liquid": "<style>\n  .beneficios-dermocap {\n    max-width: 900px;\n    margin: 20px auto 15px auto;\n    padding: 0;\n  }\n  .beneficio-title {\n    font-size: 22px;\n    color: #000000;\n    font-weight: 700;\n    margin-bottom: 6px;\n  }\n  .beneficio-subtitle {\n    font-size: 14px;\n    color: #000000;\n    font-weight: 600;\n    margin-bottom: 12px;\n  }\n  .beneficio-item {\n    display: flex;\n    align-items: flex-start;\n    gap: 10px;\n    margin-bottom: 10px;\n  }\n  .beneficio-icono {\n    margin-top: 3px;\n    flex-shrink: 0;\n  }\n  .beneficio-icono svg {\n    width: 20px;\n    height: 20px;\n    display: block;\n  }\n  .beneficio-texto {\n    font-size: 15px;\n    color: #000000;\n    margin: 0;\n    line-height: 1.5;\n    font-weight: 500;\n  }\n</style>\n\n<div class=\"beneficios-dermocap\">\n  \n  <p class=\"beneficio-title\">Panier de grill – Qualité supérieure, cuisson parfaite</p>\n  <p class=\"beneficio-subtitle\">Grillez facilement viandes, légumes et fruits de mer sans effort</p>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#E53935\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Aucun aliment ne colle – idéal pour crevettes, légumes et viande</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#E53935\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Résiste jusqu’à 500°C – compatible avec tous les types de barbecue</p>\n  </div>\n\n  <div class=\"beneficio-item\">\n    <div class=\"beneficio-icono\">\n      <svg viewBox=\"0 0 20 20\">\n        <circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"#E53935\"/>\n        <path d=\"M5 10.5L8.2 13.5L15 6.5\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/>\n      </svg>\n    </div>\n    <p class=\"beneficio-texto\">Acier inoxydable – passe au lave-vaisselle pour un nettoyage facile</p>\n  </div>\n\n</div>"
           }
         },
         "liquid_VaDPnX": {
@@ -56,7 +56,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
+            "atc_button_background": "#000000",
             "atc_button_text_color": "",
             "payment_button_background": "#f0c417",
             "payment_button_text_color": ""
@@ -131,9 +131,22 @@
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
+        "remove_vertical_spacing": true,
         "remove_horizontal_spacing": false,
         "liquid": "<style>\n  .gss-grill{--gss-red:#e23a3a;max-width:1180px;margin:0 auto;padding:40px 20px;font-family:inherit}\n  .gss-grill .gss-row{display:flex;gap:48px;align-items:center;margin-bottom:64px}\n  .gss-grill .gss-row:last-child{margin-bottom:0}\n  .gss-grill .gss-row.rev{flex-direction:row-reverse}\n  .gss-grill .gss-col{flex:1;min-width:0}\n  .gss-grill img{width:100%;height:auto;display:block;border-radius:6px}\n  .gss-grill .gss-stars{display:flex;align-items:center;gap:8px;margin-bottom:16px;font-size:14px;font-weight:600}\n  .gss-grill .gss-stars span{color:#222}\n  .gss-grill .gss-stars small{color:#666;font-weight:400}\n  .gss-grill .gss-star{color:#f5a623}\n  .gss-grill h2{font-size:30px;line-height:1.05;font-weight:800;text-transform:uppercase;letter-spacing:.5px;margin:0 0 16px}\n  .gss-grill h2 .r{color:var(--gss-red)}\n  .gss-grill p{font-size:16px;line-height:1.5;color:#222;margin:0 0 14px}\n  .gss-grill .gss-btn{display:block;width:100%;background:var(--gss-red);color:#fff;border:0;border-radius:6px;padding:18px;font-size:17px;font-weight:700;cursor:pointer;text-align:center;margin-top:8px;transition:opacity .15s;text-decoration:none}\n  .gss-grill .gss-btn:hover{opacity:.9}\n  @media(max-width:749px){\n    .gss-grill .gss-row,.gss-grill .gss-row.rev{flex-direction:column;gap:24px;margin-bottom:48px}\n    .gss-grill h2{font-size:24px}\n  }\n</style>\n\n<div class=\"gss-grill\">\n\n  <div class=\"gss-row\">\n    <div class=\"gss-col\">\n      <div class=\"gss-stars\">\n        <span class=\"gss-star\">★★★★★</span>\n        <span>4,8</span>\n        <small>(1&nbsp;240 avis)</small>\n      </div>\n      <h2>Enfin des grillades sans <span class=\"r\">stress</span> ni <span class=\"r\">ratés</span></h2>\n      <p>Invitez votre famille et vos amis sans vous soucier de la cuisson.</p>\n      <p><strong>Le panier de grill élimine le stress et vous donne le contrôle</strong> que vous attendez de votre barbecue. Concentrez-vous sur l’essentiel — <strong>le temps passé avec vos proches.</strong></p>\n      <button type=\"button\" class=\"gss-btn\">Dites adieu au stress du barbecue pour de bon</button>\n    </div>\n    <div class=\"gss-col\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Rolling_Basket_Set_Effortlessly_grill_delicate_vegetables_seafoods_and_meats_on_the_BBQ_1.jpg?v=1779962684\" alt=\"Panier de grill avec légumes\" loading=\"lazy\">\n    </div>\n  </div>\n\n  <div class=\"gss-row rev\">\n    <div class=\"gss-col\">\n      <h2><span class=\"r\">Des résultats parfaits</span> sans avoir besoin d’être un expert</h2>\n      <p>D’autres produits exigent une technique parfaite. <strong>Le panier de grill fonctionne même si ce n’est pas votre cas.</strong></p>\n      <p><strong>Des résultats parfaits à chaque fois</strong>, peu importe votre expérience ou votre technique.</p>\n      <button type=\"button\" class=\"gss-btn\">Commandez votre panier de grill dès aujourd’hui</button>\n    </div>\n    <div class=\"gss-col\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/A_pair_of_heat_fire-resistant_BBQ_gloves_included_in_our_rolling_grill_basket_set_Designe_2_kopia.jpg?v=1779962683\" alt=\"Gants résistants à la chaleur inclus\" loading=\"lazy\">\n    </div>\n  </div>\n\n</div>\n\n<script>\n(function(){\n  document.querySelectorAll('.gss-grill .gss-btn').forEach(function(b){\n    b.addEventListener('click',function(){\n      // cible le formulaire produit de la section \"produit en vedette\" plus haut\n      var t = document.querySelector('product-form')\n           || document.querySelector('form[action*=\"/cart/add\"]');\n      if(t){ t.scrollIntoView({behavior:'smooth', block:'center'}); }\n      else { window.scrollTo({top:0, behavior:'smooth'}); }\n    });\n  });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_WEPAfB": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .gss-vs{--red:#e23a3a;--green:#2ec27e;--ink:#1f2733;max-width:900px;margin:0 auto;padding:36px 20px;font-family:inherit}\n  .gss-vs .gss-title{text-align:center;font-size:24px;font-weight:700;color:var(--ink);margin:0 0 18px}\n  .gss-vs .gss-sub{text-align:center;font-size:16px;color:#3b4452;margin:0 auto 28px;max-width:560px}\n  .gss-vs .gss-box{border:1px solid #e6e8ec;border-radius:18px;display:flex;overflow:hidden}\n  .gss-vs .gss-col{flex:1;min-width:0;padding:26px 24px 30px}\n  .gss-vs .gss-col.left{border-right:1px solid #e6e8ec}\n  .gss-vs .gss-col img{display:block;width:100%;max-width:230px;height:300px;object-fit:contain;margin:0 auto 18px}\n  .gss-vs .gss-col h3{text-align:center;font-size:18px;font-weight:700;color:var(--ink);margin:0 0 22px;line-height:1.3}\n  .gss-vs ul{list-style:none;margin:0;padding:0}\n  .gss-vs li{display:flex;gap:12px;align-items:flex-start;margin-bottom:18px;font-size:15px;line-height:1.4}\n  .gss-vs li:last-child{margin-bottom:0}\n  .gss-vs .left li{color:var(--ink);font-weight:700}\n  .gss-vs .right li{color:#3b4452;font-weight:400}\n  .gss-vs .ic{flex:0 0 auto;width:22px;height:22px;margin-top:1px}\n  @media(max-width:749px){\n    .gss-vs .gss-box{flex-direction:column}\n    .gss-vs .gss-col.left{border-right:0;border-bottom:1px solid #e6e8ec}\n    .gss-vs .gss-col img{height:220px}\n    .gss-vs .gss-title{font-size:21px}\n  }\n</style>\n\n<svg width=\"0\" height=\"0\" style=\"position:absolute\" aria-hidden=\"true\">\n  <symbol id=\"gss-chk\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#2ec27e\" stroke-width=\"2\">\n    <circle cx=\"12\" cy=\"12\" r=\"10\"/>\n    <path d=\"M7 12.5l3 3 7-7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n  </symbol>\n  <symbol id=\"gss-x\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#e23a3a\" stroke-width=\"2.4\" stroke-linecap=\"round\">\n    <path d=\"M6 6l12 12M18 6L6 18\"/>\n  </symbol>\n</svg>\n\n<div class=\"gss-vs\">\n\n  <h2 class=\"gss-title\">Pourquoi le panier de grill surpasse tous les autres</h2>\n  <p class=\"gss-sub\">Pendant que d’autres produits promettent, nous livrons les résultats que vous méritez.</p>\n\n  <div class=\"gss-box\">\n\n    <div class=\"gss-col left\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/1_b09e6112-a333-4b65-8883-587a055e9845.webp?v=1779963544\" alt=\"Le panier de grill\" loading=\"lazy\">\n      <h3>Le panier de grill</h3>\n      <ul>\n        <li><svg class=\"ic\"><use href=\"#gss-chk\"/></svg> Diffusion de chaleur uniforme</li>\n        <li><svg class=\"ic\"><use href=\"#gss-chk\"/></svg> La fumée et les arômes de grillade pénètrent parfaitement</li>\n        <li><svg class=\"ic\"><use href=\"#gss-chk\"/></svg> Idéal pour tous les aliments — de la viande juteuse aux légumes</li>\n        <li><svg class=\"ic\"><use href=\"#gss-chk\"/></svg> Des résultats dignes d’un professionnel</li>\n      </ul>\n    </div>\n\n    <div class=\"gss-col right\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/5_7.jpg?v=1779963545\" alt=\"Autres solutions\" loading=\"lazy\">\n      <h3>Autres solutions</h3>\n      <ul>\n        <li><svg class=\"ic\"><use href=\"#gss-x\"/></svg> Chaleur irrégulière — risque de brûler ou de rater la cuisson</li>\n        <li><svg class=\"ic\"><use href=\"#gss-x\"/></svg> Bloque la fumée — moins de goût grillé</li>\n        <li><svg class=\"ic\"><use href=\"#gss-x\"/></svg> Limité — peu adapté aux petits ou aliments fragiles</li>\n        <li><svg class=\"ic\"><use href=\"#gss-x\"/></svg> Difficile d’obtenir une cuisson homogène</li>\n      </ul>\n    </div>\n\n  </div>\n\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -223,131 +236,13 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "multi_column_LQJtGz": {
-      "type": "multi-column",
-      "blocks": {
-        "item_T9qqpx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_e2f5392f-c5f2-48bb-aff6-d7bca95cd122.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_LLTJ4D": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1_bbbb62e3-2508-4b6d-ad08-740f950482fd.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_UejFeR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_82ba57cd-0609-41be-8722-ccdf61afec66.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JpNTRJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_4dc7931e-5b61-413d-bfe0-3b0321a6b325.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_DwaqpB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Ajouter_un_sous-titre.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gVCJxt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_821bdfcc-61c6-4b10-b79b-2b61870aae63.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_T9qqpx",
-        "item_LLTJ4D",
-        "item_UejFeR",
-        "item_JpNTRJ",
-        "item_DwaqpB",
-        "item_gVCJxt"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clients en parlent le mieux",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_dL9adf": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .gss-vs{--gss-red:#e23a3a;--gss-green:#28a745;max-width:1100px;margin:0 auto;padding:40px 20px;font-family:inherit}\n  .gss-vs .gss-head{text-align:center;margin-bottom:32px}\n  .gss-vs h2{font-size:30px;line-height:1.1;font-weight:800;text-transform:uppercase;letter-spacing:.5px;margin:0 0 12px}\n  .gss-vs h2 .r{color:var(--gss-red)}\n  .gss-vs .gss-sub{font-size:16px;color:#444;margin:0;max-width:640px;margin-left:auto;margin-right:auto}\n  .gss-vs .gss-cols{display:flex;gap:24px;align-items:stretch}\n  .gss-vs .gss-card{flex:1;min-width:0;border:1px solid #eee;border-radius:10px;overflow:hidden;background:#fff;display:flex;flex-direction:column}\n  .gss-vs .gss-card.win{border:2px solid var(--gss-red);box-shadow:0 6px 24px rgba(226,58,58,.12)}\n  .gss-vs .gss-card img{width:100%;height:220px;object-fit:cover;display:block}\n  .gss-vs .gss-body{padding:22px}\n  .gss-vs .gss-card h3{font-size:20px;font-weight:800;margin:0 0 16px;text-transform:uppercase}\n  .gss-vs .gss-card.win h3{color:var(--gss-red)}\n  .gss-vs ul{list-style:none;margin:0;padding:0}\n  .gss-vs li{display:flex;gap:10px;align-items:flex-start;font-size:15px;line-height:1.45;color:#222;padding:9px 0;border-bottom:1px solid #f2f2f2}\n  .gss-vs li:last-child{border-bottom:0}\n  .gss-vs .ic{flex:0 0 auto;font-weight:700}\n  .gss-vs .win .ic{color:var(--gss-green)}\n  .gss-vs .lose .ic{color:var(--gss-red)}\n  @media(max-width:749px){\n    .gss-vs .gss-cols{flex-direction:column}\n    .gss-vs h2{font-size:23px}\n    .gss-vs .gss-card img{height:180px}\n  }\n</style>\n\n<div class=\"gss-vs\">\n\n  <div class=\"gss-head\">\n    <h2>Pourquoi le panier de grill <span class=\"r\">surpasse</span> tous les autres</h2>\n    <p class=\"gss-sub\">Pendant que d’autres produits promettent, nous livrons les résultats que vous méritez.</p>\n  </div>\n\n  <div class=\"gss-cols\">\n\n    <div class=\"gss-card win\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/1_b09e6112-a333-4b65-8883-587a055e9845.webp?v=1779963544\" alt=\"Panier de grill\" loading=\"lazy\">\n      <div class=\"gss-body\">\n        <h3>Panier de grill</h3>\n        <ul>\n          <li><span class=\"ic\">✅</span> Diffusion de chaleur uniforme</li>\n          <li><span class=\"ic\">✅</span> La fumée et les arômes de grillade pénètrent parfaitement</li>\n          <li><span class=\"ic\">✅</span> Idéal pour tous les aliments — de la viande juteuse aux légumes</li>\n          <li><span class=\"ic\">✅</span> Des résultats dignes d’un professionnel</li>\n        </ul>\n      </div>\n    </div>\n\n    <div class=\"gss-card lose\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/5_7.jpg?v=1779963545\" alt=\"Autres solutions\" loading=\"lazy\">\n      <div class=\"gss-body\">\n        <h3>Autres solutions</h3>\n        <ul>\n          <li><span class=\"ic\">❌</span> Chaleur irrégulière — risque de brûler ou de rater la cuisson</li>\n          <li><span class=\"ic\">❌</span> Bloque la fumée — moins de goût grillé</li>\n          <li><span class=\"ic\">❌</span> Limité — peu adapté aux petits ou aliments fragiles</li>\n          <li><span class=\"ic\">❌</span> Difficile d’obtenir une cuisson homogène</li>\n        </ul>\n      </div>\n    </div>\n\n  </div>\n\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "main",
     "featured_product_CtnkP8",
     "custom_liquid_Rt9Kgc",
-    "faq_zKab9F",
-    "multi_column_LQJtGz",
-    "custom_liquid_dL9adf"
+    "custom_liquid_WEPAfB",
+    "faq_zKab9F"
   ]
 }
