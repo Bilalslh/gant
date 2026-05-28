@@ -126,42 +126,69 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_Rt9Kgc": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .gss-grill{--gss-red:#e23a3a;max-width:1180px;margin:0 auto;padding:40px 20px;font-family:inherit}\n  .gss-grill .gss-row{display:flex;gap:48px;align-items:center;margin-bottom:64px}\n  .gss-grill .gss-row:last-child{margin-bottom:0}\n  .gss-grill .gss-row.rev{flex-direction:row-reverse}\n  .gss-grill .gss-col{flex:1;min-width:0}\n  .gss-grill img{width:100%;height:auto;display:block;border-radius:6px}\n  .gss-grill .gss-stars{display:flex;align-items:center;gap:8px;margin-bottom:16px;font-size:14px;font-weight:600}\n  .gss-grill .gss-stars span{color:#222}\n  .gss-grill .gss-stars small{color:#666;font-weight:400}\n  .gss-grill .gss-star{color:#f5a623}\n  .gss-grill h2{font-size:30px;line-height:1.05;font-weight:800;text-transform:uppercase;letter-spacing:.5px;margin:0 0 16px}\n  .gss-grill h2 .r{color:var(--gss-red)}\n  .gss-grill p{font-size:16px;line-height:1.5;color:#222;margin:0 0 14px}\n  .gss-grill .gss-btn{display:block;width:100%;background:var(--gss-red);color:#fff;border:0;border-radius:6px;padding:18px;font-size:17px;font-weight:700;cursor:pointer;text-align:center;margin-top:8px;transition:opacity .15s;text-decoration:none}\n  .gss-grill .gss-btn:hover{opacity:.9}\n  @media(max-width:749px){\n    .gss-grill .gss-row,.gss-grill .gss-row.rev{flex-direction:column;gap:24px;margin-bottom:48px}\n    .gss-grill h2{font-size:24px}\n  }\n</style>\n\n<div class=\"gss-grill\">\n\n  <div class=\"gss-row\">\n    <div class=\"gss-col\">\n      <div class=\"gss-stars\">\n        <span class=\"gss-star\">★★★★★</span>\n        <span>4,8</span>\n        <small>(1&nbsp;240 avis)</small>\n      </div>\n      <h2>Enfin des grillades sans <span class=\"r\">stress</span> ni <span class=\"r\">ratés</span></h2>\n      <p>Invitez votre famille et vos amis sans vous soucier de la cuisson.</p>\n      <p><strong>Le panier de grill élimine le stress et vous donne le contrôle</strong> que vous attendez de votre barbecue. Concentrez-vous sur l’essentiel — <strong>le temps passé avec vos proches.</strong></p>\n      <button type=\"button\" class=\"gss-btn\">Dites adieu au stress du barbecue pour de bon</button>\n    </div>\n    <div class=\"gss-col\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/Rolling_Basket_Set_Effortlessly_grill_delicate_vegetables_seafoods_and_meats_on_the_BBQ_1.jpg?v=1779962684\" alt=\"Panier de grill avec légumes\" loading=\"lazy\">\n    </div>\n  </div>\n\n  <div class=\"gss-row rev\">\n    <div class=\"gss-col\">\n      <h2><span class=\"r\">Des résultats parfaits</span> sans avoir besoin d’être un expert</h2>\n      <p>D’autres produits exigent une technique parfaite. <strong>Le panier de grill fonctionne même si ce n’est pas votre cas.</strong></p>\n      <p><strong>Des résultats parfaits à chaque fois</strong>, peu importe votre expérience ou votre technique.</p>\n      <button type=\"button\" class=\"gss-btn\">Commandez votre panier de grill dès aujourd’hui</button>\n    </div>\n    <div class=\"gss-col\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/A_pair_of_heat_fire-resistant_BBQ_gloves_included_in_our_rolling_grill_basket_set_Designe_2_kopia.jpg?v=1779962683\" alt=\"Gants résistants à la chaleur inclus\" loading=\"lazy\">\n    </div>\n  </div>\n\n</div>\n\n<script>\n(function(){\n  document.querySelectorAll('.gss-grill .gss-btn').forEach(function(b){\n    b.addEventListener('click',function(){\n      // cible le formulaire produit de la section \"produit en vedette\" plus haut\n      var t = document.querySelector('product-form')\n           || document.querySelector('form[action*=\"/cart/add\"]');\n      if(t){ t.scrollIntoView({behavior:'smooth', block:'center'}); }\n      else { window.scrollTo({top:0, behavior:'smooth'}); }\n    });\n  });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_zKab9F": {
       "type": "faq",
       "blocks": {
         "item_6KjHAL": {
           "type": "item",
           "settings": {
-            "title": "Pourquoi ai-je besoin de bouchons d’oreilles pour rouler ?",
-            "content": "<p>Vous connaissez ce bruit de vent intense que l’on ressent à grande vitesse ?Y être exposé ne serait-ce que pendant 10 minutes peut provoquer ces redoutables sifflements d’oreilles. Ce phénomène n’est pas seulement gênant, il peut entraîner des dommages auditifs permanents lorsqu’il se répète dans le temps. Également appelé acouphènes, c’est malheureusement un problème auquel trop de motards expérimentés sont confrontés.C’est pourquoi notre mission est de prévenir ces sifflements d’oreilles permanents en proposant les bouchons d’oreilles les plus adaptés aux motards du marché.</p>"
+            "title": "Le panier de grill fonctionne-t-il sur tous les types de barbecue ?",
+            "content": "<p>Oui ! Le panier de grill fonctionne sur les barbecues à gaz, au charbon et électriques.<br/><br/>Il suffit de le poser sur la grille préchauffée, comme d’habitude.</p>"
           }
         },
         "item_GzyLne": {
           "type": "item",
           "settings": {
-            "title": "De combien de bruit réduisent-ils ?",
-            "content": "<p>Les bouchons d’oreilles Felino réduisent jusqu’à 27 dB de bruit nocif. Cela permet d’atténuer les bruits agressifs, comme le bruit du vent, à un niveau plus paisible, vous aidant à mieux vous concentrer sur la conduite, tout en continuant d’entendre la circulation autour de vous ainsi que votre intercom.Vous pouvez également tenir une conversation normale avec les bouchons en place, car ils atténuent moins les fréquences de la voix humaine.</p>"
+            "title": "Les aliments perdent-ils leur goût grillé avec le panier ?",
+            "content": "<p>Absolument pas ! Contrairement aux tapis ou accessoires qui bloquent la fumée,<br/><br/>le panier laisse passer les arômes pour un véritable goût de grillade.</p>"
           }
         },
         "item_8W9UxA": {
           "type": "item",
           "settings": {
-            "title": "Mes oreilles me feront-elles mal après utilisation ?",
-            "content": "<p>Non ! C’est justement l’un de leurs plus grands atouts. Fabriqués en silicone souple de qualité médicale, vous oublierez même que vous les portez. Confortables pour un port toute la journée.Contrairement aux autres bouchons d’oreilles, ils se logent discrètement dans le conduit auditif, ce qui évite les frottements contre le casque – la principale cause d’irritation avec les bouchons en mousse classiques.</p>"
+            "title": "Faut-il utiliser de l’huile pour éviter que ça colle ?",
+            "content": "<p>Non, et c’est justement tout l’intérêt !<br/><br/>Le panier fonctionne sans huile, marinade ou traitement spécial.</p>"
           }
         },
         "item_YmKPVN": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps prend la livraison ?",
-            "content": "<p>La livraison prend entre 5 et 7 jours ouvrés, auxquels s’ajoutent 1 à 2 jours de traitement de la commande.</p>"
+            "title": "Puis-je cuire de grosses pièces comme du poulet ?",
+            "content": "<p>Oui ! Le panier est adapté aussi bien aux petites pièces (crevettes)<br/><br/>qu’aux morceaux plus épais comme des blancs de poulet ou des steaks.</p>"
           }
         },
         "item_Yjp7qX": {
           "type": "item",
           "settings": {
-            "title": "D'autres questions ?",
-            "content": "<p>N’hésitez pas à contacter notre service client:</p><p>contact@myfelino.com</p>"
+            "title": "Quelles sont les dimensions du panier ?",
+            "content": "<p>Dimensions : <strong>30 cm x 9 cm</strong></p><ul><li>Longueur : 30 cm<br/></li><li>Largeur : 9 cm</li></ul>"
+          }
+        },
+        "item_UCd8Yz": {
+          "type": "item",
+          "settings": {
+            "title": "Que se passe-t-il si je ne suis pas satisfait ?",
+            "content": "<p>Vous bénéficiez de 30 jours satisfait ou remboursé.<br/><br/>Retournez simplement le produit et recevez un remboursement rapide.</p><p><br/>en cas de problème, nous vous aidons immédiatement (remplacement ou remboursement).</p>"
+          }
+        },
+        "item_CFKg7z": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi est-il meilleur que du papier aluminium ?",
+            "content": "<p>Le papier aluminium bloque la chaleur et les saveurs,<br/><br/>ne permet pas d’obtenir de vraies marques de grill et n’est pas réutilisable.</p><p>À haute température, il peut même libérer des substances indésirables.</p><p>Le panier, lui, permet une cuisson directe,<br/><br/>avec une vraie chaleur et un goût authentique de barbecue.</p>"
           }
         }
       },
@@ -170,7 +197,9 @@
         "item_GzyLne",
         "item_8W9UxA",
         "item_YmKPVN",
-        "item_Yjp7qX"
+        "item_Yjp7qX",
+        "item_UCd8Yz",
+        "item_CFKg7z"
       ],
       "name": "FAQ",
       "settings": {
@@ -298,12 +327,27 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_dL9adf": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .gss-vs{--gss-red:#e23a3a;--gss-green:#28a745;max-width:1100px;margin:0 auto;padding:40px 20px;font-family:inherit}\n  .gss-vs .gss-head{text-align:center;margin-bottom:32px}\n  .gss-vs h2{font-size:30px;line-height:1.1;font-weight:800;text-transform:uppercase;letter-spacing:.5px;margin:0 0 12px}\n  .gss-vs h2 .r{color:var(--gss-red)}\n  .gss-vs .gss-sub{font-size:16px;color:#444;margin:0;max-width:640px;margin-left:auto;margin-right:auto}\n  .gss-vs .gss-cols{display:flex;gap:24px;align-items:stretch}\n  .gss-vs .gss-card{flex:1;min-width:0;border:1px solid #eee;border-radius:10px;overflow:hidden;background:#fff;display:flex;flex-direction:column}\n  .gss-vs .gss-card.win{border:2px solid var(--gss-red);box-shadow:0 6px 24px rgba(226,58,58,.12)}\n  .gss-vs .gss-card img{width:100%;height:220px;object-fit:cover;display:block}\n  .gss-vs .gss-body{padding:22px}\n  .gss-vs .gss-card h3{font-size:20px;font-weight:800;margin:0 0 16px;text-transform:uppercase}\n  .gss-vs .gss-card.win h3{color:var(--gss-red)}\n  .gss-vs ul{list-style:none;margin:0;padding:0}\n  .gss-vs li{display:flex;gap:10px;align-items:flex-start;font-size:15px;line-height:1.45;color:#222;padding:9px 0;border-bottom:1px solid #f2f2f2}\n  .gss-vs li:last-child{border-bottom:0}\n  .gss-vs .ic{flex:0 0 auto;font-weight:700}\n  .gss-vs .win .ic{color:var(--gss-green)}\n  .gss-vs .lose .ic{color:var(--gss-red)}\n  @media(max-width:749px){\n    .gss-vs .gss-cols{flex-direction:column}\n    .gss-vs h2{font-size:23px}\n    .gss-vs .gss-card img{height:180px}\n  }\n</style>\n\n<div class=\"gss-vs\">\n\n  <div class=\"gss-head\">\n    <h2>Pourquoi le panier de grill <span class=\"r\">surpasse</span> tous les autres</h2>\n    <p class=\"gss-sub\">Pendant que d’autres produits promettent, nous livrons les résultats que vous méritez.</p>\n  </div>\n\n  <div class=\"gss-cols\">\n\n    <div class=\"gss-card win\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/1_b09e6112-a333-4b65-8883-587a055e9845.webp?v=1779963544\" alt=\"Panier de grill\" loading=\"lazy\">\n      <div class=\"gss-body\">\n        <h3>Panier de grill</h3>\n        <ul>\n          <li><span class=\"ic\">✅</span> Diffusion de chaleur uniforme</li>\n          <li><span class=\"ic\">✅</span> La fumée et les arômes de grillade pénètrent parfaitement</li>\n          <li><span class=\"ic\">✅</span> Idéal pour tous les aliments — de la viande juteuse aux légumes</li>\n          <li><span class=\"ic\">✅</span> Des résultats dignes d’un professionnel</li>\n        </ul>\n      </div>\n    </div>\n\n    <div class=\"gss-card lose\">\n      <img src=\"https://cdn.shopify.com/s/files/1/1001/9337/0459/files/5_7.jpg?v=1779963545\" alt=\"Autres solutions\" loading=\"lazy\">\n      <div class=\"gss-body\">\n        <h3>Autres solutions</h3>\n        <ul>\n          <li><span class=\"ic\">❌</span> Chaleur irrégulière — risque de brûler ou de rater la cuisson</li>\n          <li><span class=\"ic\">❌</span> Bloque la fumée — moins de goût grillé</li>\n          <li><span class=\"ic\">❌</span> Limité — peu adapté aux petits ou aliments fragiles</li>\n          <li><span class=\"ic\">❌</span> Difficile d’obtenir une cuisson homogène</li>\n        </ul>\n      </div>\n    </div>\n\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "featured_product_CtnkP8",
+    "custom_liquid_Rt9Kgc",
     "faq_zKab9F",
-    "multi_column_LQJtGz"
+    "multi_column_LQJtGz",
+    "custom_liquid_dL9adf"
   ]
 }
