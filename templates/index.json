@@ -103,6 +103,19 @@
     "multi_column_hpmdnb": {
       "type": "multi-column",
       "blocks": {
+        "item_RXJNyA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_14_juin_2026_21_47_10.png",
+            "column_size": "3",
+            "title": "Julien 43 ans",
+            "heading_tag": "h4",
+            "content": "<p>Trois mois. Mon ventre a vraiment changé. C'est progressif mais j'ai de très bon résultats.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_UDjLVV": {
           "type": "item",
           "settings": {
@@ -121,22 +134,9 @@
           "settings": {
             "image": "shopify://shop_images/hf_20260305_065742_b49e0bb2-0acf-4112-b32a-cf0d15eeff10.png",
             "column_size": "3",
-            "title": "Lukas 37 ans",
+            "title": "Laurent 42 ans",
             "heading_tag": "h4",
-            "content": "<p>Trois mois. Mon ventre a vraiment changé. C'est progressif mais j'ai de très bon résultats.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_RqzmgE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_18_mai_2026_16_23_05.png",
-            "column_size": "3",
-            "title": "Daniel 30 ans",
-            "heading_tag": "h4",
-            "content": "<p>4 mois avec Felino et j’ai perdu 12 kg. Avant, j’allais 6 jours par semaine à la salle. Tous les jours poulet et riz. La balance ne bougeait pas d’un millimètre. Au final, le problème, c’était le cortisol tout le long. Avec Felino, tout a changé. Je m’entraîne maintenant beaucoup moins, je mange plus… et pourtant je continue de perdre du poids.</p>",
+            "content": "<p>J'avais cette fatigue de fond qui me bouffait depuis des années. Mon ventre a dégonflé en parallèle, je m'y attendais pas autant. Aujourd'hui je tiens la journée sans café.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -149,7 +149,20 @@
             "column_size": "3",
             "title": "Thomas 41 ans",
             "heading_tag": "h4",
-            "content": "<p>Honnêtement, j’étais super sceptique. Mais j’ai testé Felino, notamment grâce à la garantie satisfait ou remboursé. Après environ un mois, ma femme m’a dit que mon visage paraissait plus fin. Je pensais que c’était un hasard. Mais après 2,5 mois, mon ventre était tellement plat que, pour la première fois depuis des années, mes abdos étaient visibles. J’étais vraiment choqué de voir à quel point ça fonctionnait.</p>",
+            "content": "<p>Le ventre est parti progressivement, c'est ce qui m'a fait continuer. Sceptique au départ comme de nombreuses je recommande aujourd'hui, plus de coup de barre vers 15h en bonus.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RqzmgE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_mai_2026_16_23_05.png",
+            "column_size": "3",
+            "title": "Daniel 38 ans",
+            "heading_tag": "h4",
+            "content": "<p>Je m'énervais pour rien et mes gosses en faisaient les frais. Aujourd'hui je suis plus calme, mes enfants l'ont remarqué et accessoirement j'ai perdu ma bidoche...</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -160,22 +173,9 @@
           "settings": {
             "image": "shopify://shop_images/hf_20260305_072219_d2d662ba-8bc6-4664-a2aa-4c7f34d53af3.png",
             "column_size": "3",
-            "title": "Michael 28 ans",
+            "title": "Mickaël 37 ans",
             "heading_tag": "h4",
-            "content": "<p>Je n’ai pas cru un mot de Felino. Mais je l’ai quand même commandé, grâce à la garantie satisfait ou remboursé. Et honnêtement, je n’avais plus d’autres options. J’ai essayé le keto, le jeûne, j’ai arrêté l’alcool et la cigarette. J’ai compté chaque calorie, je me suis entraîné 5 jours par semaine. Rien. Aucune énergie toute la journée, aucune envie de sexe et mon ventre ne bougeait pas. Après 5 mois avec Felino, mon visage est redevenu défini et mon ventre est aussi plat que jamais. Désolé d’avoir douté de toi Felino !!!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_RXJNyA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_14_juin_2026_21_47_10.png",
-            "column_size": "3",
-            "title": "Julien 43 ans",
-            "heading_tag": "h4",
-            "content": "<p>Trois mois. Mon ventre a vraiment changé. C'est progressif mais j'ai de très bon résultats.</p>",
+            "content": "<p>Mon visage a perdu son côté bouffi en 2 mois et demi. Je dors d'une traite. Et ma libido est revenue, j'avais mis ça sur le compte de l'âge.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -183,12 +183,12 @@
         }
       },
       "block_order": [
+        "item_RXJNyA",
         "item_UDjLVV",
         "item_9YyFAx",
-        "item_RqzmgE",
         "item_FpxBCL",
-        "item_cJJUcn",
-        "item_RXJNyA"
+        "item_RqzmgE",
+        "item_cJJUcn"
       ],
       "name": "Multi-column",
       "settings": {
