@@ -110,7 +110,20 @@
             "column_size": "3",
             "title": "Marc 45 ans",
             "heading_tag": "h4",
-            "content": "<p>Mes poignées d'amour ont commencé à fondre vers la 4e semaine. Le matin je me lève moins fatigué, j'ai vraiment du l'énergie toute la journée.</p>",
+            "content": "<p>Mes poignées d'amour ont commencé à fondre vers la 4e semaine. Le matin je me lève moins fatigué et j'ai vraiment du jus toute la journée.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9YyFAx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/hf_20260305_065742_b49e0bb2-0acf-4112-b32a-cf0d15eeff10.png",
+            "column_size": "3",
+            "title": "Lukas 37 ans",
+            "heading_tag": "h4",
+            "content": "<p>Trois mois. Mon ventre a vraiment changé. C'est progressif mais j'ai de très bon résultats.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -142,19 +155,6 @@
             "link_style": "link"
           }
         },
-        "item_9YyFAx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/hf_20260305_065742_b49e0bb2-0acf-4112-b32a-cf0d15eeff10.png",
-            "column_size": "3",
-            "title": "Lukas 37 ans",
-            "heading_tag": "h4",
-            "content": "<p>Je n’ai pas compris pendant des années pourquoi je n’arrivais tout simplement pas à perdre du poids. Puis je suis tombé sur Felino et la façon dont ils expliquaient ce que le cortisol fait au corps — et là, j’ai eu un déclic. C’était ça le problème qui me bloquait depuis tout ce temps. 7 mois plus tard, j’ai perdu 22 kg. Mon énergie est au maximum et j’ai enfin l’impression que mon corps travaille avec moi, et non contre moi.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_cJJUcn": {
           "type": "item",
           "settings": {
@@ -173,9 +173,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_14_juin_2026_21_47_10.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julien 43 ans",
             "heading_tag": "h4",
-            "content": "<p>Trois mois et le ventre a vraiment changé et je ne grignote plus le soir. Je carbure sans café jusqu'à 18h.</p>",
+            "content": "<p>Trois mois. Mon ventre a vraiment changé. C'est progressif mais j'ai de très bon résultats.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -184,9 +184,9 @@
       },
       "block_order": [
         "item_UDjLVV",
+        "item_9YyFAx",
         "item_RqzmgE",
         "item_FpxBCL",
-        "item_9YyFAx",
         "item_cJJUcn",
         "item_RXJNyA"
       ],
